@@ -1,0 +1,5960 @@
+[
+ {
+  "id": "dlg_0DE",
+  "en": "<FACE:06>The Holy Cup was made by Mericle the Sage.<WAIT><CLR><FACE:0C>But Mericle's been dead for ages. Snug in a tomb by now, I bet.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0DF",
+  "en": "<FACE:06>Dorothy is dying to know who made the Holy Cup.<WAIT><CLR><FACE:0C>But watching her fume is way too much fun, so we're not telling her!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0E0",
+  "en": "<FACE:06>It seems you can't tell the Holy Cup apart just by looking at it.<WAIT><CLR><FACE:0C>And I hear there are fake cups, too.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0E1",
+  "en": "<FACE:06>The Fly Shroom is<PAUSE> a strange mushroom that grows<PAUSE> only in dangerous caves.<WAIT><CLR><FACE:0C>What's more,<PAUSE> it's not just delicious to eat...<WAIT><CLR>They say it cures any illness!<PAUSE> It's a wonderful mushroom!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0E2",
+  "en": "<FACE:46>But <NICK2>,<PAUSE> I'm sure I taught you this before.<WAIT><CLR>Were you dozing off in class?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0E3",
+  "en": "<FACE:06>Hurry<PAUSE> and look for a place where Fly Shrooms might grow.<WAIT><CLR><FACE:0C>Hang in there!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0E4",
+  "en": "<FACE:06>What's wrong?<WAIT> You know where to go, don't you?<PAUSE> Hurry along now.<WAIT><CLR><FACE:0C>Dawdle, and you'll<PAUSE> flunk!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0E5",
+  "en": "<FACE:06>Defeating a monster is<PAUSE> no easy task.<PAUSE> Stay on your guard out there.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0E6",
+  "en": "<FACE:06>Well, well.<PAUSE> Is the monster hunt going smoothly?<WAIT><CLR><FACE:0C>Do your best!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0E7",
+  "en": "<FACE:06>What's wrong?<PAUSE> Aren't you headed to Trapsalot Dungeon?<WAIT><CLR><FACE:0C>If you don't hurry,<PAUSE> you'll flunk!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0E8",
+  "en": "<FACE:06>Pink Coral?<PAUSE> If I recall,<PAUSE> it's said to be somewhere in the Coral Forest<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><CLR><FACE:0C>It's such pretty coral!<PAUSE> I want some, too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0E9",
+  "en": "<FACE:06>The Coral Forest is a complicated maze.<WAIT><CLR><FACE:0C>What's more,<PAUSE> there are whirlpools everywhere.<PAUSE> It's a very dangerous place!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0EB",
+  "en": "<FACE:06>The sea is a hard place for those who can't swim.<PAUSE> You'll need to be prepared.<WAIT><CLR><FACE:0C>If you sink like a stone,<PAUSE> use a magic swim ring!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0EC",
+  "en": "<FACE:16>The Magic Forest moves all over the place, so no one knows where it is.<WAIT><CLR><FACE:0C>I bet the forest is the one that's lost!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0ED",
+  "en": "<FACE:36>Dorothy has been nothing but angry lately.<WAIT><CLR><FACE:0C>Doesn't she know anger gives you wrinkles?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0EE",
+  "en": "<FACE:26>So you're off to the Magic Forest. Then let me give you a homemade lunch.<WAIT><CLR><FACE:0C>Don't forget your canteen!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0EF",
+  "en": "<FACE:64>A lunch made by Lord Seravi's own hands... I shall treasure it forever!<WAIT><CLR><FACE:0C>Better eat it soon, or it'll go bad.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0F0",
+  "en": "<FACE:06>The Maze of Trials? I've never heard of it.<WAIT><CLR><FACE:0C>Maybe it just opened?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0F1",
+  "en": "<FACE:06>The guardian of the Maze of Trials? I've never heard of it.<WAIT><CLR>We don't know how strong it is, so you must be careful.<WAIT><CLR><FACE:0C>Collect items and get stronger!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0F2",
+  "en": "<FACE:06>Some items can be used by some people but not others, so do be careful.<WAIT><CLR><FACE:0C>Some items can only be used by <NICK2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0F3",
+  "en": "<NL>.<PAUSE>.<PAUSE>.<PAUSE>.<PAUSE>.<PAUSE><NL><FACE:06>Oh?<PAUSE> You're awake?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0F6",
+  "en": "<FACE:06><PAUSE>This is the nurse's office at Urara School of Magic.<WAIT><CLR><FACE:0C>You got hurt<PAUSE> and couldn't move.<WAIT><CLR><FACE:06>Someone happened to come by,<PAUSE> and that kind person carried you all the way here.<WAIT><CLR><FACE:0C>Lucky you<HEART><WAIT><CLR><FACE:16>But because of that, a whole day has gone by.<WAIT><CLR><FACE:0C>Well, you're all better now, so it can't be helped!<WAIT><CLR><FACE:06>Quite right.<WAIT><CLR><FACE:46>Now listen.<PAUSE> Don't overdo it.<WAIT><FACE:06> You won't always be lucky enough to be <SCROLL>rescued, you know.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0F4",
+  "en": "<PAUSE><FACE:16>By the way, <NICK2>,<PAUSE> you look a little tired.<WAIT><CLR>Boo-boos,<PAUSE> boo-boos,<PAUSE><FACE:26> fly away!<END>"
+ },
+ {
+  "id": "dlg_0F5",
+  "en": "<FACE:06>.<PAUSE>.<PAUSE>.<PAUSE>There we are. I've cast a healing spell on you.<WAIT><CLR>Now<PAUSE> you can get back to your graduation exam, good as new.<WAIT><CLR><FACE:0C>Well then, good luck<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_0EA",
+  "en": "<FACE:17>The Holy Cup! I'm looking for it too, but I don't know where it is.<WAIT><CLR>If only I knew who made it...<WAIT><END>"
+ },
+ {
+  "id": "dlg_0F8",
+  "en": "<FACE:27>The one who made the Holy Cup was Mericle!<WAIT><CLR><FACE:07>Mericle was buried with every last belonging, so the Cup must be in that tomb!<WAIT><CLR>Now, I'll tell you where the tomb is.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0F9",
+  "en": "<FACE:47>That Seravi! He kept Mericle a secret from me! Ooh, I'm SO mad!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0FA",
+  "en": "<FACE:07>Fly Shrooms, hmm...<WAIT> I saw one at a magic shop years ago,<PAUSE> and it was so <SCROLL>expensive, I was shocked!<WAIT><CLR>It must be a really rare mushroom.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0FB",
+  "en": "<FACE:07>A dangerous cave?<PAUSE> Let me see<PAUSE>.<PAUSE>.<PAUSE>.<PAUSE> That scary teacher might know.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0FC",
+  "en": "<FACE:27>Oh?<PAUSE> Did you find the mushroom?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0FD",
+  "en": "<FACE:07>Defeating a monster?<PAUSE> My, what a terribly hard thing to make you do.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0FE",
+  "en": "<CLR><FACE:07>Well,<PAUSE> do your best, and try not to die!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0FF",
+  "en": "<CLR><FACE:07>Shiine is MY apprentice.<PAUSE> A monster hunt like this is a piece of cake for him!<WAIT><CLR><FACE:27>Oh-ho-ho-ho-ho!<WAIT><END>"
+ },
+ {
+  "id": "dlg_100",
+  "en": "<FACE:27>Oh? How's it going?<WAIT><CLR>Do your best to graduate,<PAUSE> and grow up into a splendid adult like me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_101",
+  "en": "<FACE:07>Oh? Still wandering around here?<PAUSE> Ah!<FACE:27><WAIT> Don't tell me you're scared of the monster?<WAIT><END>"
+ },
+ {
+  "id": "dlg_102",
+  "en": "<FACE:17>Knowing the name of something but not where it is...<PAUSE> happens all the time.<WAIT><CLR>If you had a hint,<PAUSE> it might just click!<WAIT><END>"
+ },
+ {
+  "id": "dlg_103",
+  "en": "<FACE:07>Hmm.<PAUSE> You're going to the Coral Forest?<PAUSE> I hear Pink Coral is gorgeous.<WAIT><CLR><FACE:27>I want some too<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_104",
+  "en": "<FACE:07>Huh?<PAUSE> Why am I always in the library,<PAUSE> you ask?<WAIT><CLR>Well,<PAUSE> there are loads of useful<PAUSE> books in here.<WAIT><END>"
+ },
+ {
+  "id": "dlg_105",
+  "en": "<FACE:17>Oh my... a wrinkle, right here... Ugh, is my skin over the hill...?<SCROLL><PAUSE>.<PAUSE>.<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><CLR><PAUSE><FACE:47>What are you all staring at?! This isn't a sideshow!<WAIT><END>"
+ },
+ {
+  "id": "dlg_106",
+  "en": "<FACE:07>Still, how does Principal Urara stay so young? I'm so jealous.<WAIT><CLR><FACE:07>I know!<PAUSE> You lot, go ask Principal Urara her secret to staying young!<WAIT><END>"
+ },
+ {
+  "id": "dlg_107",
+  "en": "<FACE:47>Come to think of it, these wrinkles are all because Seravi makes me so mad!<WAIT><SCROLL>Grrrr!!<WAIT><CLR><FACE:57>Ah,<PAUSE> mustn't get mad,<PAUSE> mustn't get mad{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_108",
+  "en": "<FACE:07>The Maze of Trials, hmm... Sounds just like something out of a role-playing game.<WAIT><END>"
+ },
+ {
+  "id": "dlg_109",
+  "en": "<FACE:07>What's this flyer?<WAIT><CLR>Everything must go!<NL><PAUSE>Maze of Trials:<NL><PAUSE>Tons of rare items!<NL><PAUSE><FACE:27>Ooh, how exciting!<WAIT><END>"
+ },
+ {
+  "id": "dlg_10A",
+  "en": "<FACE:07>They say the Maze of Trials is a treasure trove of rare items. I want to go!<WAIT><END>"
+ },
+ {
+  "id": "dlg_11E",
+  "en": "<FACE:08>Oh, yes,<PAUSE> I should teach you<PAUSE> the Diary Spell.<PAUSE><CLR>Do you have something<PAUSE> to write it down with?<WAIT><CLR><NL><PASSWORD><WAIT><CLR>Did you get all that?<PAUSE> Well then,<PAUSE> off you go!<WAIT><END>"
+ },
+ {
+  "id": "dlg_120",
+  "en": "<FACE:08>Oh my, my!<PAUSE> Dear me!<NL><END>"
+ },
+ {
+  "id": "dlg_122",
+  "en": "<CALL:$4C9C><PAUSE>So you're continuing<PAUSE> your exam today?<PAUSE> Do your very best, dears.<WAIT><END>"
+ },
+ {
+  "id": "dlg_10B",
+  "en": "<CALL:$4C9C><PAUSE>If you can't find out<PAUSE> where the Holy Cup is...<WAIT><CLR><PAUSE>why not ask<PAUSE> Seravi<PAUSE> or Dorothy?<WAIT><END>"
+ },
+ {
+  "id": "dlg_10C",
+  "en": "<CALL:$4C9C>Gargle with the Holy Cup and you'll cure any cold!<WAIT><SCROLL>Good children gargle <SCROLL>once a day!<WAIT><SCROLL>Oh, and I saw Dorothy <SCROLL>in the library, reading <SCROLL>up on that Cup!<WAIT><SCROLL><PAUSE>.<PAUSE>.<PAUSE>.<SCROLL><PAUSE>.<PAUSE>.<PAUSE>.<PAUSE>Phew.<SCROLL><PAUSE>Talking fast once in a while <SCROLL><PAUSE>wears me out.<WAIT><END>"
+ },
+ {
+  "id": "dlg_10D",
+  "en": "<CALL:$4C9C><PAUSE>If you can't tell<PAUSE> which cup is which,<PAUSE> why not go <SCROLL><PAUSE>ask Dorothy?<WAIT><END>"
+ },
+ {
+  "id": "dlg_10F",
+  "en": "<CALL:$4C9C><PAUSE>Fly Shrooms?<PAUSE> Let me see...<PAUSE> First, why not ask someone<SCROLL><PAUSE> what sort of place<SCROLL><PAUSE> they grow in?<SCROLL><PAUSE> That might help.<WAIT><END>"
+ },
+ {
+  "id": "dlg_110",
+  "en": "<CALL:$4C9C><PAUSE>Fly Shrooms<PAUSE> only grow<PAUSE> in such<PAUSE> scary places?<WAIT><CLR><PAUSE>How amazing.<PAUSE> How frightening.<PAUSE> Whatever shall we do?<WAIT><END>"
+ },
+ {
+  "id": "dlg_111",
+  "en": "<CALL:$4C9C><PAUSE>How are things going?<WAIT><CLR><PAUSE>I do hope<PAUSE> you'll be able<PAUSE> to graduate.<WAIT><END>"
+ },
+ {
+  "id": "dlg_112",
+  "en": "<CALL:$4C9C><PAUSE>Monsters, you see,<PAUSE> are very,<PAUSE> very scary.<WAIT><CLR><PAUSE>So<PAUSE> be careful<PAUSE> out there.<WAIT><END>"
+ },
+ {
+  "id": "dlg_113",
+  "en": "<CALL:$4C9C><PAUSE>Want to know<PAUSE> where the monster<PAUSE> is?<PAUSE> Then<PAUSE> ask Mr. Rascal,<PAUSE> dear.<WAIT><END>"
+ },
+ {
+  "id": "dlg_114",
+  "en": "<CALL:$4C9C><PAUSE>How are things?<PAUSE> Don't get hurt,<PAUSE> and watch out<PAUSE> for traps.<WAIT><END>"
+ },
+ {
+  "id": "dlg_115",
+  "en": "<CALL:$4C9C><PAUSE>Pink Coral?<PAUSE> Well, coral<PAUSE> grows<PAUSE> in the sea, dear.<WAIT><END>"
+ },
+ {
+  "id": "dlg_116",
+  "en": "<CALL:$4C9C><PAUSE>You look troubled.<PAUSE> Well then,<PAUSE> I'll tell you.<SCROLL><PAUSE>Pink Coral, you see,<SCROLL><PAUSE>grows near the<SCROLL><PAUSE>Dragon Palace,<SCROLL><PAUSE>in the Coral<SCROLL><PAUSE>Forest.<SCROLL><PAUSE>The Dragon Palace<SCROLL><PAUSE>is famous, so<SCROLL><PAUSE>I'm sure<SCROLL><PAUSE>you know where it is.<SCROLL><PAUSE>Now,<PAUSE> everyone,<PAUSE> take care<SCROLL><PAUSE>and off you go.<SCROLL><PAUSE>.<PAUSE>.<PAUSE>.<WAIT> Oh, yes!<PAUSE> Please don't tell<SCROLL><PAUSE>Mr. Rascal<SCROLL><PAUSE>that I told<SCROLL><PAUSE>you all this.<WAIT><END>"
+ },
+ {
+  "id": "dlg_117",
+  "en": "<CALL:$4C9C><PAUSE>The Coral Forest<PAUSE> near<PAUSE> the Dragon Palace?<PAUSE> Well, there's<SCROLL><PAUSE>a lovely<SCROLL><PAUSE>legend about it.<SCROLL><PAUSE>Would you like<PAUSE> to hear it?<WAIT><CLR><PAUSE>.<PAUSE>.<PAUSE>.<PAUSE>I see,<PAUSE> you're in a hurry.<PAUSE> Then<PAUSE> another time,<PAUSE> when you have<SCROLL><PAUSE>time, I'll tell<PAUSE> you all about it.<WAIT><END>"
+ },
+ {
+  "id": "dlg_118",
+  "en": "<CALL:$4C9C><PAUSE>Skin care<PAUSE> starts with a face wash.<PAUSE> Splash,<PAUSE> splash,<PAUSE> splash...<SCROLL><PAUSE>Splash,<PAUSE> splash,<PAUSE> splash...<SCROLL><PAUSE>Splash,<PAUSE> splash,<PAUSE> splash...<WAIT><END>"
+ },
+ {
+  "id": "dlg_119",
+  "en": "<CALL:$4C9C><PAUSE>The secret of youth<PAUSE> is washing your face<PAUSE> with Holy Water.<WAIT><CLR><PAUSE>It has moisturizers<PAUSE> and collagen<PAUSE> in it, you know.<WAIT><CLR><PAUSE>Let me tell you<PAUSE> where to find<PAUSE> the Magic Forest, home of the Holy Water.<WAIT><END>"
+ },
+ {
+  "id": "dlg_11A",
+  "en": "<CALL:$4C9C><PAUSE>Did you get<PAUSE> the Holy Water?<PAUSE> You'll need a container.<WAIT><END>"
+ },
+ {
+  "id": "dlg_11B",
+  "en": "<CALL:$4C9C><PAUSE>Oh, that Mr. Rascal<PAUSE>...<PAUSE> He seems so fired up.<WAIT><END>"
+ },
+ {
+  "id": "dlg_11C",
+  "en": "<CALL:$4C9C><PAUSE>Oh, that Mr. Rascal<PAUSE>...<PAUSE> I think he forgot<PAUSE> to tell you something.<WAIT><END>"
+ },
+ {
+  "id": "dlg_11D",
+  "en": "<CALL:$4C9C><PAUSE>Oh, that Mr. Rascal<PAUSE>...<PAUSE> He's such a crybaby.<WAIT><END>"
+ },
+ {
+  "id": "dlg_10E",
+  "en": "<NAMEC8D3><END>"
+ },
+ {
+  "id": "dlg_121",
+  "en": "<FACE:09>Ah-<FACE:49>CHOO!<PAUSE> Gargling with the Holy Cup supposedly cures any cold!<WAIT><CLR>Hurry up and fetch it, you brats!<WAIT><END>"
+ },
+ {
+  "id": "dlg_124",
+  "en": "<FACE:09>Ah...<PAUSE>ah...<PAUSE> ah...<PAUSE> ah-<FACE:49>CHOO!<WAIT> At this rate my nose will run clean dry!<WAIT><CLR>Hurry and fetch the Holy Cup! Gargle with it, and any cold is cured!<END>"
+ },
+ {
+  "id": "dlg_125",
+  "en": "<FACE:09>Ah-<PAUSE><FACE:49>CHOO!<FACE:39> Ah-<PAUSE>CHOO!<WAIT><CLR><FACE:09>Hur<PAUSE>ry<PAUSE> ub<PAUSE> ad ged id!<WAIT><END>"
+ },
+ {
+  "id": "dlg_126",
+  "en": "<FACE:49>Coming to ME for mushroom hints? You've got some nerve!<WAIT><CLR>I could tell you,<PAUSE> but then it's no test!<PAUSE> Try Seravi, maybe...<PAUSE><FACE:09> Whoops! Close one!<WAIT><END>"
+ },
+ {
+  "id": "dlg_127",
+  "en": "<FACE:49>You're back, you brats?! Pretending to need hints when you just missed me, eh?<WAIT><CLR><FACE:29>Your teacher is overjoyed!<WAIT><END>"
+ },
+ {
+  "id": "dlg_128",
+  "en": "<FACE:49>Still dawdling around a place like this?!<WAIT><CLR>Get serious, or my whip goes crack-crack<PAUSE>-CRACK!<WAIT><END>"
+ },
+ {
+  "id": "dlg_129",
+  "en": "<FACE:29>How's it going, you brats?!<PAUSE> Giving it your all, full blast?!<WAIT> Ha-ha-ha-ha!<WAIT><END>"
+ },
+ {
+  "id": "dlg_12A",
+  "en": "<FACE:29>Well done!<PAUSE> You figured out that I know where the monster is!<WAIT><CLR><FACE:49>The monster is incredibly strong!<PAUSE> If I went, I'd flatten it in one blow, but<WAIT><SCROLL> then it wouldn't be a test!<WAIT><CLR>So<PAUSE> you'll have to beat it with your own strength!<WAIT><CLR>The monster is in Trapsalot Dungeon!!<WAIT><FACE:29> Ha-ha-ha-ha!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_12B",
+  "en": "<FACE:49>Listen up!<PAUSE> Watch out for the Copycat in the dungeon!<WAIT> It's a weakling, but<SCROLL><PAUSE> it's great at <SCROLL>turning into <SCROLL>other monsters!<WAIT><CLR>Bring back a Trophy to prove you beat it,<PAUSE> or you won't pass the exam!<WAIT><END>"
+ },
+ {
+  "id": "dlg_12D",
+  "en": "<FACE:49>What's the holdup, brats?!<PAUSE> Go get that Pink Coral already!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_12E",
+  "en": "<FACE:49>Enough!<PAUSE> You can't rely on other people for everything!<WAIT><CLR>You must clear the graduation exam all on your own!<WAIT><END>"
+ },
+ {
+  "id": "dlg_12F",
+  "en": "<FACE:09>I taught you all swimming properly in gym class!<WAIT><CLR><FACE:49>Don't tell me you can't swim?!<WAIT><FACE:29> Good! Then<PAUSE> get going already!<WAIT><END>"
+ },
+ {
+  "id": "dlg_130",
+  "en": "<FACE:09>What?! You can't find the Magic Forest?!<WAIT><FACE:49> Quit whining and look for it yourselves!<WAIT><END>"
+ },
+ {
+  "id": "dlg_131",
+  "en": "<FACE:09>Draw the Holy Water from the Holy Spring!<PAUSE> And look for a container in the forest!<WAIT><END>"
+ },
+ {
+  "id": "dlg_132",
+  "en": "<FACE:09>If you meet someone in trouble, be kind to them!<PAUSE><FACE:49> Or else it's the whip, crack-crack!<WAIT><END>"
+ },
+ {
+  "id": "dlg_133",
+  "en": "<FACE:09>The guardian of the Maze of Trials is<WAIT><CLR><PAUSE>the strongest ever!<PAUSE> Utterly invincible!<PAUSE> Dashing, crisp and dry!<PAUSE> Deeply honored!<WAIT><CLR>You lot will never beat it. Give up now while you still can!<WAIT><END>"
+ },
+ {
+  "id": "dlg_134",
+  "en": "<FACE:09>Oh yes, I forgot something important.<WAIT><CLR>The maze's guardian sent me a map to the maze. Here, I'll give it to you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_135",
+  "en": "<FACE:19>At last, my pupils' trial<FACE:39> has come...<WAIT> They must beat the guardian and bring proof,<SCROLL> or they won't pass!<WAIT><CLR><FACE:49>As a teacher, what am I supposed to do?!<WAIT><END>"
+ },
+ {
+  "id": "sub_06_57BE",
+  "en": "<WAIT><CLR><FACE:49>As a teacher, what am I supposed to do?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_137",
+  "en": "<FACE:4A>At least find the items on your own!<WAIT><END>"
+ },
+ {
+  "id": "dlg_138",
+  "en": "<FACE:3A>At this rate, Rascal's gonna die of a cold!<WAIT><FACE:4A> Hurry up and find the Holy Cup!<WAIT><END>"
+ },
+ {
+  "id": "dlg_139",
+  "en": "<FACE:4A>Rascal's got a cold! Hurry up and go get it<FACE:3A>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_13A",
+  "en": "<FACE:0A>Hmph.<WAIT> You think I'd be nice enough to just tell you?<WAIT><CLR><FACE:4A>Dream on!<WAIT><END>"
+ },
+ {
+  "id": "dlg_13B",
+  "en": "<FACE:2A>So you came, you little runts.<WAIT> I'll tell you something good, just this once.<WAIT><CLR>Darkalot Cave<PAUSE> is the most dangerous place around.<WAIT> You might find mushrooms there.<WAIT><END>"
+ },
+ {
+  "id": "dlg_13C",
+  "en": "<FACE:0A>I went to the trouble of telling you something good.<WAIT> Now get moving.<WAIT><END>"
+ },
+ {
+  "id": "dlg_13D",
+  "en": "<FACE:2A>You want a hint?<WAIT> Good grief, what a pathetic bunch.<WAIT><CLR><FACE:0A>Rascal ought to know.<WAIT> Why don't you ask him?<WAIT><END>"
+ },
+ {
+  "id": "dlg_13E",
+  "en": "<FACE:0A>What are you dawdling for?!<WAIT><FACE:4A> Clear your task and hurry up and graduate already!<WAIT><END>"
+ },
+ {
+  "id": "dlg_13F",
+  "en": "<FACE:2A>Heh heh.<PAUSE> Let's see how well you runts can fight monsters.<PAUSE> I'll be watching closely.<WAIT><END>"
+ },
+ {
+  "id": "dlg_140",
+  "en": "<FACE:2A>Heh heh.<PAUSE> What's up, runts?<PAUSE> Found that Pink Coral yet?<WAIT><END>"
+ },
+ {
+  "id": "dlg_141",
+  "en": "<FACE:4A>Darn it,<PAUSE> that Rascal! For all his yelling, deep down he just adores his students...<WAIT><CLR><FACE:5A>What about me?! What about meee?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_142",
+  "en": "<FACE:0A>Pink Coral, huh<PAUSE>h.<PAUSE>.<PAUSE>. I wish Rascal would give me some as a present...<WAIT><CLR>...Hm?<FACE:4A><PAUSE> What're you looking at?!<PAUSE> Get going!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_143",
+  "en": "<FACE:4A>Don't count on your teachers!<WAIT><FACE:0A> But don't forget to listen to what they say.<WAIT><CLR><FACE:0A>Ms. Oyuki the snow woman is supposed to come for this exam too, but...<WAIT><END>"
+ },
+ {
+  "id": "dlg_144",
+  "en": "<FACE:4A>Skin care?!<WAIT> You think Rascal cares about stuff like that?!<WAIT><CLR><FACE:5A>...Actually, maybe he does care...<WAIT><FACE:1A> W-<PAUSE>what do I do...?<WAIT><END>"
+ },
+ {
+  "id": "dlg_145",
+  "en": "<FACE:2A>If you're going to the Magic Forest, I'll tell you something good!<WAIT><CLR><FACE:0A>Use a container item in front of the spring by the Holy Falls, and you'll<SCROLL> get Holy Water.<WAIT><END>"
+ },
+ {
+  "id": "dlg_147",
+  "en": "<FACE:0A>For some reason, Rascal knows a lot about this exam.<WAIT><END>"
+ },
+ {
+  "id": "dlg_148",
+  "en": "<FACE:0A>The maze guardian's other name is<PAUSE> the Wandering Demon Lord.<PAUSE> So I hear.<WAIT><END>"
+ },
+ {
+  "id": "dlg_149",
+  "en": "<FACE:0A>With soft teaching like Rascal's, you'll never graduate.<WAIT><END>"
+ },
+ {
+  "id": "dlg_14A",
+  "en": "<FACE:2B>Psst. Ms. Mayachon<PAUSE> wants Mr. Rascal to herself,<PAUSE> so she wants you<PAUSE> to graduate soon!<WAIT><END>"
+ },
+ {
+  "id": "dlg_14B",
+  "en": "<FACE:3B>My lovely children,<PAUSE> be careful not to get hurt!<WAIT><END>"
+ },
+ {
+  "id": "dlg_14C",
+  "en": "<FACE:0B>Looks like you're working hard.<WAIT><CLR><FACE:2B>The graduation exam is tough,<PAUSE> but you mustn't give up!<WAIT><END>"
+ },
+ {
+  "id": "dlg_14D",
+  "en": "<FACE:1B>Ah,<PAUSE> the exam is<PAUSE> such<PAUSE> a cruel,<PAUSE><FACE:3B> painful ordeal.<WAIT> If only<PAUSE><FACE:2B> I could take it for you...<WAIT><SCROLL><FACE:3B>But that,<PAUSE> alas,<PAUSE> can never be.<WAIT><END>"
+ },
+ {
+  "id": "dlg_14E",
+  "en": "<FACE:2B>Whenever you're in trouble, come see me here.<WAIT> I'll always lend an ear!<WAIT><END>"
+ },
+ {
+  "id": "dlg_14F",
+  "en": "<FACE:2B>If just walking down the hallway gets boring,<PAUSE> try jumping<PAUSE> or spinning around.<SCROLL> It's fun!<WAIT><END>"
+ },
+ {
+  "id": "dlg_150",
+  "en": "<FACE:0B>Treasure chests in mazes and caves<PAUSE> somehow refill once you step outside.<PAUSE><FACE:2B> Lucky!<WAIT><END>"
+ },
+ {
+  "id": "dlg_151",
+  "en": "<FACE:0B>When you don't know what to do,<PAUSE> try talking to lots of people.<WAIT><END>"
+ },
+ {
+  "id": "dlg_152",
+  "en": "<FACE:1B>Mazes and caves are full of monsters and traps, so be careful.<WAIT><END>"
+ },
+ {
+  "id": "dlg_153",
+  "en": "<FACE:0B>You can only carry two items at a time.<WAIT><CLR><FACE:1B>If you pick up a third,<PAUSE> you'll drop one of them,<PAUSE> so watch out.<WAIT><END>"
+ },
+ {
+  "id": "dlg_154",
+  "en": "<FACE:1B>Watch out for pickpockets,<PAUSE><FACE:3B> or they'll steal your items.<WAIT><END>"
+ },
+ {
+  "id": "dlg_155",
+  "en": "<FACE:1B>Every item can be used. But...<WAIT><CLR><FACE:2B>you'll have to figure out<PAUSE> how to use them yourself!<WAIT><END>"
+ },
+ {
+  "id": "dlg_156",
+  "en": "<FACE:1B>Rumor has it there are cursed items.<WAIT><CLR><FACE:4B>They say if you use one, something terrible happens!<WAIT><END>"
+ },
+ {
+  "id": "dlg_157",
+  "en": "<FACE:0B>It seems caves and mazes come in all sorts of shapes.<WAIT><CLR><FACE:2B>So even with the same test,<PAUSE> lots of different things can happen!<WAIT><END>"
+ },
+ {
+  "id": "dlg_158",
+  "en": "<FACE:2B>If you're lucky,<PAUSE> you might reach your goal right away!<WAIT><END>"
+ },
+ {
+  "id": "dlg_159",
+  "en": "<FACE:1B>In the sea, people who can't swim<PAUSE> can't fight at full strength.<WAIT><END>"
+ },
+ {
+  "id": "dlg_15A",
+  "en": "<FACE:1B>Everyone has a monster they're bad against.<PAUSE> Fighting that kind of foe is tough.<WAIT><END>"
+ },
+ {
+  "id": "dlg_15B",
+  "en": "<FACE:2B>Once you think you've reached your goal, go report to Principal Urara.<WAIT><CLR><FACE:1B>Otherwise, you won't pass the exam.<WAIT><END>"
+ },
+ {
+  "id": "dlg_15C",
+  "en": "<FACE:2B>Rumor has it<PAUSE> there's a secret maze under the school, but...<WAIT><FACE:1B> I wonder if it's true?<WAIT><END>"
+ },
+ {
+  "id": "dlg_15D",
+  "en": "<FACE:1B>Ms. Mayachon seems mean,<PAUSE> but deep down she's a teacher who really cares about you.<WAIT><END>"
+ },
+ {
+  "id": "dlg_15F",
+  "en": "<FACE:1B>Principal Urara's talks are long and slow,<PAUSE> but listen closely. It's all useful stuff!<WAIT><END>"
+ },
+ {
+  "id": "dlg_160",
+  "en": "<FACE:0B>Even if you collapse in a cave or maze, don't give up.<WAIT><CLR><FACE:2B>If you keep believing, someone up there is sure to help!<WAIT><END>"
+ },
+ {
+  "id": "dlg_161",
+  "en": "<FACE:1B>If you get hurt, don't push it. Come on back.<WAIT><CLR><FACE:2B>Go to the nurse's office, and Seravi will patch you up!<WAIT><END>"
+ },
+ {
+  "id": "dlg_162",
+  "en": "<FACE:2B>Some items can heal your injuries, too.<WAIT><END>"
+ },
+ {
+  "id": "dlg_163",
+  "en": "<FACE:1B>Even if you meet a monster too strong to beat, don't give up.<WAIT><CLR><FACE:2B>Gain experience and power up,<PAUSE> and someday you'll surely win!<WAIT><END>"
+ },
+ {
+  "id": "dlg_164",
+  "en": "<FACE:3B>Ms. Yoshiko, our school nurse, is in the hospital right now.<WAIT><CLR><FACE:1B>So we've asked Seravi to fill in for her in the nurse's office.<WAIT><END>"
+ },
+ {
+  "id": "dlg_165",
+  "en": "<FACE:0B>If you collapse in a cave or maze,<PAUSE> a whole day goes by just like that.<WAIT><END>"
+ },
+ {
+  "id": "dlg_166",
+  "en": "<FACE:0B>The mysterious Diary Spell Principal Urara teaches you is your password.<WAIT><SCROLL> It's a good idea<SCROLL> to write it down!<WAIT><END>"
+ },
+ {
+  "id": "dlg_167",
+  "en": "<FACE:09>Now then, first you'll pick your partners!<PAUSE><FACE:49> Come on!<PAUSE> Draw lots!<WAIT><END>"
+ },
+ {
+  "id": "dlg_168",
+  "en": "<FACE:09>Alright!<PAUSE> <NICK2>! Your partner is<PAUSE> <NICK>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_169",
+  "en": "<FACE:20><NICK> here<HEART><PAUSE> <NICK2>, let's do our best together<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_16A",
+  "en": "<FACE:00><NICK> here!<PAUSE> I hope we have a fun adventure!<WAIT><END>"
+ },
+ {
+  "id": "dlg_16B",
+  "en": "<FACE:00>Hiii! It's <NICK>!<WAIT> ...Wait,<PAUSE><FACE:10> aww, it's just <NICK2>...?<WAIT><END>"
+ },
+ {
+  "id": "dlg_16C",
+  "en": "<FACE:21>Yo!<PAUSE> <NICK2>!<PAUSE> No matter what, I'll protect you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_16D",
+  "en": "<FACE:01><NICK2>,<PAUSE> hey!<PAUSE><FACE:21> Let's give it our all!<WAIT><END>"
+ },
+ {
+  "id": "dlg_16E",
+  "en": "<FACE:11>Oh, it's <NICK2>.<WAIT><FACE:01> Well, with me around, there's nothing to be scared of!<WAIT><END>"
+ },
+ {
+  "id": "dlg_16F",
+  "en": "<FACE:31>Ack...<PAUSE> M-Ma...<PAUSE> <NICK2>?<FACE:11> ...<PAUSE>Well,<PAUSE> let's... give it our all, I guess...<WAIT><END>"
+ },
+ {
+  "id": "dlg_170",
+  "en": "<FACE:52>I knew it!<PAUSE> <NICK2> and I<PAUSE> are bound together by destiny<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_171",
+  "en": "<FACE:22>Hello,<PAUSE> I'm <NICK>. It won't be easy,<PAUSE> but let's do our best together!<WAIT><END>"
+ },
+ {
+  "id": "dlg_172",
+  "en": "<FACE:42>Oh,<PAUSE> it's just <NICK2>...<PAUSE><FACE:12> Well... I suppose I'll look after you.<WAIT><CLR><FACE:41>I'm not a dog! I'm a WOLF!<WAIT><END>"
+ },
+ {
+  "id": "dlg_173",
+  "en": "<FACE:53>Kyaaa<HEART><PAUSE> Riiyaaa<HEART><WAIT> I knew it! <NICK2> and I<PAUSE> are tied by the red string of fate<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_174",
+  "en": "<FACE:03>Oh,<PAUSE> I'm teaming up with you?<PAUSE><FACE:23> Well, fine. Do your best,<PAUSE> okay?<WAIT><END>"
+ },
+ {
+  "id": "dlg_175",
+  "en": "<FACE:93>Oh,<PAUSE> it's you?<PAUSE> Ugh, how tiresome. I suppose I'll put up with you.<WAIT><END>"
+ },
+ {
+  "id": "dlg_176",
+  "en": "<FACE:24>Ufufufu!<PAUSE> With me by your side,<PAUSE> there's nothing to fear!<WAIT><END>"
+ },
+ {
+  "id": "dlg_177",
+  "en": "<FACE:14>Oh,<PAUSE> it's <NICK2>.<FACE:04> Well, fine.<PAUSE> In a pinch,<PAUSE> my Yakko Brand potions will save you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_178",
+  "en": "<FACE:24>Heh heh.<PAUSE> Me, <NICK2>'s partner?<PAUSE> Fine by me. I'll help you out lots<PAUSE>.<PAUSE>.<PAUSE>.<PAUSE><FACE:04> Heh heh.<WAIT><END>"
+ },
+ {
+  "id": "dlg_179",
+  "en": "<FACE:55>Oh...<PAUSE> <NICK2><HEART><WAIT> Let's do our best together<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_17A",
+  "en": "<FACE:05>Hello,<PAUSE> <NICK2>. I look forward to working with you.<WAIT><END>"
+ },
+ {
+  "id": "dlg_17B",
+  "en": "<FACE:09>Alright, you brats! You've got your partners!<WAIT><CLR>Now, one by one, draw from these lots!<WAIT><CLR><FACE:49>Each lot has the goal you must clear written on it!<WAIT><CLR><FACE:09>Work with your partner and accomplish it within one week!<WAIT><CLR><FACE:29>Do that, and I'll let you graduate from the school!<WAIT><END>"
+ },
+ {
+  "id": "dlg_17C",
+  "en": "<FACE:49>First pair:<NL><NICK2><NL><PAUSE>and <NICK>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_17D",
+  "en": "<FACE:49>Next pair:<NL><NICK2><NL><PAUSE>and <NICK>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_17E",
+  "en": "<FACE:49>Alright! Last pair:<NL><NICK2><NL><PAUSE>and <NICK>!<NL><PAUSE>Draw your lot!<WAIT><END>"
+ },
+ {
+  "id": "dlg_17F",
+  "en": "<FACE:09>Everyone's drawn their lots!<FACE:49> Now<PAUSE> get going!<WAIT><END>"
+ },
+ {
+  "id": "dlg_180",
+  "en": "<FACE:0D>...I've been spotted{drop} Teleport!!<PAUSE><END>"
+ },
+ {
+  "id": "dlg_181",
+  "en": "<FACE:06>...Today is the day of the graduation exam at Urara School of Magic.<END>"
+ },
+ {
+  "id": "dlg_182",
+  "en": "<CLR>In order to graduate from the school, ChaCha and her friends must pass<END>"
+ },
+ {
+  "id": "dlg_183",
+  "en": "<CLR>a very difficult exam.<END>"
+ },
+ {
+  "id": "dlg_184",
+  "en": "<CLR><NL>The exam might mean<END>"
+ },
+ {
+  "id": "dlg_185",
+  "en": "<CLR><NL>defeating a fearsome monster,<END>"
+ },
+ {
+  "id": "dlg_186",
+  "en": "<CLR><NL>or hunting for an item. It can be all sorts of things.<END>"
+ },
+ {
+  "id": "dlg_187",
+  "en": "<CLR>If each student and their partner, working as a team of two,<END>"
+ },
+ {
+  "id": "dlg_188",
+  "en": "<CLR>can do it within one week, they pass the exam. But...<END>"
+ },
+ {
+  "id": "dlg_189",
+  "en": "<CLR>if they fail, not only will they be unable to graduate,<END>"
+ },
+ {
+  "id": "dlg_18A",
+  "en": "<CLR>they will never be recognized as full-fledged magicians.<END>"
+ },
+ {
+  "id": "dlg_18B",
+  "en": "<CLR>And ChaCha is a bit of a scatterbrain... Will she really manage<END>"
+ },
+ {
+  "id": "dlg_18C",
+  "en": "<CLR>to graduate...?<END>"
+ },
+ {
+  "id": "dlg_18D",
+  "en": "<CLR><FACE:0C>Don't worry!<END>"
+ },
+ {
+  "id": "dlg_18E",
+  "en": "<NL>The Urara School graduation exam<END>"
+ },
+ {
+  "id": "dlg_18F",
+  "en": "<CLR>is famous because nobody has ever failed it!<END>"
+ },
+ {
+  "id": "dlg_190",
+  "en": "<CLR>I'm sure even ChaCha can graduate<HEART><END>"
+ },
+ {
+  "id": "dlg_191",
+  "en": "<CLR><FACE:06>...R-...right you are, Elizabeth... ...<FACE:16>Sigh...<END>"
+ },
+ {
+  "id": "dlg_192",
+  "en": "<FACE:26>ChaCha,<PAUSE> you've finally graduated.<WAIT><CLR><FACE:46>Bu<PAUSE>t<PAUSE><FACE:26> to become a fine magician,<PAUSE> you must<PAUSE> practice much, much more.<WAIT><END>"
+ },
+ {
+  "id": "dlg_193",
+  "en": "<FACE:20>Yes,<PAUSE> Master Seravi!<PAUSE> I'll practice<PAUSE> super hard!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_194",
+  "en": "<FACE:21>ChaCha!<PAUSE> Me too! Me too!<PAUSE> Let's eat pastries together!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_195",
+  "en": "<FACE:A2>It's PRACTICE,<PAUSE> you idiot!<WAIT><END>"
+ },
+ {
+  "id": "dlg_196",
+  "en": "<FACE:20>Yaaay<HEART><PAUSE> Pastries<HEART><PAUSE> Pastries<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_197",
+  "en": "<FACE:12>Ch-<PAUSE>ChaCha, not you too{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_198",
+  "en": "<FACE:42>Hey, Riiya! Let's duel to decide which of us deserves ChaCha!<WAIT><END>"
+ },
+ {
+  "id": "dlg_199",
+  "en": "<FACE:41>Yeah, bring it on!<WAIT><END>"
+ },
+ {
+  "id": "dlg_19A",
+  "en": "<FACE:23>Riiyaaa! After graduation, who cares about classes? We'll be together forever!<WAIT><END>"
+ },
+ {
+  "id": "dlg_19B",
+  "en": "<FACE:55>U-<PAUSE>um,<PAUSE> Shiine... may I have your uniform button, the one over your heart...?<FACE:25><PAUSE> Eek<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_19C",
+  "en": "<FACE:12>Let's call off the duel for now...<WAIT><END>"
+ },
+ {
+  "id": "dlg_19D",
+  "en": "<FACE:11>Y-<PAUSE>yeah...<WAIT><END>"
+ },
+ {
+  "id": "dlg_19E",
+  "en": "<FACE:02>Lady Dorothy, thank you so much for everything you've taught me.<WAIT><END>"
+ },
+ {
+  "id": "dlg_19F",
+  "en": "<FACE:27>And I'm happy to have such a fine apprentice.<WAIT><END>"
+ },
+ {
+  "id": "dlg_1A0",
+  "en": "<FACE:06>You say that, but really you're glad you can work him like a mule all day now.<WAIT><END>"
+ },
+ {
+  "id": "dlg_1A1",
+  "en": "<FACE:0C>Laundry, cleaning... While Shiine was at school, you had to do it all yourself!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1A2",
+  "en": "<FACE:47>Se<PAUSE>ra<PAUSE>vi<PAUSE>...<PAUSE> Why, you...!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1A3",
+  "en": "<FACE:23>Woohoo<HEART><PAUSE> Now I've<PAUSE> graduated too!<WAIT><CLR>Riiyaaa<HEART><PAUSE> Now that no class can keep us apart,<PAUSE> Marin will always be by your side<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_1A4",
+  "en": "<FACE:3B>Waaah!!<PAUSE> Congratulations on graduating, Marin!!<WAIT><CLR>Without you here,<PAUSE> it'll be so lonely!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1A5",
+  "en": "<FACE:43>Gyaaah!!<PAUSE> Ow-ow-ow-ow-ow-ow-ow!!<WAIT><CLR>What is going ON?! What kind of ending is this?!<PAUSE> This is so unfair!!<WAIT><CLR>Mr. Barabaraman,<PAUSE> let<PAUSE> go<PAUSE> of<PAUSE> meee!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1A6",
+  "en": "<FACE:24>Oh-ho-ho-hooo!<PAUSE> Now that I've graduated with flying colors,<WAIT><CLR>from today on, Lord Seravi gets me as his apprentice. Lucky<PAUSE> lucky<PAUSE> him<HEART><WAIT><CLR><FACE:44>ChaCha!<PAUSE> You're not needed anymore!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1A7",
+  "en": "<FACE:30>Yakko<PAUSE>...<PAUSE> th-<PAUSE>that huuurts...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1A8",
+  "en": "<FACE:16>Yakko,<PAUSE> really now...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1A9",
+  "en": "<FACE:07>Oh, why not?<PAUSE><FACE:27> Take her on as your apprentice!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1AA",
+  "en": "<FACE:64>Lord Sewaviii<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_1AB",
+  "en": "...{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_1AC",
+  "en": "<FACE:05>March 10.<PAUSE> Sunny.<WAIT> Today was the graduation ceremony at Urara School of Magic.<WAIT><CLR><FACE:55>I wanted Shiine's button, the one over his heart... but...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1AD",
+  "en": "<FACE:12>Huh, my clothes don't have any buttons.<PAUSE><FACE:02> Then... Come forth,<PAUSE> button!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1AE",
+  "en": "<FACE:55>The butter bun Shiine gave me instead was really yummy.<WAIT><END>"
+ },
+ {
+  "id": "dlg_1AF",
+  "en": "<FACE:3A>Waaah! Rascal...<PAUSE> Rascal's...!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1B0",
+  "en": "<CALL:$751D><PAUSE>Sadly,<PAUSE> it seems we were too late.<WAIT><END>"
+ },
+ {
+  "id": "dlg_1B1",
+  "en": "<CLR><FACE:49>Dod't you dare kill be off!<FACE:09><PAUSE> Gargle gargle, ptoo!<PAUSE> Gargle gargle, ptoo!<WAIT><CLR><FACE:29>There! I'm all better!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1B2",
+  "en": "<CLR><FACE:2A>Rascaaal<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_1B3",
+  "en": "<FACE:49>Whoa!<PAUSE> So this is the famous Fly Shroom!!<PAUSE><FACE:29> Well found!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1B4",
+  "en": "<FACE:08>Oh my, my!<PAUSE> Dear me!<PAUSE> Well then,<PAUSE> let's<PAUSE> dig in, shall we...?<WAIT><END>"
+ },
+ {
+  "id": "dlg_1B5",
+  "en": "<FACE:49>Shhh!<PAUSE> Principal!<PAUSE> That was supposed to be our secret deal!<WAIT><CLR><PAUSE>...<PAUSE><FACE:19>Urk...<PAUSE>...<PAUSE><FACE:29> Ha-ha-ha-ha!<WAIT><CLR><FACE:49>Anyway, with this, you pass the exam!<WAIT><CLR><FACE:39>Splendid!<PAUSE><FACE:09> Amazing!<PAUSE><FACE:49> Magnificent!<PAUSE><FACE:29> Ha-ha-ha-ha-ha!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1B6",
+  "en": "<FACE:49>Whoa!<PAUSE> You actually beat the Shock Frog!<WAIT><CLR><FACE:29>That's my brats for you!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1B7",
+  "en": "<FACE:0A>Heh...<PAUSE> Not bad at all.<WAIT><CLR><FACE:2A>Anyway,<PAUSE> looks like you've graduated, too<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><CLR><FACE:5A>Now, at last, Rascal will see me<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_1B8",
+  "en": "<FACE:29>Now then, you brats,<PAUSE> let's begin<PAUSE> the graduation ceremony!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1B9",
+  "en": "<FACE:1A>Huh?<PAUSE><FACE:4A> Hey, where are you going?!<PAUSE> Listen<PAUSE> when people are talking!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1BA",
+  "en": "<FACE:29>Splendid!<PAUSE> So this is the legendary<PAUSE> Pink Coral!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1BB",
+  "en": "<FACE:2A>Rascal!<PAUSE> Give that<PAUSE> to me<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_1BC",
+  "en": "<FACE:47>What are you talking about?!<PAUSE><FACE:27> That's<PAUSE> going to me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1BD",
+  "en": "<CALL:$751D><HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_1BE",
+  "en": "<FACE:49>Enough!!<PAUSE> These brats worked hard<PAUSE> to bring this back!<PAUSE> It belongs to no one!!<WAIT><CLR>...<PAUSE><FACE:19>Ah!<PAUSE> Hey!<PAUSE> What are you doing?!<WAIT><FACE:49> Let<PAUSE> it<PAUSE> gooo!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1BF",
+  "en": "<FACE:07>So this is the Holy Water that makes your skin all lovely... Well then...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1C0",
+  "en": "<FACE:0A>Hold it! I get to...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1C1",
+  "en": "<FACE:10>I want to use it too...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1C2",
+  "en": "<FACE:23>Obviously, it belongs to Marin!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1C3",
+  "en": "<FACE:44>You can just go soak in salt water!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1C4",
+  "en": "<FACE:15>I would like some too...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1C5",
+  "en": "<FACE:21>Hey, this water's pretty tasty!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1C6",
+  "en": "<FACE:47>.<PAUSE><FACE:4A>.<PAUSE><FACE:40>.<PAUSE><FACE:43>.<PAUSE><FACE:44>.<PAUSE><END>"
+ },
+ {
+  "id": "dlg_1C7",
+  "en": "<FACE:11>Why's everybody makin' scary faces?<WAIT><END>"
+ },
+ {
+  "id": "dlg_1C8",
+  "en": "<FACE:09>Well done, kids! You've beaten the guardian of the Maze of Trials!<WAIT><CLR>I kept it secret until now, but that guardian... was ME!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1C9",
+  "en": "<FACE:9E>.....<WAIT><END>"
+ },
+ {
+  "id": "dlg_1CA",
+  "en": "<FACE:29>Well done surpassing me, your teacher! Now, <PAUSE>run toward that setting sun!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1CB",
+  "en": "<FACE:29>Ha-ha-ha-ha! <PAUSE>I'm feeling totally groovy<NOTE><WAIT><END>"
+ },
+ {
+  "id": "dlg_1CC",
+  "en": "<CALL:$751D><PAUSE>My, Mr. Rascal <PAUSE>is in a fine mood.<WAIT><END>"
+ },
+ {
+  "id": "dlg_1CD",
+  "en": "<CLR><FACE:2A>Rascal<HEART> <PAUSE>The mushrooms are done! <PAUSE><FACE:4A>Hey! <PAUSE>Barabaraman, <PAUSE>the fire's dying down!<WAIT><CLR>Throw on more Pink Coral!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1CE",
+  "en": "<CLR><FACE:1B>Yes, yes...<WAIT><CLR><FACE:3B>Whyyy? <PAUSE>Why is it always me?<WAIT><END>"
+ },
+ {
+  "id": "dlg_1CF",
+  "en": "<CLR><FACE:2A>Yup, <PAUSE>Fly Shrooms grilled over Pink Coral <PAUSE>are the best!<WAIT><CLR><FACE:5A>Here, <PAUSE>Rascal, eat up!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1D0",
+  "en": "<CLR><CALL:$751D><PAUSE>Holy Water sipped from the Holy Cup <PAUSE>is delicious, <PAUSE>too.<WAIT><END>"
+ },
+ {
+  "id": "dlg_1D1",
+  "en": "<CLR><FACE:29>Ha-ha-ha-ha! <PAUSE>And it's all thanks to you kids' hard work!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1D2",
+  "en": "<CLR><FACE:20>Ahh! <PAUSE>Teachers, we found you!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1D3",
+  "en": "<CLR><FACE:09>Gah!? <PAUSE>The kids!?<WAIT><END>"
+ },
+ {
+  "id": "dlg_1D4",
+  "en": "<CLR><FACE:41>You teachers are eatin' all the good stuff by yourselves? <PAUSE>No fair!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1D5",
+  "en": "<CLR><FACE:42>And <PAUSE>with the things we gathered in our graduation exam, no less...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1D6",
+  "en": "<CLR><FACE:19>Ha-ha-ha-ha{drop} <PAUSE>Well, now that you've caught us, there's no helping it!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1D7",
+  "en": "<CLR><FACE:93>You're not getting off that easy!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1D8",
+  "en": "<CLR><FACE:44>That's right! <PAUSE>Teachers or not, this is unforgivable!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1D9",
+  "en": "<CLR><FACE:25>...<PAUSE>But those Fly Shrooms <PAUSE>do look awfully tasty...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1DA",
+  "en": "<CLR><CALL:$751D><PAUSE>Well then, <PAUSE>why don't we <PAUSE>all <PAUSE>have a party <PAUSE>together?<WAIT><END>"
+ },
+ {
+  "id": "dlg_1DB",
+  "en": "<CLR><FACE:29>Ha-ha-ha-ha! <PAUSE>That was the plan all along!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1DC",
+  "en": "<CLR><FACE:2E>Oh, how CONVENIENT!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1DD",
+  "en": "<FACE:08>Oh my, my!<PAUSE> Dear me!<NL><END>"
+ },
+ {
+  "id": "dlg_1DE",
+  "en": "<FACE:07>Oh, you brought a cup? Very well, I'll<PAUSE> appraise it for you.<WAIT><CLR><PAUSE>.<PAUSE>.<PAUSE>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_1DF",
+  "en": "<FACE:27>This is the Holy Cup, all right! Once the exam is over, it's mine!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1E0",
+  "en": "<FACE:17>Too bad. This is NOT the Holy Cup. <FACE:07>Well, don't lose heart. <SCROLL>Keep at it!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1E1",
+  "en": "<CALL:$751D><PAUSE>It seems <PAUSE>you've reached your goal. <PAUSE>You did very well. <SCROLL><PAUSE>I was watching <SCROLL><PAUSE>your whole adventure.<WAIT><CLR><PAUSE>.<PAUSE>.<PAUSE>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_1E2",
+  "en": "<CALL:$751D><PAUSE>Oh dear, your time limit <PAUSE>has run out, it seems. <PAUSE>What a shame. <SCROLL><PAUSE>Let's spend one more year <SCROLL><PAUSE>together, <SCROLL><PAUSE>studying hard, all right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_1E3",
+  "en": "<FACE:30>I failed... What do I dooo?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1E4",
+  "en": "<FACE:C2>...Sob... sob...{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_1E5",
+  "en": "<FACE:32>The worst blunder of Shiine's whole life!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1E6",
+  "en": "<FACE:33>The questions were just baaad!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1E7",
+  "en": "<FACE:34>ME, fail?{drop} There must be some mistake!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1E9",
+  "en": "<FACE:35>I still have so much to learn{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_1EA",
+  "en": "<FACE:49>Everyone who failed the graduation exam takes a makeup test tomorrow!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1EB",
+  "en": "<FACE:0A>...Hmph. This time, I'll be the one whipping you brats into shape!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1EC",
+  "en": "<FACE:2B>We get to study together for one more year! How wonderful!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1ED",
+  "en": "<FACE:20>Phew! <NAMEC8D3> is the weakest monster there is, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_1EE",
+  "en": "<FACE:40>I'm not scared of you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1EF",
+  "en": "<FACE:10>I-I'm not scared of you! I'll beat you with my magic!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1F0",
+  "en": "<FACE:30>Ugh... scary{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_1F1",
+  "en": "<FACE:20>Come forth!<NL><END>"
+ },
+ {
+  "id": "dlg_1F2",
+  "en": "<CALL:$613E><WAIT>Birdie!<END>"
+ },
+ {
+  "id": "dlg_1F3",
+  "en": "<FACE:00>Go get 'em!<END>"
+ },
+ {
+  "id": "dlg_1F4",
+  "en": "<FACE:B0>...<PAUSE>Huh?<WAIT><END>"
+ },
+ {
+  "id": "dlg_1F5",
+  "en": "<CALL:$613E><WAIT>Cow!<END>"
+ },
+ {
+  "id": "dlg_1F6",
+  "en": "<FACE:B0>...<PAUSE>Huh? Why is it<PAUSE> facing this way? <FACE:30>...<PAUSE>Eeek! Don't <PAUSE>come over heeere!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1F7",
+  "en": "<CALL:$613E><FACE:00>Ummm...<WAIT><FACE:20> Bunny!<WAIT><END>"
+ },
+ {
+  "id": "dlg_1F8",
+  "en": "...<FACE:B0>Whaa{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_1F9",
+  "en": "<FACE:20>Wow! So cuuute<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_1FA",
+  "en": "<CALL:$613E><WAIT>Tiger!<END>"
+ },
+ {
+  "id": "dlg_1FB",
+  "en": "<FACE:10>...a paper<PAUSE>...tiger?<WAIT><END>"
+ },
+ {
+  "id": "dlg_1FC",
+  "en": "<CALL:$613E><WAIT>Fishy!<END>"
+ },
+ {
+  "id": "dlg_1FD",
+  "en": "<FACE:B0>...<PAUSE>Oh...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1FE",
+  "en": "<FACE:A0><PAUSE>...<PAUSE>W-wow...<PAUSE> amazing...<WAIT><END>"
+ },
+ {
+  "id": "dlg_1FF",
+  "en": "<CALL:$613E><WAIT>Elephant!<END>"
+ },
+ {
+  "id": "dlg_200",
+  "en": "<CALL:$613E><WAIT>Rhino!<END>"
+ },
+ {
+  "id": "dlg_201",
+  "en": "...<PAUSE><FACE:90>Rhi...<PAUSE><FACE:30> no dice.{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_202",
+  "en": "<CALL:$613E>Special move... <WAIT><FACE:40>Lucky Cat!<END>"
+ },
+ {
+  "id": "dlg_203",
+  "en": "<FACE:20>Magical Princess, <PAUSE>Holy Uuup!<WAIT><END>"
+ },
+ {
+  "id": "dlg_204",
+  "en": "<FACE:B0>A grrreat big rock!<WAIT><END>"
+ },
+ {
+  "id": "dlg_205",
+  "en": "<FACE:30>Waaah... <PAUSE>I fell in...<WAIT><END>"
+ },
+ {
+  "id": "dlg_206",
+  "en": "<FACE:90>Wh-<PAUSE>wh-<PAUSE>wh-<PAUSE>what <PAUSE>just happened?<WAIT><END>"
+ },
+ {
+  "id": "dlg_208",
+  "en": "<FACE:30>...<PAUSE>It really, really hurts...<WAIT><END>"
+ },
+ {
+  "id": "dlg_207",
+  "en": "<FACE:70>Uuugh! <PAUSE>I'm all dizzy...<WAIT><END>"
+ },
+ {
+  "id": "dlg_209",
+  "en": "<FACE:B0>Ah! <PAUSE>Mister! How've you been?<WAIT><END>"
+ },
+ {
+  "id": "dlg_20A",
+  "en": "<FACE:20>Thank you, mister<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_20B",
+  "en": "<FACE:20>Yay, a bed! <PAUSE>Good niiight!<WAIT><END>"
+ },
+ {
+  "id": "dlg_20C",
+  "en": "<FACE:20>Wow! <PAUSE><NICK2>, you're amaaazing<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_20D",
+  "en": "<FACE:00>Wow... <NICK2>, <FACE:B0>you're amaaazing<PAUSE>...{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_20E",
+  "en": "<FACE:B0><PAUSE>...<PAUSE>...<PAUSE>?<WAIT><END>"
+ },
+ {
+  "id": "dlg_20F",
+  "en": "<FACE:30>Ow... <PAUSE><NICK2>... <PAUSE>that hurts...<WAIT><END>"
+ },
+ {
+  "id": "dlg_210",
+  "en": "<FACE:20>Wow! Amazing! <PAUSE>Amazing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_211",
+  "en": "<FACE:00>Don't worry! <PAUSE>It's okay!<WAIT><END>"
+ },
+ {
+  "id": "dlg_212",
+  "en": "<FACE:B0>Huh? <PAUSE>What on earth was<PAUSE> that...?<WAIT><END>"
+ },
+ {
+  "id": "dlg_213",
+  "en": "<FACE:30><NICK2>... <PAUSE>that's so meeean...<WAIT><END>"
+ },
+ {
+  "id": "dlg_214",
+  "en": "<FACE:20>Amaaazing! <PAUSE>Clap clap clap...<WAIT><END>"
+ },
+ {
+  "id": "dlg_215",
+  "en": "<FACE:20>Ahahahaha! <PAUSE>That's so silly!<WAIT><END>"
+ },
+ {
+  "id": "dlg_216",
+  "en": "<FACE:A0>...<PAUSE>That's a pretty strange kind of magic...<WAIT><END>"
+ },
+ {
+  "id": "dlg_217",
+  "en": "<FACE:B0>Ahh! <PAUSE><NICK2>, are you okay?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_219",
+  "en": "<FACE:00>Hey, hey, <PAUSE><NICK2>, where<PAUSE> are we?<WAIT><END>"
+ },
+ {
+  "id": "dlg_21A",
+  "en": "<FACE:00><NICK2>, <PAUSE>so cool!<WAIT><END>"
+ },
+ {
+  "id": "dlg_21B",
+  "en": "<FACE:20><NICK2>, <PAUSE>you look like you're having fun!<WAIT><END>"
+ },
+ {
+  "id": "dlg_21C",
+  "en": "<FACE:00>Hey, <NICK2>,<PAUSE> that person was kind of weird, huh?<WAIT><CLR><FACE:01>Yeah...<PAUSE> Huh? <FACE:B1>One of our items is gone!<WAIT><END>"
+ },
+ {
+  "id": "dlg_21D",
+  "en": "<FACE:00>Thank you so much, mister!<WAIT><END>"
+ },
+ {
+  "id": "dlg_21E",
+  "en": "<FACE:30>Hey, <NICK2>!<PAUSE> ...<PAUSE>Wake uuup!<WAIT><END>"
+ },
+ {
+  "id": "dlg_21F",
+  "en": "<FACE:B0>Ah! A<PAUSE>...<PAUSE><FACE:10>are you okay?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_220",
+  "en": "<FACE:B0>Huh? <PAUSE>...<PAUSE><FACE:10>Where are we?<WAIT><END>"
+ },
+ {
+  "id": "dlg_222",
+  "en": "<FACE:00>Hey, hey, that person just now... <PAUSE>could they have been a pickpocket?<WAIT><END>"
+ },
+ {
+  "id": "dlg_225",
+  "en": "<FACE:00>I hope the item that mister gave us <PAUSE>comes in handy<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_226",
+  "en": "<FACE:10>Hey, <PAUSE>you shouldn't be sleeping in a place like this...<WAIT><END>"
+ },
+ {
+  "id": "dlg_227",
+  "en": "<FACE:B0><PAUSE>...<PAUSE>Does it hurt??<WAIT><END>"
+ },
+ {
+  "id": "dlg_228",
+  "en": "<FACE:00><PAUSE>...Oh, <PAUSE>it fell...<WAIT><END>"
+ },
+ {
+  "id": "dlg_229",
+  "en": "<FACE:30>We're lost...<WAIT><END>"
+ },
+ {
+  "id": "dlg_22A",
+  "en": "<FACE:00>What a huge explosion! <PAUSE>So cool!<WAIT><END>"
+ },
+ {
+  "id": "dlg_22B",
+  "en": "<FACE:20>Are you dizzy?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_22C",
+  "en": "<FACE:10><NICK2>, <PAUSE>that person was a pickpocket!<WAIT><END>"
+ },
+ {
+  "id": "dlg_22D",
+  "en": "<FACE:10>Master Seravi said it's not nice to take free stuff <PAUSE>from strangers.<WAIT><END>"
+ },
+ {
+  "id": "dlg_22E",
+  "en": "<FACE:10>Um<PAUSE>... I don't think this is really the time for a nap...<WAIT><END>"
+ },
+ {
+  "id": "dlg_22F",
+  "en": "<FACE:00>Hi-yaaah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_230",
+  "en": "<FACE:20>This <ITEM2> looks yummy. I can eat it, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_231",
+  "en": "<FACE:00>This <ITEM2> looks yummy. I can drink it, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_232",
+  "en": "<FACE:00>Yay! I'm feeling all peppy again!<WAIT><END>"
+ },
+ {
+  "id": "dlg_233",
+  "en": "<FACE:40>Maybe it could stand in <FACE:A0>for the... Bird Shield?<WAIT><END>"
+ },
+ {
+  "id": "dlg_234",
+  "en": "<FACE:A0>Are you sure you should throw something that looks so important?<WAIT><END>"
+ },
+ {
+  "id": "dlg_235",
+  "en": "<FACE:20>Amazing, amazing!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_236",
+  "en": "<FACE:00><NAMEC8D3> stopped moving!<WAIT><END>"
+ },
+ {
+  "id": "dlg_237",
+  "en": "<FACE:10>B-<PAUSE>but how do you use it...{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_238",
+  "en": "<FACE:00>I bet you could carry water in this.<WAIT><END>"
+ },
+ {
+  "id": "dlg_239",
+  "en": "<FACE:21>Heh heh! I can take you out with one punch!<WAIT><END>"
+ },
+ {
+  "id": "dlg_23A",
+  "en": "<FACE:21>Yeah! Bring it on!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_23B",
+  "en": "<FACE:41>Hah! I ain't scared of you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_23C",
+  "en": "<FACE:41>Riiya Puuunch!<WAIT><END>"
+ },
+ {
+  "id": "dlg_23D",
+  "en": "<FACE:41>Riiya Kiiick!<WAIT><END>"
+ },
+ {
+  "id": "dlg_23E",
+  "en": "<FACE:C2>Woof!...<WAIT><END>"
+ },
+ {
+  "id": "dlg_23F",
+  "en": "<FACE:41>Now I'm mad! <PAUSE>Raaaaaaaaaargh!<WAIT><END>"
+ },
+ {
+  "id": "dlg_240",
+  "en": "<FACE:41>Take this! <PAUSE>Hyaaaaah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_241",
+  "en": "<FACE:11><NICK>, <PAUSE>sorry!<WAIT><END>"
+ },
+ {
+  "id": "dlg_242",
+  "en": "<FACE:41>Riiya Attaaack!<WAIT><END>"
+ },
+ {
+  "id": "dlg_243",
+  "en": "<FACE:41>Special move! Riiya Frenzy!<WAIT><END>"
+ },
+ {
+  "id": "dlg_244",
+  "en": "<FACE:03>Hey, you! <PAUSE><FACE:43>What do you think you're doing to my Riiya?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_245",
+  "en": "<FACE:01>Whoa! <PAUSE><NICK2>, that's awesome!<WAIT><END>"
+ },
+ {
+  "id": "dlg_246",
+  "en": "<FACE:11>Fi<PAUSE>...<PAUSE>figures <PAUSE>...<PAUSE>{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_247",
+  "en": "<FACE:11><NICK2>! I wanna play too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_248",
+  "en": "<FACE:11>Owowow<PAUSE>...<WAIT><CLR><FACE:B0>Ahh! <NICK>, are you okay?<WAIT><CLR><FACE:01>Yeah, <PAUSE>I'm tough, so I'm fine!<WAIT><END>"
+ },
+ {
+  "id": "dlg_249",
+  "en": "<FACE:01>Whoa! That's awesome!<WAIT><END>"
+ },
+ {
+  "id": "dlg_24A",
+  "en": "<FACE:91>Tch. <PAUSE>That was nothin' special.<WAIT><END>"
+ },
+ {
+  "id": "dlg_24B",
+  "en": "<FACE:81>Huh? <PAUSE>What the?<WAIT><END>"
+ },
+ {
+  "id": "dlg_24C",
+  "en": "<FACE:C2>... <PAUSE>Hauuu...<WAIT><END>"
+ },
+ {
+  "id": "dlg_24D",
+  "en": "<FACE:01>Nice one, <NICK2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_24E",
+  "en": "<FACE:01>...<PAUSE>{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_24F",
+  "en": "<FACE:C2>???<WAIT><END>"
+ },
+ {
+  "id": "dlg_250",
+  "en": "<FACE:91>Hah! <PAUSE>That was nothin'!<WAIT><END>"
+ },
+ {
+  "id": "dlg_252",
+  "en": "<FACE:21>Wahahaha! <PAUSE>You stink!<WAIT><END>"
+ },
+ {
+  "id": "dlg_253",
+  "en": "<FACE:91>What're you doin'? <PAUSE><NICK2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_254",
+  "en": "<FACE:41>Why you! Ya dummy! Dang it all!<WAIT><END>"
+ },
+ {
+  "id": "dlg_255",
+  "en": "<FACE:81>Ow!<WAIT><END>"
+ },
+ {
+  "id": "dlg_256",
+  "en": "<FACE:B1>Whoaaa!<WAIT><END>"
+ },
+ {
+  "id": "dlg_257",
+  "en": "<FACE:91>Huh? Where's this... I got blown off somewhere!<WAIT><END>"
+ },
+ {
+  "id": "dlg_258",
+  "en": "<FACE:B1>Whoaaa! <FACE:71>So<PAUSE> dizzy<PAUSE>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_259",
+  "en": "<FACE:B1>Y<PAUSE>...<PAUSE>you scared me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_25A",
+  "en": "<FACE:B1>Whoa!? <PAUSE>What's goin' on?<WAIT><END>"
+ },
+ {
+  "id": "dlg_25B",
+  "en": "<FACE:01>Yeah, what's goin' on?<WAIT><END>"
+ },
+ {
+  "id": "dlg_25C",
+  "en": "<FACE:21>All right, <PAUSE>a bed! So fluffy!<WAIT><END>"
+ },
+ {
+  "id": "dlg_25D",
+  "en": "<FACE:11><NICK2>, <PAUSE>you okay?<WAIT><CLR><FACE:70>I'm okay<PAUSE>... <PAUSE>NOT...<WAIT><END>"
+ },
+ {
+  "id": "dlg_25E",
+  "en": "<FACE:11>Huh? <PAUSE>I've been here before!<WAIT><END>"
+ },
+ {
+  "id": "dlg_260",
+  "en": "<FACE:41>Ah! <PAUSE><NICK2>! <PAUSE>An item's missing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_262",
+  "en": "<FACE:01>Good for you, <NICK2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_263",
+  "en": "<FACE:C2>Yeah! <PAUSE>I'm gonna sleep too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_264",
+  "en": "<FACE:B1><NICK2>...<PAUSE> that was awesome!<WAIT><END>"
+ },
+ {
+  "id": "dlg_265",
+  "en": "<FACE:41>You okay?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_266",
+  "en": "<FACE:41>Hey! <PAUSE>An item's missing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_26A",
+  "en": "<FACE:01>Good for you, <NICK2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_26B",
+  "en": "<FACE:01>Maybe I'll take a nap too...<WAIT><END>"
+ },
+ {
+  "id": "dlg_26C",
+  "en": "<FACE:01>Whoa<PAUSE>... <PAUSE>it's alive!<WAIT><END>"
+ },
+ {
+  "id": "dlg_26D",
+  "en": "<FACE:01>You okay?!<WAIT><CLR><FACE:03><NICK>, you came to save me<HEART> <FACE:53><PAUSE>Marin is so touched<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_26F",
+  "en": "<FACE:01>I'll sleep next to ya too!<WAIT><CLR><FACE:13>Oh my<HEART> <PAUSE>My heart isn't ready<PAUSE>...<PAUSE><HEART><WAIT><CLR><FACE:43>Since when?! <PAUSE>Outta my way, dumb dog! <PAUSE>KA-BOOM!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_274",
+  "en": "<FACE:01>Take that!<WAIT><END>"
+ },
+ {
+  "id": "dlg_276",
+  "en": "<FACE:21>A tasty-lookin' <ITEM2>! Munch munch<NOTE><WAIT><END>"
+ },
+ {
+  "id": "dlg_277",
+  "en": "<FACE:01>A tasty-lookin' <ITEM2>! Gulp gulp!<WAIT><END>"
+ },
+ {
+  "id": "dlg_278",
+  "en": "<FACE:01>All right! I'm all powered up!<WAIT><END>"
+ },
+ {
+  "id": "dlg_279",
+  "en": "<FACE:01>This <ITEM2> can be my shield!<WAIT><END>"
+ },
+ {
+  "id": "dlg_27A",
+  "en": "<FACE:01>I can keep drinks in here!<WAIT><END>"
+ },
+ {
+  "id": "dlg_27B",
+  "en": "<FACE:91>You sure? That item's gone now.<WAIT><END>"
+ },
+ {
+  "id": "dlg_27C",
+  "en": "<FACE:21>Whoa, that's so cool!<WAIT><END>"
+ },
+ {
+  "id": "dlg_27D",
+  "en": "<FACE:01>Get <NAMEC8D3> before it can attack!<WAIT><END>"
+ },
+ {
+  "id": "dlg_27E",
+  "en": "<FACE:11>.... Nothin's happening.<WAIT><END>"
+ },
+ {
+  "id": "dlg_27F",
+  "en": "<FACE:22>I, Shiine, apprentice of Dorothy, the Witch of Mt. Urizuri, shall defeat you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_280",
+  "en": "<FACE:02>It seems this is a rather troublesome opponent...<WAIT><END>"
+ },
+ {
+  "id": "dlg_281",
+  "en": "<FACE:12>W-what is a monster doing in a place like this...?<WAIT><END>"
+ },
+ {
+  "id": "dlg_282",
+  "en": "<FACE:02>Transfooorm...<NL><END>"
+ },
+ {
+  "id": "dlg_283",
+  "en": "<CALL:$6C3A><WAIT>Squirrel!<END>"
+ },
+ {
+  "id": "dlg_284",
+  "en": "<FACE:92>Squeak! <PAUSE>...<PAUSE>Huh?<WAIT><END>"
+ },
+ {
+  "id": "dlg_285",
+  "en": "<CALL:$6C3A><WAIT>Crow!<END>"
+ },
+ {
+  "id": "dlg_286",
+  "en": "<CALL:$6C3A><WAIT>Prairie dog!<END>"
+ },
+ {
+  "id": "dlg_287",
+  "en": "<CALL:$6C3A><WAIT>Dog!<END>"
+ },
+ {
+  "id": "dlg_288",
+  "en": "<CALL:$6C3A><FACE:22>Shiine<WAIT> Super-size!<END>"
+ },
+ {
+  "id": "dlg_289",
+  "en": "<CALL:$6C3A><FACE:22><WAIT>Tiger!<END>"
+ },
+ {
+  "id": "dlg_28A",
+  "en": "<FACE:A2>...Oh nooo! <PAUSE><FACE:32>This is a CAT!<WAIT><END>"
+ },
+ {
+  "id": "dlg_28B",
+  "en": "<CALL:$6C3A><FACE:22><WAIT>Dragon!<END>"
+ },
+ {
+  "id": "dlg_28C",
+  "en": "<FACE:22>Shiine<WAIT> Mega <PAUSE>Trans<PAUSE>formation!<END>"
+ },
+ {
+  "id": "dlg_28D",
+  "en": "<FACE:55><PAUSE>...<PAUSE>Shiine<PAUSE>... do your best<PAUSE><FACE:25><HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_28E",
+  "en": "<FACE:22>That's <NICK2> for you!<NL><END>"
+ },
+ {
+  "id": "dlg_28F",
+  "en": "<CALL:$6D07><PAUSE>Nicely done<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_290",
+  "en": "<CALL:$6D07><PAUSE>What a splendid joke!<WAIT><END>"
+ },
+ {
+  "id": "dlg_291",
+  "en": "<CALL:$6D07><PAUSE><FACE:02>How very profound{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_292",
+  "en": "<FACE:12>Ow ow... <PAUSE>Th-<PAUSE>that's <NICK2> for you<PAUSE>...<WAIT><END>"
+ },
+ {
+  "id": "dlg_293",
+  "en": "<FACE:02>Quite impressive, I must say.<WAIT><END>"
+ },
+ {
+  "id": "dlg_294",
+  "en": "<FACE:92>What are you doing? <PAUSE><NICK2>...<WAIT><END>"
+ },
+ {
+  "id": "dlg_295",
+  "en": "<FACE:92>Is there <PAUSE>some point to that?<WAIT><END>"
+ },
+ {
+  "id": "dlg_296",
+  "en": "<FACE:12>Ow ow... <PAUSE><NICK2>, <PAUSE>that was cruel...<WAIT><END>"
+ },
+ {
+  "id": "dlg_297",
+  "en": "<FACE:02>That's <NICK2> for you!<WAIT><CLR><FACE:55>Oh, it was nothing<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_298",
+  "en": "<FACE:02><NICK2>, <PAUSE>never mind it.<WAIT><CLR><FACE:55>Shiine<PAUSE>...<PAUSE><HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_299",
+  "en": "<FACE:12>N<PAUSE>... <PAUSE>Ninja arts<PAUSE>...<PAUSE>?<WAIT><CLR><FACE:55>They're my specialty<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_29A",
+  "en": "<FACE:72>Owowow...<WAIT><CLR><FACE:15>Oh! <PAUSE><NICK>!? I'm sorry, <PAUSE>I'm so sorry...<WAIT><CLR><FACE:12>Oh, <PAUSE>this is nothing, I'm fine, <PAUSE><FACE:02>just fine.<WAIT><END>"
+ },
+ {
+  "id": "dlg_29B",
+  "en": "<FACE:A2>Hmm, <PAUSE>you're not half bad.<WAIT><END>"
+ },
+ {
+  "id": "dlg_29C",
+  "en": "<FACE:42>What are you doing, <PAUSE><NICK2>?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_29D",
+  "en": "<FACE:A2>No wonder they call you <NICK2>...<WAIT><END>"
+ },
+ {
+  "id": "dlg_29E",
+  "en": "<FACE:42>That hurt! <NICK2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_29F",
+  "en": "<FACE:82>Ow<PAUSE> owowow!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2A0",
+  "en": "<FACE:B2>Huh!?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2A1",
+  "en": "<FACE:12>Whoops! <PAUSE>A teleporter!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2A2",
+  "en": "<FACE:62>Urgh...<PAUSE> I feel queasy...<WAIT><END>"
+ },
+ {
+  "id": "dlg_2A4",
+  "en": "<FACE:82>Oh? <PAUSE>What's going on?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2A5",
+  "en": "<FACE:02>Oh? <PAUSE>I get an item? <PAUSE>How nice!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2A6",
+  "en": "<FACE:02>I'm a little tired, <PAUSE>so shall we rest awhile?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2A3",
+  "en": "<FACE:62>I-<PAUSE>I thought I was going to die<PAUSE>...<WAIT><END>"
+ },
+ {
+  "id": "dlg_2A7",
+  "en": "<FACE:32>ChaCha! <PAUSE>Are you all right?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2A8",
+  "en": "<FACE:12>It seems a teleporter sent us flying.<WAIT><CLR><FACE:02>Had we landed inside a rock, we'd have been LOST for good!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2AA",
+  "en": "<FACE:42><NICK2>! <PAUSE>I'll save you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2AB",
+  "en": "<FACE:42>This is terrible! <PAUSE>Some items have gone missing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2AC",
+  "en": "<FACE:02><NICK2>, <PAUSE>I'm so glad for you.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2AD",
+  "en": "<FACE:B2>Huh!? <NICK2> fell asleep<PAUSE>...<PAUSE> wh-<PAUSE>what do I do? <PAUSE><FACE:52>Oh, this is so awkward<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_2AE",
+  "en": "<FACE:32>Oh no! <PAUSE><NICK2>! <PAUSE>This is bad!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2AF",
+  "en": "<FACE:42>Are you all right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2B0",
+  "en": "<FACE:42>Are you all right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2B3",
+  "en": "<FACE:02>You can only carry two items, you know. <PAUSE>Don't just take everything you're offered.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2B5",
+  "en": "<FACE:42>Please don't go to sleep in a place like this!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2B6",
+  "en": "<FACE:12>Land mines? <PAUSE>What a dreadful place this is<PAUSE>...<WAIT><END>"
+ },
+ {
+  "id": "dlg_2B7",
+  "en": "<FACE:12>Are you all right?<WAIT><CLR><FACE:15>Oh, <PAUSE>I'm perfectly fine<FACE:05><HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_2B8",
+  "en": "<FACE:12>Are you all right? <PAUSE>Here, take my hand.<WAIT><CLR><FACE:55><NICK><HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_2B9",
+  "en": "<FACE:12>You mustn't sleep in a place like this...<WAIT><CLR>...But you do look tired. <FACE:02>Maybe a little nap <PAUSE>won't hurt?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2BE",
+  "en": "<FACE:12>Hey! <PAUSE>You okay?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2C0",
+  "en": "<FACE:42>That's what you get for spacing out! <PAUSE>Climb up on your own!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2C1",
+  "en": "<FACE:A2>A teleporter sent you flying. <PAUSE>Honestly, what a klutz...<WAIT><END>"
+ },
+ {
+  "id": "dlg_2C2",
+  "en": "<FACE:42>How long are you going to keep spinning?! <PAUSE>Let's go, <PAUSE><NICK2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2C3",
+  "en": "<FACE:B2>Uh-oh! <PAUSE>Our items are gone!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2C4",
+  "en": "<FACE:12>Grabbing freebies? How cheap can you get!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2C5",
+  "en": "<FACE:42>No sleeping! <NICK2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2C6",
+  "en": "<FACE:B2>Y-<PAUSE>you're a tough one... <PAUSE>{drop}?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2C7",
+  "en": "<FACE:02>Here is the proper way to use this item.<WAIT> Hi-yah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2C8",
+  "en": "<FACE:02>Ooh, a tasty-looking <ITEM2>. Don't mind if I do!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2C9",
+  "en": "<FACE:02>Ooh, a tasty-looking <ITEM2>. Don't mind if I do!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2CA",
+  "en": "<FACE:02>I feel full of energy! It seems that was a stamina-restoring item.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2CB",
+  "en": "<FACE:B2>Should you really throw something so precious? ...Too late now, I suppose.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2CC",
+  "en": "<FACE:02>Quite impressive, I must say.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2CD",
+  "en": "<FACE:02>Now's our chance! The enemy can't attack for a while.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2CE",
+  "en": "<FACE:42>O <ITEM2>! Shield me from harm!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2CF",
+  "en": "<FACE:12>It seems this item can't be used while we're moving around.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2D0",
+  "en": "<FACE:02>This item looks like it'd be handy for drawing water.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2D1",
+  "en": "<FACE:23>Fool! You dare to defy me?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2D2",
+  "en": "<FACE:A3>Say whatever you want! You don't scare me one bit! Nyeh!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2D3",
+  "en": "<FACE:13>Ewww! I hate you, I hate you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2D4",
+  "en": "<FACE:33>Eeek! What IS this thing?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2D5",
+  "en": "<FACE:23>Marin, <PAUSE>Maririn, <PAUSE>Marimari<PAUSE>rin... <FACE:03>Come forth...<NL><END>"
+ },
+ {
+  "id": "dlg_2D6",
+  "en": "<CALL:$73E5><WAIT>Pufferfish!<END>"
+ },
+ {
+  "id": "dlg_2D7",
+  "en": "<FACE:B3>Th<PAUSE>...<PAUSE>that gave me a fright!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2D8",
+  "en": "<CALL:$73E5><WAIT>Spiky Sea Urchin!<END>"
+ },
+ {
+  "id": "dlg_2D9",
+  "en": "<CALL:$73E5><FACE:23><WAIT>Giant Seaweed!<END>"
+ },
+ {
+  "id": "dlg_2DA",
+  "en": "<FACE:33>...Oh no, <PAUSE>it's not working!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2DB",
+  "en": "<CALL:$73E5><FACE:23><WAIT>Giant Tuna!<END>"
+ },
+ {
+  "id": "dlg_2DC",
+  "en": "<CALL:$73E5><FACE:23><WAIT>Tetrapoooood!<END>"
+ },
+ {
+  "id": "dlg_2DD",
+  "en": "<CALL:$73E5><FACE:13>Then...<NL><WAIT>Turban Shell Barrier!<END>"
+ },
+ {
+  "id": "dlg_2DE",
+  "en": "<FACE:33>Aaaaaah!!!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2DF",
+  "en": "<CALL:$73E5><FACE:23>Ultimate move...<NL><WAIT>Ultrasonic Waaave!!<END>"
+ },
+ {
+  "id": "dlg_2E0",
+  "en": "<FACE:23>Marin Mermaid Attack! <PAUSE>Slap-smack-whap-whap-WHAP!<END>"
+ },
+ {
+  "id": "dlg_2E1",
+  "en": "<PAUSE>Slap-smack-whap-whap-WHAP!<END>"
+ },
+ {
+  "id": "dlg_2E2",
+  "en": "<FACE:24>Oh-ho-ho-hooo!<WAIT><CLR><FACE:B3>Y<PAUSE>...<PAUSE>Yakko?<WAIT><CLR><FACE:24>Marin! Now's the time to use THAT!<WAIT><CLR><FACE:03>Right, <PAUSE>got it! Our special move!<WAIT><CLR><FACE:23>Beauty Mermaid <FACE:24>Urara Angels<HEART> <FACE:23>Pair!<WAIT><CLR><FACE:44>...<PAUSE>Hold it right there! What kind of lame name is THAT?!<WAIT><CLR><FACE:43>Like you're one to talk! Your name's no better!<WAIT><CLR><FACE:44>Hi-YAAAH!<WAIT><CLR><FACE:43>Why, you...!<WAIT><CLR><FACE:93>.<PAUSE>.<PAUSE>.<PAUSE>Huh? ...Where'd the monster go?<WAIT><CLR><FACE:A4>...Who knows?<WAIT><CLR><FACE:23>...Oh...whatever<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_2E3",
+  "en": "<FACE:33><NICK2>, where are you? Riiyaaa<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_2E4",
+  "en": "<FACE:43>What is WITH this dumb dog?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2E5",
+  "en": "<FACE:63>Kyaaa<HEART> <PAUSE><NICK2>, you're so dreamy<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_2E6",
+  "en": "<FACE:53>For <NICK2>, I can take anything<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_2E7",
+  "en": "<FACE:03>Oh my, <PAUSE>not bad at all.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2E8",
+  "en": "<FACE:A3>Well, <PAUSE>that's about what I expected.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2E9",
+  "en": "<FACE:A3>And what <PAUSE>is that supposed to be?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2EA",
+  "en": "<FACE:43>Hey! What do you think you're doing?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2EB",
+  "en": "<FACE:A3>Pure luck. <PAUSE>L<PAUSE>U<PAUSE>CK.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2EC",
+  "en": "<FACE:23>Right, right. <PAUSE>I knew <NICK2>'s magic was only that good.<WAIT><END>"
+ },
+ {
+  "id": "dlg_2ED",
+  "en": "<FACE:A3>What's that? <PAUSE>How stupid!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2EE",
+  "en": "<FACE:23>That hurts, you big nincompoop!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2EF",
+  "en": "<FACE:33>Owwwwww! What IS this?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2F0",
+  "en": "<FACE:33>I'm all covered in mud... <PAUSE><FACE:43>This is the WORST!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2F1",
+  "en": "<FACE:33>Kyaaan... <PAUSE>Where am I?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2F2",
+  "en": "<FACE:73>Too much<PAUSE> spinning... <PAUSE>I feel<PAUSE> sick...<WAIT><END>"
+ },
+ {
+  "id": "dlg_2F3",
+  "en": "<FACE:33>Mean, mean, mean! I'm burnt to a crisp!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2F4",
+  "en": "<FACE:13>...<PAUSE>? What was <PAUSE>that just now?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2F5",
+  "en": "<FACE:33>Kya<HEART> Somebody gave me a present! It pays to be cute!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2F6",
+  "en": "<FACE:03>Oh, I'm getting so sleepy<HEART> ...<PAUSE><FACE:53>Riiyaaa<HEART><PAUSE>...<WAIT><END>"
+ },
+ {
+  "id": "dlg_2F7",
+  "en": "<FACE:B3>Kyaaa<HEART> <PAUSE><NICK2>, are you okaaay?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2F8",
+  "en": "<FACE:03>Just the two of us... <FACE:63><PAUSE>Riiyaaa<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_2FB",
+  "en": "<FACE:13>R<PAUSE>...<PAUSE> <NICK2>, <PAUSE>...<PAUSE>are you okay?<WAIT><END>"
+ },
+ {
+  "id": "dlg_2FC",
+  "en": "<FACE:43>Hey! <PAUSE>What are you doing to <NICK2>?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_2FD",
+  "en": "<FACE:03><NICK2>, what did you get? Show me, show meee<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_2FE",
+  "en": "<FACE:03>Oh my<HEART> A bed in a place like this...<HEART> <FACE:53><NICK>, I don't know what to say<PAUSE><HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_2FF",
+  "en": "<FACE:A3>Oh? <PAUSE>You're still alive.<WAIT><END>"
+ },
+ {
+  "id": "dlg_300",
+  "en": "<FACE:03>Oh? <PAUSE>A pitfall, here of all places?<WAIT><END>"
+ },
+ {
+  "id": "dlg_301",
+  "en": "<FACE:13>Hey! <PAUSE>Didn't we already pass through here?<WAIT><END>"
+ },
+ {
+  "id": "dlg_302",
+  "en": "<FACE:B3>Whew, that gave me a fright... <PAUSE><FACE:03>But don't worry, <FACE:23>I'm perfectly fine!<WAIT><END>"
+ },
+ {
+  "id": "dlg_303",
+  "en": "<FACE:03>Do you really like spinning around that much?<WAIT><END>"
+ },
+ {
+  "id": "dlg_304",
+  "en": "<FACE:13>Hey, <PAUSE>that guy just walked off with something!<WAIT><END>"
+ },
+ {
+  "id": "dlg_305",
+  "en": "<FACE:13>What a weird old man...<WAIT><END>"
+ },
+ {
+  "id": "dlg_306",
+  "en": "<FACE:43>This is no time for a nap!<WAIT><END>"
+ },
+ {
+  "id": "dlg_307",
+  "en": "<FACE:43>What are you doing? What a klutz!<WAIT><END>"
+ },
+ {
+  "id": "dlg_308",
+  "en": "<FACE:43>Here AGAIN? I don't want to get lost!<WAIT><END>"
+ },
+ {
+  "id": "dlg_30A",
+  "en": "<FACE:23>Kyahahaha! <PAUSE>Look at you! You're burnt to a crisp!<WAIT><END>"
+ },
+ {
+  "id": "dlg_30B",
+  "en": "<FACE:23>That's <NICK2> for you. You sure love to spin<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_30C",
+  "en": "<FACE:43>Why are you just standing there in a daze?! <PAUSE>That was a pickpocket!<WAIT><END>"
+ },
+ {
+  "id": "dlg_30D",
+  "en": "<FACE:43>Don't get all happy about taking stuff from strangers!<WAIT><END>"
+ },
+ {
+  "id": "dlg_30E",
+  "en": "<FACE:43>Are you <PAUSE>even trying?<WAIT><END>"
+ },
+ {
+  "id": "dlg_30F",
+  "en": "<FACE:33>Take that!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_310",
+  "en": "<FACE:03>I'm on a diet, but... <PAUSE><FACE:23>don't mind if I do<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_311",
+  "en": "<FACE:03>I'm feeling a little thirsty... Don't mind if I do<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_312",
+  "en": "<FACE:03>How refreshing! Now I can fight a bit longer<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_313",
+  "en": "<FACE:A3>Wasn't that something important?<WAIT><END>"
+ },
+ {
+  "id": "dlg_314",
+  "en": "<FACE:03>Wow, that's amazing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_315",
+  "en": "<FACE:03><NAMEC8D3> isn't attacking. <FACE:B3>Kinda sneaky, but now's our chance, quick!<WAIT><END>"
+ },
+ {
+  "id": "dlg_316",
+  "en": "<FACE:03>I'll set this <ITEM2> in front of me. It might block enemy attacks.<WAIT><END>"
+ },
+ {
+  "id": "dlg_317",
+  "en": "<FACE:A3>Using <ITEM2> in a place like this? How tacky<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_318",
+  "en": "<FACE:03>I can put water in this.<WAIT><END>"
+ },
+ {
+  "id": "dlg_319",
+  "en": "<FACE:24>Oh-ho-ho-hooo! One dose of Yakko Brand potion and you're done for!<WAIT><END>"
+ },
+ {
+  "id": "dlg_31A",
+  "en": "<FACE:04>Fool! Did you come all this way just to get beaten by me?<WAIT><END>"
+ },
+ {
+  "id": "dlg_31B",
+  "en": "<FACE:14>Y-you can say that all you want... I'm not... scared at all!<WAIT><END>"
+ },
+ {
+  "id": "dlg_31C",
+  "en": "<FACE:04>Yakko Brand<NL><END>"
+ },
+ {
+  "id": "dlg_31D",
+  "en": "<CALL:$4189>Sleeping Pills!<NL><WAIT>Sweet Dreams Snooze-a-Doze!<WAIT><END>"
+ },
+ {
+  "id": "dlg_31E",
+  "en": "<FACE:94>...Wait<PAUSE>...huh? <PAUSE>...<FACE:74>Zzz...<WAIT><END>"
+ },
+ {
+  "id": "dlg_31F",
+  "en": "<CALL:$4189>Freezing Potion!<NL><WAIT>Chilly-Willy Deep Freeze!<WAIT><END>"
+ },
+ {
+  "id": "dlg_320",
+  "en": "<CALL:$4189>Hypnosis Potion!<NL><WAIT>Whoa-Whoa Virtual Reality!<WAIT><END>"
+ },
+ {
+  "id": "dlg_321",
+  "en": "<FACE:14><PAUSE>...<PAUSE>Looks like<PAUSE>... <PAUSE>...<PAUSE>it didn't work<PAUSE>...{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_322",
+  "en": "<CALL:$4189>Transformation Potion!<NL><WAIT>Parallel Changer!<WAIT><END>"
+ },
+ {
+  "id": "dlg_323",
+  "en": "<FACE:C0><PAUSE>...<PAUSE>What the heck is THIS?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_324",
+  "en": "<CALL:$4189>Flame Potion!<NL><WAIT>Hot-Hot Napalm Bomb!<WAIT><END>"
+ },
+ {
+  "id": "dlg_325",
+  "en": "<CALL:$4189>Recovery Potion!<NL><WAIT>Peppy Power-Up Ace!<WAIT><END>"
+ },
+ {
+  "id": "dlg_326",
+  "en": "<FACE:44>All right! <PAUSE>Yakko is BAAACK!<WAIT><END>"
+ },
+ {
+  "id": "dlg_327",
+  "en": "<CALL:$4189><FACE:44>Gunpowder Ball!<NL><WAIT>Bravo Ka-BOOM!<WAIT><END>"
+ },
+ {
+  "id": "dlg_328",
+  "en": "<FACE:74>Hot-hot-hot-hot-HOOOT!<WAIT><END>"
+ },
+ {
+  "id": "dlg_329",
+  "en": "<CALL:$4189><FACE:24>Giant Potion!<NL><WAIT>Jumbo Maaax!<WAIT><END>"
+ },
+ {
+  "id": "dlg_32A",
+  "en": "<FACE:23>Ufufufufu...<WAIT><CLR><FACE:94>M<PAUSE>...<PAUSE>Marin?!<WAIT><CLR><FACE:23>Yakko! Now's the time to use THAT!<WAIT><CLR><FACE:24>All right! Our special move!<WAIT><CLR><FACE:24>Urara Angels! <FACE:23>Beauty Mermaid Pair<HEART><WAIT><CLR><FACE:43>...<PAUSE>Hey! What kind of lame name is THAT?!<WAIT><CLR><FACE:44>Like you're one to talk! Your name's no better!<WAIT><CLR><FACE:43>What did you say?!<WAIT><CLR><FACE:44>Why, you...!<WAIT><CLR><FACE:B3><PAUSE>.<PAUSE>.<PAUSE>.Huh? ...Where'd the monster go?<WAIT><CLR><FACE:14><PAUSE>...Who knows?<WAIT><CLR><FACE:23><PAUSE>...<PAUSE>Oh...<PAUSE> whatever<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_32B",
+  "en": "<FACE:04>Hmph... <PAUSE>You're not half bad...<WAIT><END>"
+ },
+ {
+  "id": "dlg_32C",
+  "en": "<FACE:A4>Heh. <PAUSE>What do you think you're doing?<WAIT><END>"
+ },
+ {
+  "id": "dlg_32D",
+  "en": "<FACE:A4>That... <PAUSE>what's that supposed to be?<WAIT><END>"
+ },
+ {
+  "id": "dlg_32E",
+  "en": "<FACE:44>Hey, hold it right there!<WAIT><END>"
+ },
+ {
+  "id": "dlg_32F",
+  "en": "<FACE:B4>Not<PAUSE> bad at all...<WAIT><END>"
+ },
+ {
+  "id": "dlg_330",
+  "en": "<FACE:A4>Well, <PAUSE>that's about what I expected...<WAIT><END>"
+ },
+ {
+  "id": "dlg_331",
+  "en": "<FACE:A4>.<PAUSE>.<PAUSE>.<PAUSE>Good grief<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_332",
+  "en": "<FACE:B4>My Yakko Brand magic potions are WAY better than that!<WAIT><END>"
+ },
+ {
+  "id": "dlg_334",
+  "en": "<FACE:24>See? My Yakko Brand magic potions are much more useful!<WAIT><END>"
+ },
+ {
+  "id": "dlg_335",
+  "en": "<FACE:A4>And you... <PAUSE>call yourself a magician?<WAIT><END>"
+ },
+ {
+  "id": "dlg_336",
+  "en": "<FACE:84>You'll pay for that<FACE:44>...<WAIT><CLR><FACE:30>I'm sorry, Yakkooo!<WAIT><END>"
+ },
+ {
+  "id": "dlg_337",
+  "en": "<FACE:84>Nwaaah! <PAUSE>OWWW!<WAIT><END>"
+ },
+ {
+  "id": "dlg_338",
+  "en": "<FACE:B4>Aaaaaah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_339",
+  "en": "<FACE:74>Hyaaah! <PAUSE>Where am I?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_33A",
+  "en": "<FACE:74><PAUSE>Spinning... <PAUSE>it's spinning... <PAUSE>the whole world is spinniiing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_33B",
+  "en": "<FACE:B4>Gwaaah! <PAUSE>What the heck is this?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_33C",
+  "en": "<FACE:B4>Huh? <PAUSE>Wait, was that a pickpocket?<WAIT><END>"
+ },
+ {
+  "id": "dlg_33D",
+  "en": "<FACE:14>I was so scared, I just took it...<WAIT><END>"
+ },
+ {
+  "id": "dlg_33E",
+  "en": "<FACE:04>Huh?<PAUSE> Suddenly I'm so<PAUSE> slee<PAUSE>py... <FACE:64>Mmm... <PAUSE>Lord Shewaviii<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_33F",
+  "en": "<FACE:A4>What are you doing? ...<PAUSE>What a klutz...<WAIT><END>"
+ },
+ {
+  "id": "dlg_340",
+  "en": "<FACE:A4>Didn't we come through here before?<WAIT><END>"
+ },
+ {
+  "id": "dlg_343",
+  "en": "<FACE:04>That was a pretty flashy explosion...<WAIT><END>"
+ },
+ {
+  "id": "dlg_344",
+  "en": "<FACE:A4>Hey... <PAUSE>who even falls for a pickpocket<WAIT> these days?<WAIT><END>"
+ },
+ {
+  "id": "dlg_345",
+  "en": "<FACE:A4>.<PAUSE>.<PAUSE>.<PAUSE>W<PAUSE>...what a weird old man...<WAIT><END>"
+ },
+ {
+  "id": "dlg_346",
+  "en": "<FACE:44>Who naps in a place like this?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_347",
+  "en": "<FACE:14><NICK2>, are you... <PAUSE>okay?<WAIT><END>"
+ },
+ {
+  "id": "dlg_348",
+  "en": "<FACE:14>So mermaids really can't fly after all...<WAIT><END>"
+ },
+ {
+  "id": "dlg_34A",
+  "en": "<FACE:B4>Huh? <PAUSE>This place <PAUSE>looks familiar...<WAIT><END>"
+ },
+ {
+  "id": "dlg_34B",
+  "en": "<FACE:14>You're pretty tough for someone so \"delicate\"...<WAIT><END>"
+ },
+ {
+  "id": "dlg_34C",
+  "en": "<FACE:24>Oh-ho-ho-ho! Robbed by a pickpocket? What a magnificent nitwit!<WAIT><END>"
+ },
+ {
+  "id": "dlg_34D",
+  "en": "<FACE:44>Hey! <PAUSE>Mister, give me something too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_34E",
+  "en": "<FACE:A4>How can you even think of sleeping here<PAUSE>...<WAIT><END>"
+ },
+ {
+  "id": "dlg_34F",
+  "en": "<FACE:44>What are you goofing off for, dummy?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_350",
+  "en": "<FACE:44>Don't fall for a trap like this!<WAIT><END>"
+ },
+ {
+  "id": "dlg_351",
+  "en": "<FACE:44>You bumbling little Red Riding Hood!<WAIT><END>"
+ },
+ {
+  "id": "dlg_352",
+  "en": "<FACE:44>...Hurting yourself on purpose so Lord Seravi will nurse you? Not a chance!<WAIT><END>"
+ },
+ {
+  "id": "dlg_353",
+  "en": "<FACE:A4>... <PAUSE>Looked like you were having fun.<WAIT><END>"
+ },
+ {
+  "id": "dlg_354",
+  "en": "<FACE:44>Stop taking everything people hand you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_356",
+  "en": "<FACE:44>Don't you DARE sleep here!<WAIT><END>"
+ },
+ {
+  "id": "dlg_357",
+  "en": "<FACE:04>The true art of using items is throwing them at the enemy.<WAIT><END>"
+ },
+ {
+  "id": "dlg_358",
+  "en": "<FACE:74>I'm so hungry... <FACE:04>Maybe I'll try eating this <ITEM2>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_359",
+  "en": "<FACE:04>I'm so thirsty... Maybe I'll try drinking this <ITEM2>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_35A",
+  "en": "<FACE:04>It's a stamina-restoring item. <FACE:A4>My medicine works way better, though.<WAIT><END>"
+ },
+ {
+  "id": "dlg_35B",
+  "en": "<FACE:44>Why would you THROW that?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_35C",
+  "en": "<FACE:44>If you had an amazing item like that, you should've used it already!<WAIT><END>"
+ },
+ {
+  "id": "dlg_35D",
+  "en": "<FACE:44>Come on, what are you doing? Beat them to a pulp while they can't move!<WAIT><END>"
+ },
+ {
+  "id": "dlg_35E",
+  "en": "<FACE:04>Protect me, <ITEM2>! After all, I'm a delicate little mai<PAUSE>-<PAUSE>den<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_35F",
+  "en": "<FACE:44>Like I could use junk like that! WHAM!<WAIT><END>"
+ },
+ {
+  "id": "dlg_360",
+  "en": "<FACE:04>I could fit water inside this.<WAIT><END>"
+ },
+ {
+  "id": "dlg_361",
+  "en": "<FACE:44>Hiyaaah!<END>"
+ },
+ {
+  "id": "dlg_362",
+  "en": "<FACE:44>Hrraaah!<END>"
+ },
+ {
+  "id": "dlg_363",
+  "en": "<FACE:24>Yaaaaargh!<END>"
+ },
+ {
+  "id": "dlg_364",
+  "en": "<FACE:44>Hi-YAAAH!<END>"
+ },
+ {
+  "id": "dlg_365",
+  "en": "<FACE:04>Take that!<END>"
+ },
+ {
+  "id": "dlg_366",
+  "en": "<FACE:45>Flying Squirrel Ninja Suzu, here I go!<WAIT><END>"
+ },
+ {
+  "id": "dlg_367",
+  "en": "<FACE:45>I'm in a hurry, so please don't get in my way!<WAIT><END>"
+ },
+ {
+  "id": "dlg_368",
+  "en": "<FACE:15>I wonder how far my ninja arts will get me...<WAIT><END>"
+ },
+ {
+  "id": "dlg_369",
+  "en": "<FACE:35>I don't like ghooosts!<WAIT><END>"
+ },
+ {
+  "id": "dlg_36A",
+  "en": "<FACE:45>Flying Squirrel Ninja Art!<NL><END>"
+ },
+ {
+  "id": "dlg_36B",
+  "en": "<CALL:$4A0F><WAIT>Shuriken!<END>"
+ },
+ {
+  "id": "dlg_36C",
+  "en": "<CALL:$4A0F><WAIT>Single Slash!<END>"
+ },
+ {
+  "id": "dlg_36D",
+  "en": "<CALL:$4A0F><WAIT>Leaf Cloak!<END>"
+ },
+ {
+  "id": "dlg_36E",
+  "en": "<CALL:$4A0F><WAIT>Body Double!<END>"
+ },
+ {
+  "id": "dlg_36F",
+  "en": "<CALL:$4A0F><WAIT>Frog Technique!<END>"
+ },
+ {
+  "id": "dlg_370",
+  "en": "<CALL:$4A0F><WAIT>Water Style!<END>"
+ },
+ {
+  "id": "dlg_371",
+  "en": "<CALL:$4A0F><WAIT>Fire Style!<END>"
+ },
+ {
+  "id": "dlg_372",
+  "en": "<FACE:45>Special move!<NL><CALL:$4A0F><WAIT>Sun Style!<END>"
+ },
+ {
+  "id": "dlg_373",
+  "en": "<FACE:15>If it comes to this<PAUSE>...<PAUSE> um... <FACE:45>Riiya! <WAIT>GO!!!<END>"
+ },
+ {
+  "id": "dlg_374",
+  "en": "<FACE:05>Amazing! That's <NICK2> for you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_375",
+  "en": "<FACE:15>Huh...? <PAUSE><NICK2> failed? That can't be...<WAIT><END>"
+ },
+ {
+  "id": "dlg_376",
+  "en": "<FACE:85>...Um? <PAUSE><NICK2>, what was that just now...?<WAIT><END>"
+ },
+ {
+  "id": "dlg_377",
+  "en": "<FACE:35>Waaah, <PAUSE>waaah, <PAUSE><NICK2>, that's so meeean!<WAIT><END>"
+ },
+ {
+  "id": "dlg_378",
+  "en": "<FACE:05>Wow, <NICK2>, that's amazing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_379",
+  "en": "<FACE:05>It's okay. <PAUSE>There's always next time.<WAIT><END>"
+ },
+ {
+  "id": "dlg_37A",
+  "en": "<FACE:15>Umm<PAUSE>...<WAIT><END>"
+ },
+ {
+  "id": "dlg_37B",
+  "en": "<FACE:35>Waaah, <NICK2>, that's so mean!<WAIT><END>"
+ },
+ {
+  "id": "dlg_37C",
+  "en": "<FACE:85>Oh! Falling rocks!<WAIT><END>"
+ },
+ {
+  "id": "dlg_37D",
+  "en": "<FACE:35>Eek!<WAIT><END>"
+ },
+ {
+  "id": "dlg_37E",
+  "en": "<FACE:65>I got blown away!<WAIT><END>"
+ },
+ {
+  "id": "dlg_37F",
+  "en": "<FACE:65>Wh-<PAUSE>what was that?<WAIT><END>"
+ },
+ {
+  "id": "dlg_380",
+  "en": "<FACE:35>Waaah, <PAUSE>that really hurt!<WAIT><END>"
+ },
+ {
+  "id": "dlg_381",
+  "en": "<FACE:15>Huh? What a strange man...<PAUSE><FACE:45> Oh!?<WAIT><END>"
+ },
+ {
+  "id": "dlg_382",
+  "en": "<FACE:05>Oh, <PAUSE>is it really okay for me to have this?<WAIT><END>"
+ },
+ {
+  "id": "dlg_383",
+  "en": "<FACE:05>It's okay to rest <PAUSE>just a little bit, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_384",
+  "en": "<FACE:15>Eek! <PAUSE><NICK2>, are you all right?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_385",
+  "en": "<FACE:05>Press the START button to check where we are.<WAIT><END>"
+ },
+ {
+  "id": "dlg_389",
+  "en": "<FACE:45>Ah! <PAUSE>That man's a pickpocket! <PAUSE>Stop right there!<WAIT><END>"
+ },
+ {
+  "id": "dlg_38A",
+  "en": "<FACE:45><NICK2>, what did you get?<WAIT><END>"
+ },
+ {
+  "id": "dlg_38B",
+  "en": "<FACE:05><NICK2> seems so tired... <PAUSE>Let's just stay like this a little while.<PAUSE><FACE:55><HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_38C",
+  "en": "<FACE:15>Um<PAUSE>... <PAUSE>are you all right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_38D",
+  "en": "<FACE:15>Looks like we got sent somewhere else.<WAIT><END>"
+ },
+ {
+  "id": "dlg_38F",
+  "en": "<FACE:15>Are you all riiight?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_390",
+  "en": "<FACE:45>Our items are gone! <PAUSE>That man was a pickpocket!<WAIT><END>"
+ },
+ {
+  "id": "dlg_391",
+  "en": "<FACE:05><NICK2>, that's wonderful!<WAIT><END>"
+ },
+ {
+  "id": "dlg_392",
+  "en": "<FACE:15>You mustn't sleep in a place like this!<WAIT><END>"
+ },
+ {
+  "id": "dlg_393",
+  "en": "<FACE:05>Wow, land mines sure make a big explosion!<WAIT><END>"
+ },
+ {
+  "id": "dlg_394",
+  "en": "<FACE:05>I picked this up along the way, but<NL><END>"
+ },
+ {
+  "id": "dlg_395",
+  "en": "<CALL:$4A0F><ITEM2> Toss!<WAIT><END>"
+ },
+ {
+  "id": "dlg_396",
+  "en": "<CALL:$4D46>this <ITEM2> is edible, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_397",
+  "en": "<CALL:$4D46>this <ITEM2> is drinkable, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_398",
+  "en": "<FACE:05>I feel better now! It restored my stamina.<WAIT><END>"
+ },
+ {
+  "id": "dlg_399",
+  "en": "<FACE:95>I used it, but... was that okay?<WAIT><END>"
+ },
+ {
+  "id": "dlg_39A",
+  "en": "<FACE:25>Wow, that's amazing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_39B",
+  "en": "<FACE:05><NAMEC8D3> doesn't seem to be attacking. Now's our chance!<WAIT><END>"
+ },
+ {
+  "id": "dlg_39C",
+  "en": "<FACE:05>A ninja's armor class gets better with nothing equipped! But I'll use it anyway.<WAIT><END>"
+ },
+ {
+  "id": "dlg_39D",
+  "en": "<FACE:15>I think this item is better used during battle... probably.<WAIT><END>"
+ },
+ {
+  "id": "dlg_39E",
+  "en": "<FACE:05>This looks handy for drawing water!<WAIT><END>"
+ },
+ {
+  "id": "dlg_39F",
+  "en": "<FACE:06>I am the Grave Keeper, guardian of the cemetery.<WAIT><CLR><FACE:0C>And I'm the Grave Digger. I dig the holes!<WAIT><CLR><FACE:06>Oh my, <PAUSE>someone has collapsed in a place like this.<WAIT><CLR><FACE:0C>What a nuisance. <PAUSE>Way too young to die, though.<WAIT><CLR><FACE:16>Quite right. <PAUSE>Well then<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3A0",
+  "en": "<FACE:26>Hi-ho, hi-ho! <FACE:06>I am the most delicious Matsutake mushroom.<WAIT><CLR><FACE:0C>And I'm the super-nutritious Shiitake!<WAIT><CLR><FACE:06>Oh? <PAUSE>Someone has collapsed here.<WAIT><CLR><FACE:0C>Oh no! <PAUSE>Leave them in a cave <PAUSE>and they'll go moldy!<WAIT><CLR><FACE:16>That would be far too sad<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3A1",
+  "en": "<FACE:26>Spinning round and round, <PAUSE>round we go! I am a passing compass.<WAIT><CLR><FACE:0C>And I'm his assistant!<WAIT><CLR><FACE:16>Oh? <PAUSE>You there... what are you doing in a place like this?<WAIT><CLR><FACE:0C>Looks like you got lost and can't move!<WAIT><CLR><FACE:06>How terrible. <PAUSE>We must get you to a hospital at once<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3A2",
+  "en": "<FACE:26>Swish, swish... <PAUSE>I am a passing sea turtle!<WAIT><CLR><FACE:0C>And I'm a passing sea turtle kid!<WAIT><CLR><FACE:16>Oh my, <PAUSE>someone's sleeping under the sea.<WAIT><CLR><FACE:0C>I don't think they're sleeping. I think they can't move!<WAIT><CLR><FACE:06>Goodness, how awful. <PAUSE>For now, let's carry them to dry land<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3A3",
+  "en": "<FACE:26>Hoo-hoo, <PAUSE>hoo-hoo! <PAUSE>We are a passing owl and child.<WAIT><CLR><FACE:0C>Owl chick here<HEART><WAIT><CLR><FACE:16>Hoo? <PAUSE>Well, well. Someone's sleeping in a place like this...<WAIT><CLR><FACE:0C>Hey, <PAUSE>maybe they <PAUSE>can't move anymore?<WAIT><CLR><FACE:06>Hoo? <PAUSE>Is that so? <PAUSE>That won't do at all.<WAIT><CLR><FACE:0C>Anyway, we've got to take them somewhere they can rest!<WAIT><CLR><FACE:06>Indeed<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3A4",
+  "en": "<FACE:26>Ha-ha-ha-ha-ha! <PAUSE>I am but a humble passing masked ninja!!<WAIT><CLR><FACE:0C>And I'm Blue Shadow<HEART><WAIT><CLR><FACE:06>What's this!? <PAUSE>Someone has collapsed here!<WAIT><CLR><FACE:0C>Oh no! <PAUSE>They're hurt!<WAIT><CLR><FACE:06>This won't do. <PAUSE>Let's take them somewhere safe, quickly!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3A5",
+  "en": "<FACE:FF>Thank you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3A6",
+  "en": "<FACE:FF>Flutter, flutter, flutter...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3A7",
+  "en": "Lassie!<WAIT><CLR><FACE:FF>Woof woof!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3A8",
+  "en": "<FACE:2F>Whoa, a whole school of taiyaki!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3A9",
+  "en": "<FACE:4E>Earthquakes! <PAUSE>Thunder! <PAUSE>Fire! <PAUSE>And... DAD!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3AA",
+  "en": "<FACE:2E>Good nightshade!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3AB",
+  "en": "<FACE:FF>Oi! What d'ya think yer doin'?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3AC",
+  "en": "<FACE:FF>Boing! Boing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3AD",
+  "en": "<FACE:FF>There! Pssshhh!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3AE",
+  "en": "<FACE:5E>Charm Beam!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3AF",
+  "en": "<FACE:FF>Thud.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3B0",
+  "en": "The staff fell over, pointing north.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3B1",
+  "en": "The staff fell over, pointing east.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3B2",
+  "en": "The staff fell over, pointing south.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3B3",
+  "en": "The staff fell over, pointing west.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3B4",
+  "en": "<FACE:FF>Poisoned!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3B5",
+  "en": "<FACE:FF>Snap!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3B6",
+  "en": "<FACE:7E>Good night<PAUSE>-sha<PAUSE>de...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3B7",
+  "en": "<CLR><FACE:4E>Hmph! Hmph!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3B8",
+  "en": "<FACE:FF><NICK2>'s charm went way up!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3B9",
+  "en": "<FACE:C2>Lick, lick! Woof woof woof!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3BA",
+  "en": "Whoops! Sorry 'bout that, pal!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3BB",
+  "en": "The Present Man, at yer service, guv'nor!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3BC",
+  "en": "Shake!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3BD",
+  "en": "<FACE:47>That's not what you promised!<WAIT> I was supposed to be the strongest secret character! <SCROLL>Well?! Well?!<WAIT><CLR><FACE:0C>Oh, honestly<HEART><WAIT><CLR><FACE:C1>- P.S. -<NL><NL>It seems we managed to graduate <SCROLL>safely too<HEART> <SCROLL>Yours truly, <SCROLL>Student Rep Mary<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_3BE",
+  "en": "<FACE:0F><NICK2>! <NAMEC8D3> is blocking the way!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3BF",
+  "en": "<FACE:0F><NICK2>, <NAMEC8D3> is blocking the way!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3C0",
+  "en": "<FACE:0F><NICK2>, <NAMEC8D3> is blocking our way.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3C1",
+  "en": "<FACE:23>Pfft! It's just <NAMEC8D3>! In that case, <NICK2> can handle it <SCROLL>all alone<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_3C2",
+  "en": "<FACE:04>I needn't lift a finger for the likes of <NAMEC8D3>.<FACE:24><WAIT><END>"
+ },
+ {
+  "id": "dlg_3C3",
+  "en": "Graaave... stooone...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3C5",
+  "en": "What a grave, short-lived end...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3C6",
+  "en": "Welcome to the Bone Zone!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3C7",
+  "en": "Worked my bones to the bone... for nothing...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3C8",
+  "en": "Flap flap! Squeak squeak!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3C9",
+  "en": "Eek! Squeak! Squawk!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3CA",
+  "en": "Zombi the little fawn is soooo cuuute<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_3CB",
+  "en": "The zombie flew round in a circle...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3CC",
+  "en": "Please... let me rest in peace...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3CD",
+  "en": "I can't rest in peaaace!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3CE",
+  "en": "You won't get my cup! Take this! Straw Dance!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3CF",
+  "en": "Little brother... <PAUSE>I'm counting on you...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3D0",
+  "en": "You won't get my cup! Take this! Prayer of Sticks!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3D1",
+  "en": "Big brother... <PAUSE>sorry I lost...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3D2",
+  "en": "You won't get my cup! Take this! Bricks of Fury!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3D3",
+  "en": "Oink! <PAUSE>We beat the big bad wolf, and yet...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3D4",
+  "en": "Squid... <PAUSE>squid... <PAUSE>SQUIIID!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3D5",
+  "en": "Kyoeeeh! ...twitch... twitch...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3D6",
+  "en": "Squeak! Squeak! <PAUSE>SQUEAK!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3D7",
+  "en": "I lost, squeak...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3D8",
+  "en": "I'll crush you with my prize-winning weight!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3D9",
+  "en": "Time to go on a diet...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3DA",
+  "en": "Even an ant is tough when it's huge! <PAUSE>Wahahahaha!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3DB",
+  "en": "No way! That's ANT-believable!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3DC",
+  "en": "Apo? <PAUSE>I'm a giant hippo.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3DD",
+  "en": "A... <PAUSE>po... <PAUSE>po...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3DE",
+  "en": "I'll skewer youuu!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3DF",
+  "en": "I only grow one millimeter a yeeear...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3E0",
+  "en": "It's coming... <PAUSE>it's coming... <PAUSE>HAND <PAUSE>POWER!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3E1",
+  "en": "Someday I'll get my fingers on youuu...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3E2",
+  "en": "You'll never get my mushrooms! Never!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3E3",
+  "en": "You haven't seen the last of me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3E4",
+  "en": "Ahh, <PAUSE>I'm sooo bored. <PAUSE>Guess I'll <PAUSE>pick on you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3E5",
+  "en": "It was fun meeting you.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3E6",
+  "en": "Hiya! <PAUSE>The Skele-Crew, here to help!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3E7",
+  "en": "Not wanted? <PAUSE>Not wanted here? <PAUSE>Boo-hoo-hooo...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3E8",
+  "en": "I'm a little ogre who got lost. Let's play tag! I'm IT!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3E9",
+  "en": "Aww... don't run away...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3EA",
+  "en": "Hey! <PAUSE>The left-field stands are waitin' for my home run!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3EB",
+  "en": "Batter... <PAUSE>OUCH!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3EC",
+  "en": "Babu babu, <PAUSE>BABUU!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3ED",
+  "en": "You're a big meanie-weenie...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3EE",
+  "en": "Four legs in the morning, <PAUSE>two at noon, <PAUSE>three at night. <PAUSE>What am I?<WAIT><END>"
+ },
+ {
+  "id": "dlg_3EF",
+  "en": "Next time I'll stomp you flat, mark my words...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3F0",
+  "en": "<PAUSE>.<PAUSE>.<PAUSE>.<PAUSE>{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_3F1",
+  "en": "I won't play any more pranks!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3F2",
+  "en": "Big! Shocking! I'm the Shock Frooog!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3F3",
+  "en": "I give up, ribbit...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3F4",
+  "en": "Now then, <PAUSE>how many octopuses are there?<WAIT><END>"
+ },
+ {
+  "id": "dlg_3F5",
+  "en": "Everybody, run for it!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3F6",
+  "en": "My electricity'll make you tingle-tingle!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3F7",
+  "en": "Yowza! This one's too much for me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3F8",
+  "en": "How do you do? <PAUSE>I'm Dress Orca.<WAIT><END>"
+ },
+ {
+  "id": "dlg_3F9",
+  "en": "I hate violence...<WAIT><END>"
+ },
+ {
+  "id": "dlg_3FA",
+  "en": "Yeah! The great Tee Orca will take you down!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3FB",
+  "en": "Let's call today a draw!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3FC",
+  "en": "I may wear rags, but my heart is pure silk! <PAUSE>I'm a cut above the other orcas!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3FD",
+  "en": "And just what is wrong with me?<WAIT><END>"
+ },
+ {
+  "id": "dlg_3FE",
+  "en": "Ook-ook! <PAUSE>Eek-eek! <PAUSE>Sea Monkey!<WAIT><END>"
+ },
+ {
+  "id": "dlg_3FF",
+  "en": "Ooook! You got me, eek!<WAIT><END>"
+ },
+ {
+  "id": "dlg_400",
+  "en": "Come now, what's the harm? What's the harm?<WAIT> Muhyohyohyohyo!<WAIT><END>"
+ },
+ {
+  "id": "dlg_401",
+  "en": "A man's life is but fifty years...<WAIT><END>"
+ },
+ {
+  "id": "dlg_402",
+  "en": "This humble samurai shall give the Pink Coral to Lady Marin!<WAIT><END>"
+ },
+ {
+  "id": "dlg_403",
+  "en": "Lady Mariiin...<WAIT><END>"
+ },
+ {
+  "id": "dlg_404",
+  "en": "This tree<NOTE> what tree?<NOTE> The tree you wonder about!<WAIT><END>"
+ },
+ {
+  "id": "dlg_405",
+  "en": "Protect nature!<WAIT><END>"
+ },
+ {
+  "id": "dlg_406",
+  "en": "Move along, I'm just a tree!<WAIT><END>"
+ },
+ {
+  "id": "dlg_407",
+  "en": "I told you I'm just a tree...<WAIT><END>"
+ },
+ {
+  "id": "dlg_408",
+  "en": "<NOTE>Run away, run away, little miss!<WAIT><END>"
+ },
+ {
+  "id": "dlg_409",
+  "en": "I got beaten...<WAIT><END>"
+ },
+ {
+  "id": "dlg_40A",
+  "en": "Behold! The fury of the people!<WAIT><END>"
+ },
+ {
+  "id": "dlg_40B",
+  "en": "My fury wasn't enough...<WAIT><END>"
+ },
+ {
+  "id": "dlg_40C",
+  "en": "I won't forgive anyone who ravages the forest!<WAIT><END>"
+ },
+ {
+  "id": "dlg_40D",
+  "en": "Or anyone who picks on meee...<WAIT><END>"
+ },
+ {
+  "id": "dlg_40E",
+  "en": "Where's the Holy Water?<WAIT><END>"
+ },
+ {
+  "id": "dlg_40F",
+  "en": "I won't give up until I find the Holy Water...<WAIT><END>"
+ },
+ {
+  "id": "dlg_410",
+  "en": "<FACE:00>Oh, <PAUSE>it's <NAMEC8D3>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_411",
+  "en": "<FACE:01>Hey, <PAUSE>it's a horse with a horn!<WAIT><END>"
+ },
+ {
+  "id": "dlg_412",
+  "en": "<FACE:02>Oh, <PAUSE>it's <NAMEC8D3>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_413",
+  "en": "<FACE:03>My, <PAUSE>if it isn't <NAMEC8D3>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_414",
+  "en": "<FACE:04>Oh, <PAUSE>isn't that <NAMEC8D3>?<WAIT><END>"
+ },
+ {
+  "id": "dlg_415",
+  "en": "<FACE:05>Oh, <PAUSE>it's <NAMEC8D3>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_416",
+  "en": "<FACE:20>Huh? It's nuzzling up to me!<WAIT><CLR><FACE:25>It's sooo cute!<WAIT><END>"
+ },
+ {
+  "id": "dlg_417",
+  "en": "<FACE:24>Everyone knows <NAMEC8D3> only nuzzles up to pure maidens.<WAIT><CLR><FACE:23>Kyaa<HEART> <PAUSE>Come here, come here, Uni-poo<HEART> <PAUSE>.<PAUSE>.<PAUSE>.<PAUSE><FACE:43>Yikes!<WAIT><CLR><FACE:44>Why is it attacking MEEE?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_418",
+  "en": "Your heart is impure...<WAIT><END>"
+ },
+ {
+  "id": "dlg_419",
+  "en": "W-water...<WAIT><END>"
+ },
+ {
+  "id": "dlg_41A",
+  "en": "Cruel, so cruel, way too cruuuel!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_41B",
+  "en": "Lose your way in my song!<WAIT><END>"
+ },
+ {
+  "id": "dlg_41C",
+  "en": "But I still wanted to siiing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_41D",
+  "en": "My whip goes snap, crack!<WAIT><END>"
+ },
+ {
+  "id": "dlg_41E",
+  "en": "Not bad at all!<WAIT><END>"
+ },
+ {
+  "id": "dlg_41F",
+  "en": "<CALL:$5C83><END>"
+ },
+ {
+  "id": "dlg_420",
+  "en": "Go easy on me, would ya!<WAIT><END>"
+ },
+ {
+  "id": "dlg_421",
+  "en": "Love... it's the whip of love<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_422",
+  "en": "My love shall laaast foreeever...<WAIT><END>"
+ },
+ {
+  "id": "dlg_423",
+  "en": "I'll stare you down! CAAAW!<WAIT><END>"
+ },
+ {
+  "id": "dlg_424",
+  "en": "You brats did well!<WAIT><END>"
+ },
+ {
+  "id": "dlg_425",
+  "en": "<CALL:$5C83><END>"
+ },
+ {
+  "id": "dlg_426",
+  "en": "Retreat for now!<WAIT><END>"
+ },
+ {
+  "id": "dlg_427",
+  "en": "Call me Milady! Snap, crack!<WAIT><END>"
+ },
+ {
+  "id": "dlg_428",
+  "en": "Be gentle with a lady, won't you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_429",
+  "en": "You brats! Well done getting this far! I am the keeper of the Trick Maze!<WAIT><SCROLL>I show no mercy! <SCROLL>Come at me with <SCROLL>all you've got!<WAIT><END>"
+ },
+ {
+  "id": "dlg_42A",
+  "en": "You actually got past me... Splendid...<WAIT><END>"
+ },
+ {
+  "id": "dlg_42B",
+  "en": "You ungrateful wretch!<WAIT><END>"
+ },
+ {
+  "id": "dlg_42C",
+  "en": "Aah! How cruel!<WAIT><END>"
+ },
+ {
+  "id": "dlg_42D",
+  "en": "Don't be mean!<WAIT><END>"
+ },
+ {
+  "id": "dlg_42E",
+  "en": "Ow! You hit me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_42F",
+  "en": "Mugyaaah!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_430",
+  "en": "Not yet, not yet!<WAIT><END>"
+ },
+ {
+  "id": "dlg_431",
+  "en": "Whoa! Not bad!<WAIT><END>"
+ },
+ {
+  "id": "dlg_432",
+  "en": "Ow-ow-ow!<WAIT><END>"
+ },
+ {
+  "id": "dlg_433",
+  "en": "What do you think you're doing?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_434",
+  "en": "How dare you do that?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_435",
+  "en": "Now I'm mad!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_436",
+  "en": "Cut it out...<WAIT><END>"
+ },
+ {
+  "id": "dlg_437",
+  "en": "Ah... what are you doing?<WAIT><END>"
+ },
+ {
+  "id": "dlg_438",
+  "en": "You'll pay for that!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_439",
+  "en": "Come at me for real!<WAIT><END>"
+ },
+ {
+  "id": "dlg_43A",
+  "en": "Wahahaha! Is that all you've got?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_43B",
+  "en": "<FACE:20>Somehow it's making me happy too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_43C",
+  "en": "<FACE:40>Wing Kris, Burning <PAUSE>Flash!<WAIT><END>"
+ },
+ {
+  "id": "dlg_43D",
+  "en": "<FACE:40>Beauty Selene Arrow, Magical <PAUSE>Shoo<PAUSE>t!<WAIT><END>"
+ },
+ {
+  "id": "dlg_43E",
+  "en": "<FACE:40>In the name of Love, <PAUSE>Courage <PAUSE>and Hope... Magical Princess, <FACE:20>Holy Up!<WAIT><END>"
+ },
+ {
+  "id": "dlg_43F",
+  "en": "<FACE:A0>Huh? This stray dog... could it be...?<WAIT><END>"
+ },
+ {
+  "id": "dlg_440",
+  "en": "<FACE:00>I bet even <NAMEC8D3> would get hooked on Ribon!<WAIT><END>"
+ },
+ {
+  "id": "dlg_441",
+  "en": "<FACE:20>So sweet and yummy!<WAIT><CLR><FACE:C0>Huh? This is awful, oink!<WAIT><END>"
+ },
+ {
+  "id": "dlg_442",
+  "en": "<FACE:40>Hyaaah!<WAIT><FACE:30> Kyaaa! I got hurt too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_443",
+  "en": "<FACE:20>Yay, yay! A pillow fight!<WAIT><END>"
+ },
+ {
+  "id": "dlg_444",
+  "en": "<FACE:00>Let's flip it! <PAUSE>Flip!<WAIT><END>"
+ },
+ {
+  "id": "dlg_445",
+  "en": "<FACE:90>Uh-oh. A whole day went by.<WAIT><END>"
+ },
+ {
+  "id": "dlg_446",
+  "en": "<FACE:20>Pa-ra-ra-ra, pa-pa-paaa! <NICK2>'s level went up!<NOTE><WAIT><END>"
+ },
+ {
+  "id": "dlg_447",
+  "en": "<FACE:00>With this controller, I can power up too, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_448",
+  "en": "<FACE:10>This one <PAUSE>looks scary to drink... Hyah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_449",
+  "en": "<FACE:00>A sticker, a sticker! I know, I'll stick it on <ITEM2>!<WAIT><CLR><FACE:B0>Huh? <ITEM2> turned into Holy Water!<WAIT><END>"
+ },
+ {
+  "id": "dlg_44A",
+  "en": "<FACE:00><NOTE>The witch who leaps through tiiime<NOTE><WAIT><END>"
+ },
+ {
+  "id": "dlg_44B",
+  "en": "<FACE:C1>Meow, meow!<WAIT><END>"
+ },
+ {
+  "id": "dlg_44C",
+  "en": "<FACE:10>This Turban Shell is raw, so I can't eat it. Oh well, I'll toss it!<WAIT><END>"
+ },
+ {
+  "id": "dlg_44D",
+  "en": "<FACE:20>I can't stop laughing!{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_44E",
+  "en": "<FACE:20>Kyahahaha!<WAIT><CLR><END>"
+ },
+ {
+  "id": "dlg_44F",
+  "en": "<FACE:00>Oh, <PAUSE>the Pink Coral is waving at me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_450",
+  "en": "<FACE:40>Wacky Hammer, Burning Flash!<WAIT><END>"
+ },
+ {
+  "id": "dlg_451",
+  "en": "<FACE:00><NAMEC8D3> fell asleep!<WAIT><END>"
+ },
+ {
+  "id": "dlg_452",
+  "en": "<FACE:20>This is so fun! I'm gonna go play for a bit!<WAIT><END>"
+ },
+ {
+  "id": "dlg_453",
+  "en": "<FACE:40>Here goes!<WAIT><FACE:90> Oh... I can't reach.<WAIT><END>"
+ },
+ {
+  "id": "dlg_454",
+  "en": "<FACE:00>Is there something inside? Oh, it's <ITEM2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_455",
+  "en": "<FACE:00>Love, Courage, Hope! Now, <PAUSE>grant me your Miracle Power! <PAUSE>Holy Up!<WAIT><END>"
+ },
+ {
+  "id": "dlg_456",
+  "en": "<FACE:40>I don't know why, but I'm getting really, really angry!<WAIT><END>"
+ },
+ {
+  "id": "dlg_457",
+  "en": "<FACE:00>Come forth, Tiger!<WAIT><END>"
+ },
+ {
+  "id": "dlg_458",
+  "en": "<FACE:00>So I just take this cup back home?<WAIT><END>"
+ },
+ {
+  "id": "dlg_459",
+  "en": "<FACE:10>Which way should I go?<WAIT><END>"
+ },
+ {
+  "id": "dlg_45A",
+  "en": "<FACE:B0>Wah, <PAUSE>wah, <PAUSE>wah, <PAUSE>wah! It's stuck to me! What do I do...<WAIT><END>"
+ },
+ {
+  "id": "dlg_45B",
+  "en": "<FACE:00>Our manga is in this book!<WAIT><END>"
+ },
+ {
+  "id": "dlg_45C",
+  "en": "<FACE:30>Uh-oh, this is bad...<WAIT><END>"
+ },
+ {
+  "id": "dlg_45D",
+  "en": "<FACE:20>So sweet and yummy!<WAIT><CLR><FACE:C0>Huh? I'm a pig, oink!<WAIT><END>"
+ },
+ {
+  "id": "dlg_45E",
+  "en": "<FACE:80>I've been cursed! <PAUSE>What do I do...<WAIT><END>"
+ },
+ {
+  "id": "dlg_45F",
+  "en": "<FACE:70>My body's moving on its own!<WAIT><END>"
+ },
+ {
+  "id": "dlg_460",
+  "en": "<FACE:70>I feel siiick... <PAUSE>Everything's spinning...<WAIT><END>"
+ },
+ {
+  "id": "dlg_461",
+  "en": "<FACE:30>Uh-oh! <PAUSE>..... <FACE:A0>We have tape somewhere, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_463",
+  "en": "<FACE:30>Ugh... sniff... I'm scaaared...<WAIT><END>"
+ },
+ {
+  "id": "dlg_464",
+  "en": "<FACE:21>Whoa, that kinda makes me happy!<WAIT><END>"
+ },
+ {
+  "id": "dlg_465",
+  "en": "<FACE:21>Whoa, awesome, <NICK2>! You're so cool!<WAIT><END>"
+ },
+ {
+  "id": "dlg_466",
+  "en": "<FACE:0F><NICK2>, doggy time!<FACE:C2> You got it!<WAIT><END>"
+ },
+ {
+  "id": "dlg_467",
+  "en": "<FACE:01>Let's get <NAMEC8D3> to read Ribon!<WAIT><END>"
+ },
+ {
+  "id": "dlg_468",
+  "en": "<FACE:21>Sweet and tasty!<WAIT><CLR><FACE:C0>Oink! Now I'm not a werewolf, I'm a were-PIG!<WAIT><END>"
+ },
+ {
+  "id": "dlg_469",
+  "en": "<FACE:41>Whoa! I'm taking damage too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_46A",
+  "en": "<FACE:21>Hey, <PAUSE>that looks fun! I wanna throw stuff too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_46B",
+  "en": "<FACE:01>Hey, <PAUSE>I'm gonna flip this calendar!<WAIT><END>"
+ },
+ {
+  "id": "dlg_46C",
+  "en": "<FACE:41>Hey! The date jumped ahead! Is that okay?<WAIT><END>"
+ },
+ {
+  "id": "dlg_46D",
+  "en": "<FACE:01>I kinda feel like I got stronger!<WAIT><END>"
+ },
+ {
+  "id": "dlg_46E",
+  "en": "<FACE:01>Awesome! This controller remembers commands! Time to power up!<WAIT><END>"
+ },
+ {
+  "id": "dlg_470",
+  "en": "<FACE:11>This looks tasty. How should I use it?<WAIT><END>"
+ },
+ {
+  "id": "dlg_471",
+  "en": "<FACE:01>A sticker, a sticker! Where should I stick it? Ah, on <ITEM2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_472",
+  "en": "<FACE:01>I know that! It's that warm spot sticking out past the upstairs window, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_473",
+  "en": "<FACE:C1>Meow-meow-meow?<WAIT><END>"
+ },
+ {
+  "id": "dlg_474",
+  "en": "<FACE:11>I wanna eat it, but I can't get it out of the shell!<WAIT> Forget it, I'll just toss it!<WAIT><END>"
+ },
+ {
+  "id": "dlg_475",
+  "en": "<FACE:21>I can't stop laughing!{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_476",
+  "en": "<FACE:21>Wahahaha!<WAIT><CLR><END>"
+ },
+ {
+  "id": "dlg_477",
+  "en": "<FACE:01>Huh, <PAUSE>this coral is waving at me. Weirdo.<WAIT><END>"
+ },
+ {
+  "id": "dlg_478",
+  "en": "<FACE:41>Take this! <PAUSE>Hammer of Rage!<WAIT><END>"
+ },
+ {
+  "id": "dlg_479",
+  "en": "<FACE:01><NAMEC8D3> fell asleep!<WAIT><END>"
+ },
+ {
+  "id": "dlg_47A",
+  "en": "<FACE:01>Whoa! <PAUSE>These shoes can fly! I'm gonna zip over there in one hop!<WAIT><END>"
+ },
+ {
+  "id": "dlg_47B",
+  "en": "<FACE:41>Hyaaaaah! Take THIS!<WAIT><END>"
+ },
+ {
+  "id": "dlg_47C",
+  "en": "<FACE:01>Somethin' inside? Oh, it's <ITEM2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_47D",
+  "en": "<FACE:21>Hanyara-honyara! Change me into <NAMEC8D3>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_47E",
+  "en": "<FACE:51>I think I got kinda cute<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_47F",
+  "en": "<FACE:C2>Grrrooowl! I'm so mad my paw pads are on fire!<WAIT><END>"
+ },
+ {
+  "id": "dlg_480",
+  "en": "<FACE:B1>Waaah! A tiger!<WAIT><END>"
+ },
+ {
+  "id": "dlg_481",
+  "en": "<FACE:01>Let's grab this and head back, quick!<WAIT><END>"
+ },
+ {
+  "id": "dlg_482",
+  "en": "<FACE:11>Which way do we go?<WAIT><END>"
+ },
+ {
+  "id": "dlg_483",
+  "en": "<FACE:01>So I just gotta light this thing, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_484",
+  "en": "<FACE:21>Hey, this manga's really good!<WAIT><END>"
+ },
+ {
+  "id": "dlg_485",
+  "en": "<FACE:11>This cake's a dud...<WAIT><END>"
+ },
+ {
+  "id": "dlg_486",
+  "en": "<FACE:11>So I'm cursed. Is that s'posed to be bad or somethin'?<WAIT><END>"
+ },
+ {
+  "id": "dlg_487",
+  "en": "<FACE:B1>Wh-whoa... My body's movin' on its own!<WAIT><END>"
+ },
+ {
+  "id": "dlg_489",
+  "en": "<FACE:71>There's birdies tweetin' in my head... Tweet tweet tweet...<WAIT><END>"
+ },
+ {
+  "id": "dlg_48A",
+  "en": "<FACE:51>Uh-oh, it broke... <PAUSE>Wasn't me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_48C",
+  "en": "<FACE:C2>Yelp! Yelp!<WAIT><END>"
+ },
+ {
+  "id": "dlg_48D",
+  "en": "<FACE:22>Somehow I feel my heart has been cleansed.<WAIT><END>"
+ },
+ {
+  "id": "dlg_48E",
+  "en": "<FACE:22>Just what I'd expect of <NICK2>!<WAIT><NL><FACE:12>But your abilities don't seem any different.<WAIT><END>"
+ },
+ {
+  "id": "dlg_48F",
+  "en": "<FACE:B2>Surely this item was made just for me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_490",
+  "en": "<FACE:42>There! <PAUSE>Go get 'em, you dumb dog!<WAIT><END>"
+ },
+ {
+  "id": "dlg_491",
+  "en": "<FACE:02>Let's try handing <NAMEC8D3> a copy of Ribon.<WAIT><END>"
+ },
+ {
+  "id": "dlg_492",
+  "en": "<FACE:22>Sweets really do make you fat, don't they?<WAIT><CLR><FACE:C0>Oink! My fans will cry if they see me like this!<WAIT><END>"
+ },
+ {
+  "id": "dlg_493",
+  "en": "<FACE:12>It hurts me too? Then I can't use it carelessly.<WAIT><END>"
+ },
+ {
+  "id": "dlg_494",
+  "en": "<FACE:02>Honestly! This isn't a school field trip, you know!<WAIT><END>"
+ },
+ {
+  "id": "dlg_496",
+  "en": "<FACE:02>I'll just tear off one page.<WAIT><END>"
+ },
+ {
+  "id": "dlg_497",
+  "en": "<FACE:92>What have you done?! Now we have fewer days left!<WAIT><END>"
+ },
+ {
+  "id": "dlg_498",
+  "en": "<FACE:02><NICK2>'s level went up! A new transformation should be learned.<PAUSE>.<PAUSE>.<PAUSE> I think.<WAIT><END>"
+ },
+ {
+  "id": "dlg_499",
+  "en": "<FACE:02>This controller's turbo function will boost our attack power!<WAIT><END>"
+ },
+ {
+  "id": "dlg_49A",
+  "en": "<FACE:12>This bottle has a Yakko Brand label. Could it be one of Yakko's potions?<WAIT><END>"
+ },
+ {
+  "id": "dlg_49B",
+  "en": "<FACE:02>Stick this on anything, and it turns into Holy Water.<WAIT><NL>See?<WAIT><END>"
+ },
+ {
+  "id": "dlg_49C",
+  "en": "<FACE:02>What a lovely scent...<WAIT><NL><FACE:72>So... dizzy... Huh? What's happening to me?<WAIT><END>"
+ },
+ {
+  "id": "dlg_49D",
+  "en": "<FACE:C1>Meow?<WAIT><END>"
+ },
+ {
+  "id": "dlg_49E",
+  "en": "<FACE:12>It's all right to throw this away, isn't it?<WAIT><END>"
+ },
+ {
+  "id": "dlg_49F",
+  "en": "<FACE:22>I can't stop laughing{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_4A0",
+  "en": "<FACE:22>Ahahaha!<WAIT><CLR><END>"
+ },
+ {
+  "id": "dlg_4A1",
+  "en": "<FACE:02>The Pink Coral is waving at us. <NL><FACE:A2>Which means...<WAIT><END>"
+ },
+ {
+  "id": "dlg_4A2",
+  "en": "<FACE:42>For love, nothing is too hard! Hyaah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4A3",
+  "en": "<FACE:02><NAMEC8D3> has fallen asleep.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4A4",
+  "en": "<FACE:B2>Waaah! <PAUSE>I'm being blown <PAUSE>awaaay!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4A5",
+  "en": "<FACE:42>Hnnngh... heave! There!<WAIT><NL><FACE:92>Thud...<WAIT><END>"
+ },
+ {
+  "id": "dlg_4A6",
+  "en": "<FACE:02>I wonder what's inside? Oh, it's <ITEM2>.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4A7",
+  "en": "<FACE:52>Shiine Power, Make Up!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4A8",
+  "en": "<FACE:52>I seem to have become rather cute<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_4A9",
+  "en": "<FACE:42>The power of anger is surging through my whole body!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4AA",
+  "en": "<FACE:12>Why is there a tiger here?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4AB",
+  "en": "<FACE:02>Perhaps this could be the Holy Cup.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4AC",
+  "en": "<FACE:12>O staff, guide me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4AD",
+  "en": "<FACE:B2>It's been lit! I have to use it in battle or throw it away, fast!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4AE",
+  "en": "<FACE:22>It comes with so many freebies. How fun!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4AF",
+  "en": "<FACE:12>Frankly, this tastes too awful to eat.<WAIT><NL>...Not that it stopped me.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4B0",
+  "en": "<FACE:12>This is a cursed item.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4B1",
+  "en": "<FACE:12>Someone is controlling me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4B2",
+  "en": "<FACE:72>Which way is right? It's the hand I hold my fork in... or was that left?<WAIT><END>"
+ },
+ {
+  "id": "dlg_4B3",
+  "en": "<FACE:A2>I-it broke... But the exam rules never said it couldn't be broken, did they?<WAIT><END>"
+ },
+ {
+  "id": "dlg_4B5",
+  "en": "<FACE:32>I'm sorry! I won't do it again! Please forgive me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4B6",
+  "en": "<FACE:23>How lovely! I never knew you'd be so happy<HEART><WAIT><NL><FACE:A3>So... <PAUSE>it's just words?<WAIT><END>"
+ },
+ {
+  "id": "dlg_4B7",
+  "en": "<FACE:43>Hmph! <PAUSE>If that's all it takes, my \"Marin <PAUSE>Marilyn <PAUSE>Marimari<PAUSE>rin\" is way cuter!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4B8",
+  "en": "<FACE:43>This mutt! <PAUSE>The dumb dog that always gets between me and my Riiya! Shoo! Scram!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4B9",
+  "en": "<FACE:03>I'll let <NAMEC8D3> read Ribon. I bet they'll be glued to cute little Marin<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_4BA",
+  "en": "<FACE:23>There's always room for sweets, isn't there?<WAIT><CLR><FACE:C0>Oink! I can't let my Riiya see me like thiiis!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4BB",
+  "en": "<FACE:83>Kyan! Owwie!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4BC",
+  "en": "<FACE:03>After the pillow fight, shall we tell scary stories?<WAIT><END>"
+ },
+ {
+  "id": "dlg_4BD",
+  "en": "<FACE:03>Surely it's okay to tear off a page by now, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_4BE",
+  "en": "<FACE:13>A whole day went by! What do we do?<WAIT><END>"
+ },
+ {
+  "id": "dlg_4BF",
+  "en": "<FACE:03>Kya<HEART> Marin leveled up<NOTE><WAIT><END>"
+ },
+ {
+  "id": "dlg_4C0",
+  "en": "<FACE:03>They say you can input commands with just one button<HEART> This'll make me stronger!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4C1",
+  "en": "<FACE:03>Why, this is Yakko's potion! And I get to use it for free! Lucky me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4C2",
+  "en": "<FACE:03>Oh, how odd! Put a Holy Sticker on <ITEM2>, and presto! Holy Water!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4C3",
+  "en": "<FACE:53>A whole field of lavender... It's like Anne of Green Gables is waiting for me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4C4",
+  "en": "<FACE:C1>Meow<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_4C5",
+  "en": "<FACE:13>If only it were bigger, it could be my shelter...<WAIT><NL>Oh well, I'll just toss it!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4C6",
+  "en": "<FACE:23>I can't stop laughing{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_4C7",
+  "en": "<FACE:23>Ohohoho!<WAIT><CLR><END>"
+ },
+ {
+  "id": "dlg_4C8",
+  "en": "<FACE:13>The Pink Coral is waving... Here it comes! <PAUSE>It's coming!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4C9",
+  "en": "<FACE:03>I'm so frail, I've never held anything heavier than chopsticks or a hammer...<WAIT><NL><FACE:43>Hyaaah<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_4CA",
+  "en": "<FACE:03><NAMEC8D3> dozed off.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4CB",
+  "en": "<FACE:73>Kyaaah! <PAUSE>Good-byyyye!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4CC",
+  "en": "<FACE:03>A delicate maiden like me can't throw a Pickle Stone. Thud<WAIT><END>"
+ },
+ {
+  "id": "dlg_4CD",
+  "en": "<FACE:03>Is something inside? Oh! It's <ITEM2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4CE",
+  "en": "<FACE:23>Marin <PAUSE>Marilyn Marimari<PAUSE>rin! Turn into <NAMEC8D3>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4CF",
+  "en": "<FACE:43>It's not like you did anything, but I'll NEVER forgive you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4D0",
+  "en": "<FACE:33>Kyaaah! A tiger!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4D1",
+  "en": "<FACE:43>And just HOW am I supposed to use this cup here and now?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4D2",
+  "en": "<FACE:13>Which way shall I go<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_4D3",
+  "en": "<FACE:B3>Kya! It got lit! What do I dooo<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_4D4",
+  "en": "<FACE:03>Breaking news! A Mermaid Marin advisory!<WAIT><NL>...Is there no such thing?<WAIT><END>"
+ },
+ {
+  "id": "dlg_4D5",
+  "en": "<FACE:03>Well, <PAUSE>that'll do.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4D6",
+  "en": "<FACE:13>Oh no, I've been cursed! Why was I born under such an unlucky star?<WAIT><CLR><FACE:53>I suppose that's the fate of a tragic beauty.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4D7",
+  "en": "<FACE:33>Waaah! <PAUSE>My body's moving on its owwn!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4D8",
+  "en": "<FACE:73>Wibble wobble... Woozy woozy...<WAIT><END>"
+ },
+ {
+  "id": "dlg_4D9",
+  "en": "<FACE:03>Oops, it broke. But I'm fine. Why, you ask? That's <PAUSE>a <PAUSE>se<PAUSE>cret<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_4DB",
+  "en": "<FACE:33>Kyaaaaaaah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4DC",
+  "en": "<FACE:A4>Just <PAUSE>a <PAUSE>thank-<PAUSE>you? No actual reward?<WAIT><END>"
+ },
+ {
+  "id": "dlg_4DD",
+  "en": "<FACE:44>What the heck?! All that changed was my clothes!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4DE",
+  "en": "<FACE:04>I went to the trouble of picking you up, so make yourself useful!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4DF",
+  "en": "<FACE:04><NAMEC8D3>! Go put together the Ribon freebies!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4E0",
+  "en": "<FACE:24>It looks fattening, but it's too yummy to stop!<WAIT><CLR><FACE:C0>Eek! Why have I turned into a pig?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4E1",
+  "en": "<FACE:44>This sword's slashing at me too! You tryin' to kill me, ya lousy blade?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4E2",
+  "en": "<FACE:A4>A pillow fight? You're such a baby.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4E3",
+  "en": "<FACE:04>Tear-off calendars exist to be torn!<WAIT><NL>Rip!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4E4",
+  "en": "<FACE:44>You idiot! Now we've got fewer days left!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4E5",
+  "en": "<FACE:04>Yakko leveled up! <NL><FACE:64>Just a little more till I'm promoted to Lord Seravi's bride!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4E6",
+  "en": "<FACE:B4>Hold left to charge, then right and the B button<PAUSE>... <NL><FACE:44>Like I've got time for that!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4E7",
+  "en": "<FACE:44>Hey, this is a potion I made! \"Shady Brew\"?! How rude!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4E8",
+  "en": "<FACE:04>Stick the sticker on <ITEM2>...<WAIT><NL><FACE:B4>What the heck?! It turned into Holy Water!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4E9",
+  "en": "<FACE:04>Lavender potions have a time-trip effect, you know.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4EA",
+  "en": "<FACE:C1>Meow meow, hissss!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4EB",
+  "en": "<FACE:14>Junk like this, you just toss.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4EC",
+  "en": "<FACE:24>I can't stop laughing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4ED",
+  "en": "<FACE:24>Oh-hohoho!<WAIT><CLR><END>"
+ },
+ {
+  "id": "dlg_4EE",
+  "en": "<FACE:04>The Pink Coral is waving...<WAIT><END>"
+ },
+ {
+  "id": "dlg_4EF",
+  "en": "<FACE:44>Come on, come on! I'll blast ya to bits!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4F0",
+  "en": "<FACE:04><NAMEC8D3> is asleep. Yep. <PAUSE>Sound <PAUSE>asleep.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4F1",
+  "en": "<FACE:24>Shwatch!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4F2",
+  "en": "<FACE:44>Hyaaaaah!<WAIT><NL>Huff, puff... It doesn't reach at all...<WAIT><END>"
+ },
+ {
+  "id": "dlg_4F3",
+  "en": "<FACE:04>There's something inside. Why, it's <ITEM2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4F4",
+  "en": "<FACE:24>Tekumaku Mayakon, Tekumaku Mayakon! Turn into <NAMEC8D3>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4F5",
+  "en": "<FACE:44>Grrraaah! I dunno why, but I'm MAD!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4F6",
+  "en": "<FACE:24>Oh-hohoho! Now go and pound the enemy flat!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4F7",
+  "en": "<FACE:44>Maybe this is the Holy Cup...<WAIT><END>"
+ },
+ {
+  "id": "dlg_4F8",
+  "en": "<FACE:14>Which road is the easiest?<WAIT><END>"
+ },
+ {
+  "id": "dlg_4F9",
+  "en": "<FACE:04>I'll try lighting it. Every great experiment needs a sacrifice!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4FA",
+  "en": "<FACE:24>Forget Red Riding Hood ChaCha. Black Hood Yakko is WAY better!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4FB",
+  "en": "<FACE:44>Who could eat this junk?! Crash! Table flip!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4FC",
+  "en": "<FACE:04>A curse? Like I'm scared of that.<WAIT><END>"
+ },
+ {
+  "id": "dlg_4FD",
+  "en": "<FACE:44>What the heck?! I'm moving on my own!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4FE",
+  "en": "<FACE:74>Oh no! This potion scrambles your sense of direction!<WAIT><END>"
+ },
+ {
+  "id": "dlg_4FF",
+  "en": "<FACE:94>Oops! <NL><FACE:24><PAUSE>A little crack like this will heal if I just spit on it, right?{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_501",
+  "en": "<FACE:34>Gyaaaaaah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_502",
+  "en": "<FACE:25>Oh, <PAUSE>it feels like my heart is being cleansed.<WAIT><END>"
+ },
+ {
+  "id": "dlg_503",
+  "en": "<FACE:15><NICK2>, this is no time to be playing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_504",
+  "en": "<FACE:B5>Huh? <PAUSE>This stray dog looks just like Riiya{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_505",
+  "en": "<FACE:05>Will <NAMEC8D3> read Ribon, I wonder?<WAIT><NL><FACE:15>I'm hardly ever in it, though...<WAIT><END>"
+ },
+ {
+  "id": "dlg_506",
+  "en": "<FACE:25>It's sooo yummy!<WAIT><CLR><FACE:C0>Oink! Now I'm not a ninja, I'm a ninj-OINK!<WAIT><END>"
+ },
+ {
+  "id": "dlg_507",
+  "en": "<FACE:15>This is a cursed item! It cuts its own wielder!<WAIT><END>"
+ },
+ {
+  "id": "dlg_508",
+  "en": "<FACE:25>Pillow fights are so much fun!<WAIT><END>"
+ },
+ {
+  "id": "dlg_509",
+  "en": "<FACE:05>Flying Squirrel Ninja Art: Tear-Off Calendar Technique!<WAIT><END>"
+ },
+ {
+  "id": "dlg_50A",
+  "en": "<FACE:15>We wasted a whole day! Let's hurry!<WAIT><END>"
+ },
+ {
+  "id": "dlg_50B",
+  "en": "<FACE:B5>Huh? <PAUSE>Wha? <PAUSE>Is it really okay to level up with this?<NL><FACE:05>Lucky<PAUSE> cha-cha-cha<PAUSE>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_50C",
+  "en": "<FACE:05>I can use the turbo button, so my attack power is tripled!<WAIT><END>"
+ },
+ {
+  "id": "dlg_50D",
+  "en": "<FACE:B5>Oh, <PAUSE>this has a Yakko Brand label. Maybe I'd better not use it{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_50E",
+  "en": "<FACE:05>Slap! <NL><FACE:B5>Huh? <ITEM2> turned into Holy Water!<WAIT><END>"
+ },
+ {
+  "id": "dlg_50F",
+  "en": "<FACE:55>In flower language, this means <PAUSE>\"the pain of first love.\"<PAUSE> Not that it matters...<WAIT><END>"
+ },
+ {
+  "id": "dlg_510",
+  "en": "<FACE:C1>Meow... Purr purr purr...<WAIT><END>"
+ },
+ {
+  "id": "dlg_511",
+  "en": "<FACE:15>It's raw, so we can't eat it. It's a waste, but let's throw it out.<WAIT><END>"
+ },
+ {
+  "id": "dlg_512",
+  "en": "<FACE:25>I can't stop laughiiing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_513",
+  "en": "<FACE:25>Tee-hee!<WAIT><CLR><END>"
+ },
+ {
+  "id": "dlg_514",
+  "en": "<FACE:05>Oh, <PAUSE>this coral is waving at us. How cute!<WAIT><END>"
+ },
+ {
+  "id": "dlg_515",
+  "en": "<FACE:45>Here goes! <PAUSE>Bonk!<WAIT><END>"
+ },
+ {
+  "id": "dlg_516",
+  "en": "<FACE:05><NAMEC8D3> fell asleep!<WAIT><END>"
+ },
+ {
+  "id": "dlg_517",
+  "en": "<FACE:B5>Eeek! Where am <PAUSE>I go-ing?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_518",
+  "en": "Pickle Stone, throw!<WAIT><NL>Huh? It won't reach!<WAIT><END>"
+ },
+ {
+  "id": "dlg_519",
+  "en": "<FACE:05>Is there something inside? Oh, it's <ITEM2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_51A",
+  "en": "<FACE:55>Pipiruma Pipiruma Dorimimpa! Turn into <NAMEC8D3><HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_51B",
+  "en": "<FACE:45>I can be scary when I'm angry too, you know! Hmph, hmph!<WAIT><END>"
+ },
+ {
+  "id": "dlg_51C",
+  "en": "<FACE:45>Go, Mr. Tiger!<WAIT><END>"
+ },
+ {
+  "id": "dlg_51D",
+  "en": "<FACE:45>For now, let's keep it somewhere safe.<WAIT><END>"
+ },
+ {
+  "id": "dlg_51E",
+  "en": "<FACE:15>Which way shall we go?<WAIT><END>"
+ },
+ {
+  "id": "dlg_51F",
+  "en": "<FACE:75>This bomb is already lit! We'd better throw it away!<WAIT><END>"
+ },
+ {
+  "id": "dlg_520",
+  "en": "<FACE:35>I hardly get any scenes even in the manga... Sulk, sulk...<WAIT><END>"
+ },
+ {
+  "id": "dlg_521",
+  "en": "<FACE:35>This cake doesn't taste good...<WAIT><END>"
+ },
+ {
+  "id": "dlg_522",
+  "en": "<FACE:35>I've been cursed!<WAIT><END>"
+ },
+ {
+  "id": "dlg_523",
+  "en": "<FACE:B5>Somebody's working the controller without asking{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_524",
+  "en": "<FACE:75>My head is spinning...<WAIT><END>"
+ },
+ {
+  "id": "dlg_525",
+  "en": "<FACE:B5><PAUSE>...<NL><FACE:35><PAUSE>....<NL><FACE:15><PAUSE>..... What do I do{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_527",
+  "en": "<FACE:35>I'm sorry! I'm so sorry!<WAIT><END>"
+ },
+ {
+  "id": "dlg_528",
+  "en": "<FACE:20>I got the Holy Water!<WAIT><END>"
+ },
+ {
+  "id": "dlg_529",
+  "en": "<FACE:21>Can I drink it?<WAIT><END>"
+ },
+ {
+  "id": "dlg_52A",
+  "en": "<FACE:22>So this is the Holy Water.<WAIT><END>"
+ },
+ {
+  "id": "dlg_52B",
+  "en": "<FACE:23>I got the Holy Water<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_52C",
+  "en": "<FACE:24>So this is the Holy Water.<WAIT><END>"
+ },
+ {
+  "id": "dlg_52D",
+  "en": "<FACE:25>I've obtained the Holy Water!<WAIT><END>"
+ },
+ {
+  "id": "dlg_52E",
+  "en": "<FACE:40>Nnngh... Hang in there, ChaCha!<WAIT><END>"
+ },
+ {
+  "id": "dlg_52F",
+  "en": "<FACE:41>Dammit...!<WAIT><END>"
+ },
+ {
+  "id": "dlg_530",
+  "en": "<FACE:42>Not in a place like this...<WAIT><END>"
+ },
+ {
+  "id": "dlg_531",
+  "en": "<FACE:43>Hup, sumo-style! That won't work on me!<WAIT><END>"
+ },
+ {
+  "id": "dlg_532",
+  "en": "<FACE:44>Oh, button it! It'll take way more than this to knock me down!<WAIT><END>"
+ },
+ {
+  "id": "dlg_533",
+  "en": "<FACE:35>This much is nothing! I'm fine!<WAIT><END>"
+ },
+ {
+  "id": "dlg_534",
+  "en": "<FACE:80>Aaagh!<WAIT><END>"
+ },
+ {
+  "id": "dlg_535",
+  "en": "<FACE:81>Gaaah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_536",
+  "en": "<FACE:82>Waah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_537",
+  "en": "<FACE:83>Kyah!<WAIT><END>"
+ },
+ {
+  "id": "dlg_538",
+  "en": "<FACE:84>Bleh!<WAIT><END>"
+ },
+ {
+  "id": "dlg_539",
+  "en": "<FACE:35>Owie...<WAIT><END>"
+ },
+ {
+  "id": "dlg_53A",
+  "en": "<FACE:B0><NICK2> has collapsed!{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_53B",
+  "en": "<FACE:31><NICK2>... panic, panic...<WAIT><END>"
+ },
+ {
+  "id": "dlg_53C",
+  "en": "<FACE:12><NICK2>, pull yourself together!<WAIT><END>"
+ },
+ {
+  "id": "dlg_53D",
+  "en": "<FACE:32>Waaah! <NICK2>, please hang on!<WAIT><END>"
+ },
+ {
+  "id": "dlg_53E",
+  "en": "<FACE:43><NICK2>! What are you lying around for?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_53F",
+  "en": "<FACE:33><NICK2>, are you okay?<WAIT><CLR><NICK2>, hold on!<WAIT><CLR><NICK2>, it's only a flesh wound!<WAIT><CLR><NICK2><NICK2>...<WAIT><END>"
+ },
+ {
+  "id": "dlg_540",
+  "en": "<FACE:24>Come on, <NICK2>, it's only a flesh wound!<WAIT><END>"
+ },
+ {
+  "id": "dlg_541",
+  "en": "<FACE:35><NICK2> has collapsed{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_542",
+  "en": "<FACE:35><NICK2> has collapsed... What should I do{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_543",
+  "en": "<FACE:B0>Eeek... A mouse!<WAIT><END>"
+ },
+ {
+  "id": "dlg_544",
+  "en": "<FACE:20>It doesn't hurt one bit!<WAIT><END>"
+ },
+ {
+  "id": "dlg_545",
+  "en": "<FACE:21>Didn't hurt!<WAIT><END>"
+ },
+ {
+  "id": "dlg_546",
+  "en": "<FACE:22>Huh? It doesn't hurt?<WAIT><END>"
+ },
+ {
+  "id": "dlg_547",
+  "en": "<FACE:23>Oh my, it doesn't hurt<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_548",
+  "en": "<FACE:24>That didn't hurt at ALL!<WAIT><END>"
+ },
+ {
+  "id": "dlg_549",
+  "en": "<FACE:45>It doesn't hurt.<WAIT><END>"
+ },
+ {
+  "id": "dlg_54A",
+  "en": "-Voice from Above-<NL>Your Diary Spell is:<NL><PASSWORD><WAIT><END>"
+ },
+ {
+  "id": "dlg_558",
+  "en": "<CLR>-Original Story-<NL><NL>  Min Ayahana<END>"
+ },
+ {
+  "id": "dlg_54B",
+  "en": "<CLR><NL> <HEART>The Creators<HEART><END>"
+ },
+ {
+  "id": "dlg_54C",
+  "en": "<CLR>-Game Design-<NL> Tomy<NL>  Masayuki Umasaki<END>"
+ },
+ {
+  "id": "dlg_54D",
+  "en": "<NL> Bouken Kikakukyoku<NL>  Keiji Matsuno <NL>  Makoto Nakamura<END>"
+ },
+ {
+  "id": "dlg_54E",
+  "en": "<CLR>-Program-<NL> Access<NL>  Okumin Ko<END>"
+ },
+ {
+  "id": "dlg_54F",
+  "en": "<NL><NL>  Pon Takahashi<END>"
+ },
+ {
+  "id": "dlg_550",
+  "en": "<NL><NL>  Mieko Omote <END>"
+ },
+ {
+  "id": "dlg_551",
+  "en": "<CLR>-Graphics-<NL> Access<NL>  Junko Nakamura<END>"
+ },
+ {
+  "id": "dlg_552",
+  "en": "<NL><NL>  Noriko Okubo <NL>  Takashi Sato<END>"
+ },
+ {
+  "id": "dlg_553",
+  "en": "<CLR>-Music-<NL> Tomy<NL>  Toru Tanaka<END>"
+ },
+ {
+  "id": "dlg_554",
+  "en": "<NL> Cube<NL>  Tomohiro Endo<END>"
+ },
+ {
+  "id": "dlg_555",
+  "en": "<NL><NL>  Hiroshi Iizuka <NL>  Sadamitsu Oi<END>"
+ },
+ {
+  "id": "dlg_556",
+  "en": "<CLR>-Special Thanks-<NL>  Everyone at<NL>  Bouken Kikakukyoku<END>"
+ },
+ {
+  "id": "dlg_557",
+  "en": "<CLR><NL><NL>          The End <HEART><END>"
+ },
+ {
+  "id": "dlg_000",
+  "en": "Cheerful, bright ChaCha! It would be nice if your magic got a little better.<END>"
+ },
+ {
+  "id": "dlg_001",
+  "en": "A spell that calls animals.<END>"
+ },
+ {
+  "id": "dlg_002",
+  "en": "Strong, good Riiya! Try not to be hungry all the time, and work on your manners.<END>"
+ },
+ {
+  "id": "dlg_003",
+  "en": "Turns into a wolf.<END>"
+ },
+ {
+  "id": "dlg_004",
+  "en": "Shiine knows it all, but he acts differently depending on who he's with.<END>"
+ },
+ {
+  "id": "dlg_005",
+  "en": "Uses magic to transform.<END>"
+ },
+ {
+  "id": "dlg_006",
+  "en": "Visit Apple Class, not just Banana Class! Great at sea magic.<END>"
+ },
+ {
+  "id": "dlg_007",
+  "en": "Summons sea life.<END>"
+ },
+ {
+  "id": "dlg_008",
+  "en": "Yakko is a potion genius, but she should be kinder to her friends.<END>"
+ },
+ {
+  "id": "dlg_009",
+  "en": "Yakko Brand potions.<END>"
+ },
+ {
+  "id": "dlg_00A",
+  "en": "Suzu is a Flying Squirrel Ninja Art master, but she should try not to be so shy.<END>"
+ },
+ {
+  "id": "dlg_00B",
+  "en": "Flying Squirrel Ninja Art<END>"
+ },
+ {
+  "id": "dlg_00C",
+  "en": "<NICK2><END>"
+ },
+ {
+  "id": "dlg_00D",
+  "en": "<FACE:09>Bring back the Holy Cup!<WAIT><END>"
+ },
+ {
+  "id": "dlg_00E",
+  "en": "<FACE:09>Bring back the elusive Fly Shroom!<WAIT><END>"
+ },
+ {
+  "id": "dlg_00F",
+  "en": "<FACE:09>Go defeat the evil monster in the dungeon!<WAIT><END>"
+ },
+ {
+  "id": "dlg_010",
+  "en": "<FACE:09>Bring back some of the beautiful Pink Coral!<WAIT><END>"
+ },
+ {
+  "id": "dlg_011",
+  "en": "<FACE:09>Draw Holy Water from the Holy Falls in the Magic Forest!<WAIT><END>"
+ },
+ {
+  "id": "dlg_012",
+  "en": "<FACE:09>Defeat the guardian of the Maze of Trials!<WAIT><END>"
+ },
+ {
+  "id": "dlg_013",
+  "en": "<FACE:10>Where's the Holy Cup, anyway?<WAIT><END>"
+ },
+ {
+  "id": "dlg_014",
+  "en": "<FACE:00>The Holy Cup? I don't know.<PAUSE> Maybe Master Seravi knows?<WAIT><END>"
+ },
+ {
+  "id": "dlg_015",
+  "en": "<FACE:00>Master Seravi knew?<PAUSE><FACE:20> Of course! That's Master Seravi for you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_016",
+  "en": "<FACE:20>Yay, yay! Now we can go to the dungeon!<WAIT><END>"
+ },
+ {
+  "id": "dlg_017",
+  "en": "<FACE:00>Did you find the Holy Cup?<WAIT><END>"
+ },
+ {
+  "id": "dlg_018",
+  "en": "<FACE:00>Where do Fly Shrooms grow, I wonder?<WAIT><CLR><FACE:20>Maybe Master Seravi knows!<WAIT><END>"
+ },
+ {
+  "id": "dlg_019",
+  "en": "<FACE:00>Ooh, <NICK2>, your team has to bring back a Fly Shroom?<WAIT><CLR><FACE:20>Good luck!<WAIT><END>"
+ },
+ {
+  "id": "dlg_01A",
+  "en": "<FACE:10>Umm...<PAUSE> first,<PAUSE> where am I supposed to go...?<PAUSE> Umm, ummm...<WAIT><END>"
+ },
+ {
+  "id": "dlg_01B",
+  "en": "<FACE:10>Caves always have<PAUSE> lots of creepy monsters...<PAUSE> What do I do?{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_01C",
+  "en": "<FACE:20>Did you find the mushroom?<WAIT><CLR>We'll do our best to pass too, so <NICK2> and <NICK>,<WAIT> hang in there!<WAIT><END>"
+ },
+ {
+  "id": "dlg_01D",
+  "en": "<FACE:20>Yay!<PAUSE> Monster hunt!<PAUSE> Monster hunt!<PAUSE> Just like a real hero! So cool!<SCROLL><PAUSE><FACE:10>Kinda<PAUSE> scary, though<PAUSE>.<PAUSE>.<PAUSE>.{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_01E",
+  "en": "<FACE:20>I heard you're going monster hunting. Be careful not to get hurt!<WAIT><END>"
+ },
+ {
+  "id": "dlg_01F",
+  "en": "<FACE:20>Trapsalot Dungeon?<PAUSE> Wow,<PAUSE> that name sounds like it's full of traps!<WAIT><END>"
+ },
+ {
+  "id": "dlg_020",
+  "en": "<FACE:60>Phew!<FACE:10> Time for a little break.<WAIT><END>"
+ },
+ {
+  "id": "dlg_021",
+  "en": "<FACE:20>Yay, it's the sea, the sea!<HEART> Let's play together after the exam, <NICK2>!<WAIT><END>"
+ },
+ {
+  "id": "dlg_022",
+  "en": "<FACE:20>Hey, hey,<PAUSE> what's Pink Coral like?<PAUSE> I bet it's super pretty!<WAIT><END>"
+ },
+ {
+  "id": "dlg_023",
+  "en": "<FACE:20>Yay, yay! It's the graduation exam!<PAUSE> The graduation exam! This is so much fun!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_024",
+  "en": "<FACE:00>The Dragon Palace?<PAUSE> I'd love to go, but<PAUSE><FACE:30> silly me,<PAUSE> I can't swim...<WAIT><END>"
+ },
+ {
+  "id": "dlg_025",
+  "en": "<FACE:30>...I don't know<PAUSE> what to do!<PAUSE> And Master Seravi won't tell me anything, either...<WAIT><END>"
+ },
+ {
+  "id": "dlg_026",
+  "en": "<FACE:00>Okay, let's gooo!<PAUSE><FACE:10> Huh? Where's the Magic Forest?<WAIT><END>"
+ },
+ {
+  "id": "dlg_027",
+  "en": "<FACE:00>Holy Water? I don't know.<PAUSE> Maybe Master Seravi knows?<WAIT><END>"
+ },
+ {
+  "id": "dlg_028",
+  "en": "<FACE:00>A tool shop would sell Holy Water, right?<PAUSE><FACE:10> But does this game even have shops?<WAIT><END>"
+ },
+ {
+  "id": "dlg_029",
+  "en": "<FACE:20>Yay<NOTE> yay<NOTE> A picnic in the Magic Forest!<NOTE><WAIT><END>"
+ },
+ {
+  "id": "dlg_02A",
+  "en": "<FACE:00>A field trip to the Magic Forest? I'm so jealous!<WAIT><END>"
+ },
+ {
+  "id": "dlg_02B",
+  "en": "<FACE:00>A maze, a maze! A guardian!<PAUSE><FACE:10> So... where's the Maze of Trials?<WAIT><END>"
+ },
+ {
+  "id": "dlg_02C",
+  "en": "<FACE:00>The Maze of TRIALS? Not the Maze of EXAMS, huh?<WAIT><END>"
+ },
+ {
+  "id": "dlg_02D",
+  "en": "<FACE:00>Do you think we ever get to do Holy Up in this game?<WAIT><END>"
+ },
+ {
+  "id": "dlg_02E",
+  "en": "<FACE:00>Doesn't the writing on this map look like Mr. Rascal's handwriting?<WAIT><END>"
+ },
+ {
+  "id": "dlg_02F",
+  "en": "<FACE:00>Oh, that reminds me! Mr. Rascal had a stuffed raccoon!<WAIT><END>"
+ },
+ {
+  "id": "dlg_030",
+  "en": "<FACE:20>Oh!<PAUSE> Nobody's here!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_031",
+  "en": "<FACE:10>What's going on?<PAUSE> The teachers<PAUSE> have all disappeared!{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_032",
+  "en": "<FACE:20>Oh!<PAUSE> There's a hole right here!<WAIT><END>"
+ },
+ {
+  "id": "dlg_033",
+  "en": "<FACE:20>Yaaay!<PAUSE> Looks like fun!<HEART><PAUSE> ChaCha's coming too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_034",
+  "en": "<FACE:C2>Alright, let's go look for it! Hau?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_035",
+  "en": "<FACE:21>The Holy Cup?<WAIT> Is it tasty?<WAIT><END>"
+ },
+ {
+  "id": "dlg_036",
+  "en": "<FACE:21>The Holy Cup, huh?<WAIT> The stuff we're looking for sounds way tastier.<WAIT><END>"
+ },
+ {
+  "id": "dlg_037",
+  "en": "<FACE:01>A tomb's gotta have ghosts in it.<WAIT><FACE:21> But I ain't scared!<WAIT><END>"
+ },
+ {
+  "id": "dlg_038",
+  "en": "<FACE:01>I gotta hurry too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_039",
+  "en": "<FACE:01>A mushroom hunt, huh? Speaking of which...<FACE:51> I'm starving!<WAIT><END>"
+ },
+ {
+  "id": "dlg_03A",
+  "en": "<FACE:21>Our goal's<PAUSE> a piece of cake! Graduating is<PAUSE> gonna be easy!<WAIT><END>"
+ },
+ {
+  "id": "dlg_03B",
+  "en": "<FACE:01>I heard it!<PAUSE> Fly Shrooms taste great, right?<PAUSE><FACE:21> <NICK2>!<PAUSE> If you find one,<PAUSE> save me some!<WAIT><END>"
+ },
+ {
+  "id": "dlg_03C",
+  "en": "<FACE:21>Mushrooms! Sounds tasty!<PAUSE> Let's go get 'em, quick!<WAIT><END>"
+ },
+ {
+  "id": "dlg_03D",
+  "en": "<FACE:11>Ugh...<PAUSE> wandering around made me hungry.<WAIT><END>"
+ },
+ {
+  "id": "dlg_03E",
+  "en": "<FACE:21>Alright!<PAUSE> With me around, monster hunting's<PAUSE> a piece of cake!<WAIT><END>"
+ },
+ {
+  "id": "dlg_03F",
+  "en": "<FACE:21>Whoa!<PAUSE> Monster hunting, huh?<PAUSE> That's awesome!<WAIT><END>"
+ },
+ {
+  "id": "dlg_040",
+  "en": "<FACE:11>Urgh...<PAUSE> Not that it matters, but<PAUSE> I'm SO hungry...<WAIT><END>"
+ },
+ {
+  "id": "dlg_041",
+  "en": "<FACE:21>Alright!<PAUSE> Finally,<PAUSE> it's showdown time with the monster!<WAIT><END>"
+ },
+ {
+  "id": "dlg_042",
+  "en": "<FACE:C2>With the great Riiya by your side,<PAUSE> there's nothing to be scared of!<WAIT><END>"
+ },
+ {
+  "id": "dlg_043",
+  "en": "<FACE:11>No matter how pretty it is,<PAUSE> you can't eat coral...<WAIT><END>"
+ },
+ {
+  "id": "dlg_044",
+  "en": "<FACE:31>Waaah!<PAUSE> What if I'm the only one<PAUSE> who flunks...?{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_045",
+  "en": "<FACE:21>Whoa!<PAUSE> This time it's the sea!<WAIT><CLR>Swimming's<PAUSE> my specialty too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_046",
+  "en": "<FACE:21>Coral, huh?<PAUSE> Makes me think of fish-shaped cakes!<PAUSE> Man, I want some taiyaki...<WAIT><END>"
+ },
+ {
+  "id": "dlg_047",
+  "en": "<FACE:01>Alright, let's go look!<FACE:11> But<PAUSE> I don't know where it is...<WAIT><END>"
+ },
+ {
+  "id": "dlg_048",
+  "en": "<FACE:21>Holy Water? Sounds tasty! \"Quench your thirst in ONE GUUULP!\"<PAUSE> Like<PAUSE> that, right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_049",
+  "en": "<FACE:21>Drink Holy Water and you'll be totally pumped!<WAIT> Oh,<PAUSE> we're not supposed to drink it?<WAIT><END>"
+ },
+ {
+  "id": "dlg_04A",
+  "en": "<FACE:11>The Magic Forest, huh?<WAIT> Will I be okay if I can't use magic?<WAIT><END>"
+ },
+ {
+  "id": "dlg_04B",
+  "en": "<FACE:01>In the Magic Forest, everything but magic gets weaker. Good thing I'm not going!<WAIT><END>"
+ },
+ {
+  "id": "dlg_04C",
+  "en": "<FACE:41>I'll beat that guardian myself! I don't care how strong he is!<WAIT><FACE:11> But where is he?<WAIT><END>"
+ },
+ {
+  "id": "dlg_04D",
+  "en": "<FACE:01>Is the maze guardian cool? I wanna see him too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_04E",
+  "en": "<FACE:01>I wish I'd gotten <NICK2>'s exam problem instead of mine.<WAIT><END>"
+ },
+ {
+  "id": "dlg_04F",
+  "en": "<FACE:41>I ain't scared of no guardian! Let's beat him together!<WAIT> For that, we gotta level up!<WAIT><END>"
+ },
+ {
+  "id": "dlg_050",
+  "en": "<FACE:01>Oh yeah, Mr. Rascal took the curtains from the classroom!<WAIT><END>"
+ },
+ {
+  "id": "dlg_051",
+  "en": "<FACE:11>Huh?<PAUSE> What's our goal this time,<PAUSE> again?<WAIT><END>"
+ },
+ {
+  "id": "dlg_052",
+  "en": "<FACE:21>Let's play together!<WAIT><END>"
+ },
+ {
+  "id": "dlg_053",
+  "en": "<FACE:21>Hey,<PAUSE> there's a hole!<WAIT> Cool!<PAUSE> Let's go down!<WAIT><END>"
+ },
+ {
+  "id": "dlg_054",
+  "en": "<FACE:01>So this is where you guys were!<WAIT> Take me with you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0B9",
+  "en": "<FACE:24>Oh-ho-ho-hooo!<WAIT><NL><END>"
+ },
+ {
+  "id": "dlg_09B",
+  "en": "<FACE:04>Come on, let's go! You know where the Holy Cup is, right?<WAIT><FACE:94> Don't say you don't!<WAIT><END>"
+ },
+ {
+  "id": "dlg_09C",
+  "en": "<FACE:A4>Hmph!<WAIT> I'm not nice enough to just tell you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_09D",
+  "en": "<CALL:$5CA0>I've already found where the item is! First place is mine!<WAIT><END>"
+ },
+ {
+  "id": "dlg_09E",
+  "en": "<CALL:$5CA0>First place is as good as mine!<WAIT><END>"
+ },
+ {
+  "id": "dlg_09F",
+  "en": "<FACE:04>Knowing where Mericle's Tomb is won't do you any good by itself!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0A0",
+  "en": "<FACE:04>Fly Shrooms? I know<PAUSE> all about them...<WAIT><FACE:A4> They grow<PAUSE> in Darkalot Cave,<FACE:24><PAUSE> or so they say!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0A1",
+  "en": "<FACE:44>Whaaat?!<PAUSE> Fly Shrooms?!<PAUSE> So the rumors were true!<WAIT><FACE:A4> ...I'll go get some too.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0A2",
+  "en": "<FACE:04>The test matters, but<PAUSE> I can't stop thinking about Fly Shrooms...<WAIT><FACE:A4> Mutter, mutter...<WAIT><END>"
+ },
+ {
+  "id": "dlg_0A3",
+  "en": "<FACE:04>Fly Shrooms are<PAUSE> the best ingredient there is<PAUSE> for magic potions!<WAIT><CLR><FACE:64>It'll make the perfect present for Lord Seravi!<HEART><PAUSE><CALL:$5CA0><END>"
+ },
+ {
+  "id": "dlg_0A4",
+  "en": "<FACE:24>Monsters?<PAUSE> One Yakko Brand bomb<PAUSE> and KABOOM, they're done for!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0A5",
+  "en": "<CALL:$5CA0><PAUSE>My assignment's a breeze!<WAIT> I'll finish it before you lot,<SCROLL><PAUSE> just watch!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0A6",
+  "en": "<FACE:14>Umm... what do I do?<PAUSE><FACE:24> I know!<PAUSE> I'll go ask Lord Seravi for advice...<WAIT><CLR><FACE:64>Lord Sewaviii!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_0A7",
+  "en": "<FACE:44>Hi-YAAAH!<WAIT> Traps, monsters, whatever!<PAUSE> Come at me all at once!!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0A8",
+  "en": "<FACE:04>I've got my Hot-Hot Napalm Bomb,<PAUSE> and my Whoa-Whoa Virtual Reality,<WAIT><CLR><FACE:24>so<PAUSE> I'm totally prepared!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0A9",
+  "en": "<FACE:04>Pink Coral<PAUSE> can be used to make potions.<PAUSE> <NICK2>,<PAUSE> did you know that?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0AA",
+  "en": "<FACE:04>When it comes to the sea,<PAUSE> it's gotta<PAUSE> be Marin.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0AB",
+  "en": "<FACE:04>The Coral Forest?<WAIT><CLR><FACE:44>Like<PAUSE> I<PAUSE> SAID!<PAUSE> If it's about the sea, go ask Marin!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0AC",
+  "en": "<FACE:04>The Coral Forest?<PAUSE> Free coral,<PAUSE> all I can pick!<PAUSE> And with coral, I can brew<PAUSE>.<PAUSE>.<PAUSE>.<PAUSE><FACE:A4> Heh heh.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0AD",
+  "en": "<FACE:14>Argh! Why did I have to draw such a complicated one?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0AE",
+  "en": "<FACE:04>Let's go! You know where the Holy Water is, right?<PAUSE><FACE:44> You<PAUSE> don't<PAUSE> know<PAUSE> where<PAUSE> it is?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0AF",
+  "en": "<FACE:A4>Holy Water?<PAUSE> Holy Falls?<PAUSE> Magic Forest?<WAIT><FACE:44> What on earth are you talking about?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0B0",
+  "en": "<FACE:04>Skin care, huh?<WAIT> I'm not some old lady, so I don't worry about that stuff.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0B1",
+  "en": "<FACE:44>Let's get moving!<WAIT><FACE:24> Maybe I can use the Holy Water as a potion ingredient!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_0B2",
+  "en": "<FACE:04>Drinking Holy Water restores your stamina instantly... or so I hear.<WAIT><CLR>It'd give Yakko Brand Super Peppy Power-Up a run for its money!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0B3",
+  "en": "<FACE:04>Come on, let's go! You know where the Maze of Trials is, right?<WAIT><CLR><FACE:A4>Of course, how would I know?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0B5",
+  "en": "<FACE:04>Don't you know anything? You can change jobs in the Maze of Trials!<FACE:24><WAIT> .<PAUSE>.<PAUSE>.<PAUSE>Just<PAUSE> kid<PAUSE>ding!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0B6",
+  "en": "<FACE:04>When I went by Banana Class earlier, Mr. Rascal was writing a letter.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0B7",
+  "en": "<FACE:44>I'll pass, no matter what!<FACE:64><PAUSE> And then I'm going to<PAUSE> mar<PAUSE>ry<PAUSE> Lord Seravi!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0B8",
+  "en": "<FACE:04>I saw it! Mr. Rascal was wearing women's clothes!<FACE:94><PAUSE> Is he doing cosplay or something?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0BA",
+  "en": "<CALL:$5CA0><PAUSE>This time, just<PAUSE> leave<PAUSE> it<PAUSE> to<PAUSE> Yakko!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_0BB",
+  "en": "<FACE:44>Hey!<PAUSE> Where did the teachers go?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0BC",
+  "en": "<FACE:B4>What the heck is THIS?!<WAIT> A basement, in a place like this?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0BD",
+  "en": "<FACE:44>Wait up!<PAUSE> You're leaving the STAR behind?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_055",
+  "en": "<FACE:02>The Holy Cup?<PAUSE> I'm sure Lady Dorothy would know. Let's go ask her later.<WAIT><END>"
+ },
+ {
+  "id": "dlg_056",
+  "en": "<FACE:02>The Holy Cup?<PAUSE> Lady Dorothy wanted one too, you know.<WAIT><END>"
+ },
+ {
+  "id": "dlg_057",
+  "en": "<FACE:02>You found out who made the Holy Cup?<WAIT><CLR>Then Lady Dorothy can tell you where the cup is!<WAIT><END>"
+ },
+ {
+  "id": "dlg_058",
+  "en": "<FACE:02>You'd better bring back every item with \"Cup\" in its name.<WAIT><END>"
+ },
+ {
+  "id": "dlg_059",
+  "en": "<FACE:02>So Lady Dorothy knew where the cup was after all!<PAUSE><FACE:22> That's my master!<WAIT><END>"
+ },
+ {
+  "id": "dlg_05A",
+  "en": "<FACE:02>The phantom mushroom?<PAUSE> Where in the world<PAUSE> could it be?<WAIT><END>"
+ },
+ {
+  "id": "dlg_05B",
+  "en": "<FACE:02>Oh?<PAUSE> You have to bring back a mushroom?<PAUSE> That sounds tough.<WAIT><END>"
+ },
+ {
+  "id": "dlg_05C",
+  "en": "<FACE:02>Let me see...<PAUSE>...<PAUSE><FACE:22> Oh,<PAUSE> I've got it!<WAIT> First,<PAUSE> we should go there!<WAIT><END>"
+ },
+ {
+  "id": "dlg_05D",
+  "en": "<FACE:12>Darkalot Cave?<WAIT><FACE:32> Y-you mean<PAUSE> it's in that terrifying place?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_05E",
+  "en": "<FACE:02>Our assignment is almost done!<WAIT><END>"
+ },
+ {
+  "id": "dlg_05F",
+  "en": "<FACE:02>This time,<PAUSE> I'll be your partner.<PAUSE><FACE:22> Let's defeat the monster together!<WAIT><END>"
+ },
+ {
+  "id": "dlg_060",
+  "en": "<FACE:02>An evil monster?<PAUSE> Hmm,<PAUSE> I haven't heard many rumors...<WAIT><END>"
+ },
+ {
+  "id": "dlg_061",
+  "en": "<FACE:12>Phew...<WAIT><FACE:22> To pass the exam,<PAUSE> there's so much we have to do.<PAUSE> It's hard work!<WAIT><END>"
+ },
+ {
+  "id": "dlg_062",
+  "en": "<FACE:12>Hmm...<PAUSE> what a strange name<PAUSE> for a dungeon...<WAIT><END>"
+ },
+ {
+  "id": "dlg_063",
+  "en": "<FACE:02>Under the sea,<PAUSE> we can't use all of our true strength.<WAIT><CLR><FACE:12>This is<PAUSE> going to be rough.<WAIT><END>"
+ },
+ {
+  "id": "dlg_064",
+  "en": "<FACE:02>Pink Coral?<WAIT> When it comes to the sea,<PAUSE> asking Marin<PAUSE> would be best, don't you think?<WAIT><END>"
+ },
+ {
+  "id": "dlg_065",
+  "en": "<FACE:22>Hello!<PAUSE> How's<PAUSE> your assignment coming along?<WAIT><END>"
+ },
+ {
+  "id": "dlg_066",
+  "en": "<FACE:22>The sea...<PAUSE> right...? With ChaCha...<PAUSE><FACE:52> in a swimsuit<PAUSE>.<PAUSE>.<PAUSE>.<WAIT><PAUSE><FACE:42> Ah!<PAUSE><FACE:12> What<PAUSE> am I<SCROLL> thinking?!<WAIT><END>"
+ },
+ {
+  "id": "dlg_067",
+  "en": "<FACE:22>You're going to the Coral Forest?<FACE:02> There are lots of whirlpools<SCROLL> under the sea. It's dangerous!<WAIT><SCROLL><FACE:22>Please be careful!<WAIT><END>"
+ },
+ {
+  "id": "dlg_068",
+  "en": "<FACE:02>Apparently, knights long ago made bringing back Holy Water one of their trials.<WAIT><END>"
+ },
+ {
+  "id": "dlg_069",
+  "en": "<FACE:12>Hmm...{drop}<PAUSE> My own exam problem is so hard, I can hardly help anyone else...<WAIT><END>"
+ },
+ {
+  "id": "dlg_06A",
+  "en": "<FACE:12>Oh no... At this rate, I won't be able to graduate with ChaCha!<WAIT><SCROLL>What do I do...?<WAIT><END>"
+ },
+ {
+  "id": "dlg_06B",
+  "en": "<FACE:02>We'll need something to draw the Holy Water with.<WAIT><END>"
+ },
+ {
+  "id": "dlg_06C",
+  "en": "<FACE:02>To change the subject... doesn't Ms. Oyuki show up in this game?<WAIT><END>"
+ },
+ {
+  "id": "dlg_06D",
+  "en": "<FACE:02>The Maze of Trials?<WAIT> Never heard of it. Even Lady Dorothy might not know...<WAIT><END>"
+ },
+ {
+  "id": "dlg_06E",
+  "en": "<FACE:02>Oh, by the way, Mr. Rascal was muttering, \"Trials, trials...\"<WAIT><END>"
+ },
+ {
+  "id": "dlg_06F",
+  "en": "<FACE:02>Just between us, the Sage's Staff lets you use amazing magic.<WAIT><SCROLL><FACE:22> Only I can use it, though.<WAIT><END>"
+ },
+ {
+  "id": "dlg_070",
+  "en": "<FACE:02>I hear there are lots of rare items in the Maze of Trials.<WAIT><END>"
+ },
+ {
+  "id": "dlg_071",
+  "en": "<FACE:02>Oh, by the way, Mr. Rascal had a stuffed sparrow.<WAIT><END>"
+ },
+ {
+  "id": "dlg_072",
+  "en": "<FACE:12>Something's not right.<PAUSE> This must be a secret scenario!<WAIT><END>"
+ },
+ {
+  "id": "dlg_073",
+  "en": "<FACE:12>The teachers are gone!<PAUSE> Let's look for them together.<WAIT><END>"
+ },
+ {
+  "id": "dlg_074",
+  "en": "<FACE:12>A hole, here of all places...<PAUSE><FACE:A2> That's blatantly suspicious.<WAIT><END>"
+ },
+ {
+  "id": "dlg_075",
+  "en": "<FACE:02>Please wait!<PAUSE> I'm coming with you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0BE",
+  "en": "<FACE:05>First, we need to find out where the Holy Cup is...<WAIT><END>"
+ },
+ {
+  "id": "dlg_0BF",
+  "en": "<FACE:05>The Holy Cup?<WAIT><FACE:15> I don't know... I'm sorry!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0C0",
+  "en": "<FACE:15>Can we all graduate together?<WAIT><FACE:05> Oh,<PAUSE> I shouldn't lose heart already, should I?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0C1",
+  "en": "<FACE:35>A t-tomb? There aren't any ghosts, right? Right? Right?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0C2",
+  "en": "<FACE:25>You found out where the Holy Cup is? Then let's both do our best!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0C3",
+  "en": "<FACE:05>My secret ninja scroll<PAUSE> mentions Fly Shrooms too.<PAUSE> They're super rare,<PAUSE> almost<SCROLL> impossible to find!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0C4",
+  "en": "<FACE:05>There are<PAUSE> poison mushrooms and Gag Shrooms.<WAIT> Eating them is bad news!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0C5",
+  "en": "<FACE:25>How are things going? I hope we can all graduate together!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_0C6",
+  "en": "<FACE:25>Leave dark places to a ninja! Traps don't scare me, either!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0C7",
+  "en": "<FACE:25>If you'll have me, I'll help out. Let's do our best together!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0C8",
+  "en": "<FACE:05>Monster hunting? That sounds hard.<WAIT><CLR><FACE:15>I wish I could have helped you, as a ninja...<WAIT><END>"
+ },
+ {
+  "id": "dlg_0C9",
+  "en": "<FACE:25>Everyone,<PAUSE> how are things going?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0CA",
+  "en": "<FACE:45>Trapsalot Dungeon is<PAUSE> a dungeon full of traps!<WAIT><CLR><FACE:25><NICK2>,<PAUSE> please be careful!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0CB",
+  "en": "<FACE:25>Did you know?<PAUSE> With the Water Escape Art,<PAUSE> a ninja is just fine<SCROLL> even under the sea!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0CC",
+  "en": "<FACE:15>Umm... coral comes from the sea, right?<WAIT><FACE:25> Then<PAUSE> I bet Marin knows all about it!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0CD",
+  "en": "<FACE:05>It's not just Marin who knows the Coral Forest.<WAIT> I hear<PAUSE> Principal Urara does too!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0CE",
+  "en": "<FACE:25>What kind of place is the Coral Forest?<WAIT> I bet it's beautiful!<HEART><WAIT><CLR>I'd love to go there<PAUSE> with Shiine...<WAIT><FACE:55> Eek!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_0CF",
+  "en": "<FACE:25>Looks like everyone's working hard!<WAIT> I'd better do my best too!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_0D0",
+  "en": "<FACE:05>First, we need to find out where the Magic Forest is.<WAIT><END>"
+ },
+ {
+  "id": "dlg_0D1",
+  "en": "<FACE:15>Holy Water? I don't know... I'm sorry!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0D2",
+  "en": "<FACE:55>Skin care? I use my secret-recipe cucumber face mask!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0D3",
+  "en": "<FACE:05>I remember now!<WAIT> The Magic Forest is full of warp traps. We have to be careful!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0D4",
+  "en": "<FACE:05>The Magic Forest is a forest where people get lost. Watch out for the warp traps!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0D5",
+  "en": "<FACE:05>Let's work hard and graduate together!<WAIT> First, we need to find the Maze of Trials...<WAIT><END>"
+ },
+ {
+  "id": "dlg_0D6",
+  "en": "<FACE:05>Oh, by the way, Mr. Rascal was muttering, \"Guardian, guardian...\"<WAIT><END>"
+ },
+ {
+  "id": "dlg_0D7",
+  "en": "<FACE:05>After we graduate, we'll say goodbye to the teachers.<WAIT><FACE:15> That's kind of<PAUSE> sad...<WAIT><END>"
+ },
+ {
+  "id": "dlg_0D8",
+  "en": "<FACE:05>Huh? Doesn't the writing on this map look like Mr. Rascal's handwriting?<WAIT><END>"
+ },
+ {
+  "id": "dlg_0D9",
+  "en": "<FACE:15>Mr. Rascal was making something out of milk cartons!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0DA",
+  "en": "<FACE:25>Huh?<PAUSE> It's awfully,<PAUSE> awfully quiet...<WAIT><END>"
+ },
+ {
+  "id": "dlg_0DB",
+  "en": "<FACE:35>Nobody's here, it's scary!<WAIT> Please take me with you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_0DC",
+  "en": "<FACE:05>There's a hole here!<WAIT> It wasn't here before...<WAIT><END>"
+ },
+ {
+  "id": "dlg_0DD",
+  "en": "<FACE:35>I'm scared all by myself!<WAIT> Please take me with you!<WAIT><END>"
+ },
+ {
+  "id": "dlg_096",
+  "en": "<FACE:43>Move it, move it! I'm busy!<WAIT><END>"
+ },
+ {
+  "id": "dlg_076",
+  "en": "<FACE:03>The Holy Cup is an item that keeps you young forever...<WAIT><FACE:13> Or was it?<WAIT><END>"
+ },
+ {
+  "id": "dlg_077",
+  "en": "<CALL:$6F5E><CLR><FACE:03>I'm so busy I forget what I'm doing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_078",
+  "en": "<CALL:$6F5E><CLR><FACE:03>I'm off to a dungeon, you know!<WAIT><END>"
+ },
+ {
+  "id": "dlg_079",
+  "en": "<FACE:33>Eeek! What if a ghost comes out?!{drop}<WAIT><END>"
+ },
+ {
+  "id": "dlg_07A",
+  "en": "<CALL:$6F5E><CLR><FACE:03>What? No running in the halls?<WAIT><END>"
+ },
+ {
+  "id": "dlg_07B",
+  "en": "<FACE:13>Ehh?<PAUSE> A mushroom hunt?<WAIT> Sounds kind of<PAUSE> moldy.<PAUSE> I'm not in the mood.<WAIT><END>"
+ },
+ {
+  "id": "dlg_07C",
+  "en": "<FACE:03>Oh,<PAUSE> are you on a mushroom hunt?<WAIT><FACE:23> What a moldy thing to be doing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_07D",
+  "en": "<FACE:33>Oh nooo,<PAUSE> this assignment is pretty hard!<WAIT><FACE:13> Poor Marin!<WAIT><END>"
+ },
+ {
+  "id": "dlg_07E",
+  "en": "<FACE:13>Caves are<PAUSE> dark and scary.<PAUSE> I hate them!<WAIT><END>"
+ },
+ {
+  "id": "dlg_07F",
+  "en": "<FACE:23>Riiyaaa,<PAUSE> <NICK>'s so scaaared!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_080",
+  "en": "<FACE:43>Hey!<PAUSE> You want us to do something as hard as hunting monsters?<WAIT> Don't be ridiculous!<WAIT><END>"
+ },
+ {
+  "id": "dlg_081",
+  "en": "<FACE:03>Monster hunting?<PAUSE> What a reckless thing to do!<WAIT><END>"
+ },
+ {
+  "id": "dlg_082",
+  "en": "<FACE:23>I want to graduate fast<PAUSE> and go on a date with Riiya!<HEART><WAIT><CLR><FACE:53>Oh my,<PAUSE> Marin's blushing!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_083",
+  "en": "<FACE:13>Ugh...<PAUSE> dungeons are<PAUSE> so dark.<PAUSE> I hate them!<WAIT><END>"
+ },
+ {
+  "id": "dlg_084",
+  "en": "<FACE:13>Haaah,<PAUSE> I'm worn out.<WAIT><FACE:03> ...Oh,<PAUSE> did you defeat the monster?<WAIT><END>"
+ },
+ {
+  "id": "dlg_085",
+  "en": "<FACE:23>I'm a mermaid,<PAUSE> so the sea's my backyard, but<PAUSE> for <NICK2>,<PAUSE> it might be<SCROLL> a bit tough.<WAIT><END>"
+ },
+ {
+  "id": "dlg_086",
+  "en": "<FACE:23>Riiyaaa!<HEART><PAUSE> Under the sea, I'm the best there is!<WAIT> Marin will help you out!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_087",
+  "en": "<FACE:13>Pink Coral?<PAUSE> Sure, I know it...<PAUSE> but even I don't know where it is.<WAIT><CLR><FACE:23><PAUSE>...<PAUSE>Oh, come on!<PAUSE> I'm not being mean,<PAUSE> I really don't know!<WAIT><END>"
+ },
+ {
+  "id": "dlg_088",
+  "en": "<FACE:03>The Coral Forest?<PAUSE> Let's see...<WAIT><FACE:23> I think it's<PAUSE> near the Dragon Palace.<WAIT><CLR><FACE:13>But<PAUSE> there's an ugly<PAUSE> Umibozu sea monster there!<WAIT><END>"
+ },
+ {
+  "id": "dlg_089",
+  "en": "<FACE:03>The Umibozu in the Coral Forest<PAUSE> is strong!<WAIT> Bad swimmers might not stand a chance.<WAIT><END>"
+ },
+ {
+  "id": "dlg_08A",
+  "en": "<CLR><FACE:23>Of course,<PAUSE> for Riiya it'd be a piece of cake!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_08B",
+  "en": "<FACE:23>If I use Holy Water for skin care, it'll make me even more beautiful!<WAIT><FACE:63> Lucky!<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_08C",
+  "en": "<CALL:$6F5E><CLR><FACE:03>Just so you know, I'm not just making a fuss for nothing!<WAIT><END>"
+ },
+ {
+  "id": "dlg_08D",
+  "en": "<CALL:$6F5E><CLR><FACE:13>They say the poor have no time to rest, but I'm NOT poor!<WAIT><END>"
+ },
+ {
+  "id": "dlg_08E",
+  "en": "<FACE:03>Come on, let's get moving!<WAIT><FACE:13> Though the Magic Forest sounds kind of gloomy...<WAIT><END>"
+ },
+ {
+  "id": "dlg_08F",
+  "en": "<FACE:63>Ahh, a picnic with my darling Riiya!<HEART> Am I dreaming?<WAIT><END>"
+ },
+ {
+  "id": "dlg_090",
+  "en": "<CALL:$6F5E><CLR><FACE:73>.<PAUSE>.<PAUSE>.<PAUSE>I'm REALLY busy!<WAIT><END>"
+ },
+ {
+  "id": "dlg_091",
+  "en": "<FACE:33>The Maze of Trials sounds kind of scary... What will Marin do?<HEART><WAIT><END>"
+ },
+ {
+  "id": "dlg_092",
+  "en": "<CALL:$6F5E><CLR><FACE:A3>I don't have time to bother with you lot!<WAIT><END>"
+ },
+ {
+  "id": "dlg_093",
+  "en": "<CALL:$6F5E><CLR><FACE:23>Just kidding!<HEART> Right now I'm taking a little break.<WAIT><END>"
+ },
+ {
+  "id": "dlg_094",
+  "en": "<FACE:23>The guardian sounds scary!{drop} I'll cheer you on, so do your best on your own!<WAIT><END>"
+ },
+ {
+  "id": "dlg_095",
+  "en": "<FACE:03>Did you know?<PAUSE> Did you know?<PAUSE> Lately, Mr. Rascal's been polishing his whip skills!<WAIT><END>"
+ },
+ {
+  "id": "dlg_097",
+  "en": "<FACE:03>Something about this time<PAUSE> feels different, huh?<WAIT><END>"
+ },
+ {
+  "id": "dlg_098",
+  "en": "<FACE:13>Hey,<PAUSE> where did<PAUSE> the teachers go?<WAIT><END>"
+ },
+ {
+  "id": "dlg_099",
+  "en": "<FACE:A3>What?<PAUSE> This hole...<PAUSE> it's totally suspicious, isn't it?<WAIT><END>"
+ },
+ {
+  "id": "dlg_09A",
+  "en": "<FACE:63>Waaait!<PAUSE> Riiyaaa!<HEART><PAUSE> I'm coming with you!<HEART><WAIT><END>"
+ },
+ {
+  "id": "cmd_0",
+  "en": "Magic"
+ },
+ {
+  "id": "cmd_1",
+  "en": "Rush "
+ },
+ {
+  "id": "cmd_2",
+  "en": "Morph"
+ },
+ {
+  "id": "cmd_3",
+  "en": "Pot  "
+ },
+ {
+  "id": "cmd_4",
+  "en": "Brew "
+ },
+ {
+  "id": "cmd_5",
+  "en": "Ninja"
+ },
+ {
+  "id": "rank_words",
+  "en": "<HEX:00>Poor  So-so AlmostClose "
+ },
+ {
+  "id": "report_title",
+  "en": "- Report -"
+ },
+ {
+  "id": "report_parents",
+  "en": " To Parents "
+ },
+ {
+  "id": "bmenu_r1",
+  "en": " Magic    Run     "
+ },
+ {
+  "id": "bmenu_r2",
+  "en": " Left     Right   "
+ },
+ {
+  "id": "report_pts",
+  "en": "     pts. Urara"
+ },
+ {
+  "id": "gameover",
+  "en": "<HEX:01100500271f11012a1821151a>GAME OVER <HEX:022000026a>"
+ },
+ {
+  "id": "quest_0",
+  "en": "Get Holy Cup<END>",
+  "alt_long": "Bring back the Holy Cup"
+ },
+ {
+  "id": "quest_1",
+  "en": "Get mushroom<END>",
+  "alt_long": "Get a Fly Shroom"
+ },
+ {
+  "id": "quest_2",
+  "en": "Slay monster<END>",
+  "alt_long": "Slay the monsters"
+ },
+ {
+  "id": "quest_3",
+  "en": "Get Pink Coral<END>",
+  "alt_long": "Bring back Pink Coral"
+ },
+ {
+  "id": "quest_4",
+  "en": "Fetch water<END>",
+  "alt_long": "Draw some Holy Water"
+ },
+ {
+  "id": "quest_5",
+  "en": "KO guard<END>",
+  "alt_long": "Defeat the maze guardian"
+ },
+ {
+  "id": "pw_title",
+  "en": "-Diary Spell-"
+ },
+ {
+  "id": "pw_error",
+  "en": "Wrong Diary Spell!<NL>Please try again<HEART><HEX:21>"
+ },
+ {
+  "id": "title_new",
+  "en": "Start"
+ },
+ {
+  "id": "title_cont",
+  "en": "Resume"
+ },
+ {
+  "id": "orphan_06_7451",
+  "en": "<PAUSE><FACE:29>You guys too! Let's PARTY!<WAIT><END>"
+ },
+ {
+  "id": "nick_00",
+  "en": "ChaCha<END>"
+ },
+ {
+  "id": "nick_0C",
+  "en": "ChaCha<END>"
+ },
+ {
+  "id": "nick_42",
+  "en": "ChaCha<END>"
+ },
+ {
+  "id": "nick_01",
+  "en": "Riiya<END>"
+ },
+ {
+  "id": "nick_0D",
+  "en": "Dumb Dog<END>"
+ },
+ {
+  "id": "nick_13",
+  "en": "Riiya<HEART><END>"
+ },
+ {
+  "id": "nick_31",
+  "en": "Riiya<END>"
+ },
+ {
+  "id": "nick_1F",
+  "en": "Riiya<END>"
+ },
+ {
+  "id": "nick_2B",
+  "en": "Doggy<END>"
+ },
+ {
+  "id": "nick_02",
+  "en": "Shiine<END>"
+ },
+ {
+  "id": "nick_3E",
+  "en": "Shiine<END>"
+ },
+ {
+  "id": "nick_44",
+  "en": "Shiine<END>"
+ },
+ {
+  "id": "nick_03",
+  "en": "Marin<END>"
+ },
+ {
+  "id": "nick_0F",
+  "en": "Marin<END>"
+ },
+ {
+  "id": "nick_09",
+  "en": "Marin<END>"
+ },
+ {
+  "id": "nick_45",
+  "en": "Marin<END>"
+ },
+ {
+  "id": "nick_04",
+  "en": "Yakko<END>"
+ },
+ {
+  "id": "nick_34",
+  "en": "Yakko<END>"
+ },
+ {
+  "id": "nick_40",
+  "en": "Yakko<END>"
+ },
+ {
+  "id": "nick_46",
+  "en": "Yakko<END>"
+ },
+ {
+  "id": "nick_05",
+  "en": "Suzu<END>"
+ },
+ {
+  "id": "nick_3B",
+  "en": "Suzu<END>"
+ },
+ {
+  "id": "nick_35",
+  "en": "Suzu<END>"
+ },
+ {
+  "id": "nick_47",
+  "en": "Suzu<END>"
+ },
+ {
+  "id": "item_00",
+  "en": "Trophy<END>"
+ },
+ {
+  "id": "item_01",
+  "en": "Straw Cup<END>",
+  "short8": "Hay Cup"
+ },
+ {
+  "id": "item_02",
+  "en": "Wood Cup<END>"
+ },
+ {
+  "id": "item_03",
+  "en": "Clay Cup<END>"
+ },
+ {
+  "id": "item_04",
+  "en": "Holy Water<END>",
+  "short8": "Water"
+ },
+ {
+  "id": "item_05",
+  "en": "Holy Cup<END>"
+ },
+ {
+  "id": "item_06",
+  "en": "Water Gun<END>",
+  "short8": "Squirter"
+ },
+ {
+  "id": "item_07",
+  "en": "Lunchbox<END>"
+ },
+ {
+  "id": "item_08",
+  "en": "Canteen<END>"
+ },
+ {
+  "id": "item_09",
+  "en": "Gratitude<END>",
+  "short8": "Thanks"
+ },
+ {
+  "id": "item_0A",
+  "en": "Wing Kris<END>",
+  "short8": "Kris"
+ },
+ {
+  "id": "item_0B",
+  "en": "Selene Arrow<END>",
+  "short8": "Arrow"
+ },
+ {
+  "id": "item_0C",
+  "en": "Medallion<END>",
+  "short8": "Medal"
+ },
+ {
+  "id": "item_0D",
+  "en": "Sage's Staff<END>",
+  "short8": "Staff"
+ },
+ {
+  "id": "item_0E",
+  "en": "Bomb<END>"
+ },
+ {
+  "id": "item_0F",
+  "en": "Retake Pass<END>",
+  "short8": "Retake"
+ },
+ {
+  "id": "item_10",
+  "en": "Squid Ring<END>",
+  "short8": "Calamari"
+ },
+ {
+  "id": "item_11",
+  "en": "Stray Dog<END>",
+  "short8": "Stray"
+ },
+ {
+  "id": "item_12",
+  "en": "Ribon<END>"
+ },
+ {
+  "id": "item_13",
+  "en": "Yummy Cake<END>",
+  "short8": "Yum Cake"
+ },
+ {
+  "id": "item_14",
+  "en": "Shady Cake<END>",
+  "short8": "Odd Cake"
+ },
+ {
+  "id": "item_15",
+  "en": "Sweet Cake<END>",
+  "short8": "Sweets"
+ },
+ {
+  "id": "item_16",
+  "en": "Kotetsu<END>"
+ },
+ {
+  "id": "item_17",
+  "en": "Pillow<END>"
+ },
+ {
+  "id": "item_18",
+  "en": "Tent<END>"
+ },
+ {
+  "id": "item_19",
+  "en": "Calendar<END>"
+ },
+ {
+  "id": "item_1A",
+  "en": "Happy Treat<END>",
+  "short8": "Treat"
+ },
+ {
+  "id": "item_1B",
+  "en": "Exp Lassi<END>",
+  "short8": "Lassi"
+ },
+ {
+  "id": "item_1C",
+  "en": "Heal Herb<END>",
+  "short8": "Herb"
+ },
+ {
+  "id": "item_1D",
+  "en": "Guidebook<END>",
+  "short8": "Guide"
+ },
+ {
+  "id": "item_1E",
+  "en": "Controller<END>",
+  "short8": "Gamepad"
+ },
+ {
+  "id": "item_1F",
+  "en": "Shady Brew<END>",
+  "short8": "Odd Brew"
+ },
+ {
+  "id": "item_20",
+  "en": "Kickboard<END>",
+  "short8": "Board"
+ },
+ {
+  "id": "item_21",
+  "en": "Holy Sticker<END>",
+  "short8": "Sticker"
+ },
+ {
+  "id": "item_22",
+  "en": "Umbrella<END>"
+ },
+ {
+  "id": "item_23",
+  "en": "Coffee<END>"
+ },
+ {
+  "id": "item_24",
+  "en": "Lavender<END>"
+ },
+ {
+  "id": "item_25",
+  "en": "Cat Ears<END>"
+ },
+ {
+  "id": "item_26",
+  "en": "Turban Shell<END>",
+  "short8": "Shell"
+ },
+ {
+  "id": "item_27",
+  "en": "Empty Can<END>",
+  "short8": "Can"
+ },
+ {
+  "id": "item_28",
+  "en": "Fly Shroom<END>",
+  "short8": "Shroom"
+ },
+ {
+  "id": "item_29",
+  "en": "Gag Shroom<END>",
+  "short8": "Giggler"
+ },
+ {
+  "id": "item_2A",
+  "en": "Pink Coral<END>",
+  "short8": "Coral"
+ },
+ {
+  "id": "item_2B",
+  "en": "Odd Hammer<END>",
+  "short8": "Hammer"
+ },
+ {
+  "id": "item_2C",
+  "en": "Wood Plank<END>",
+  "short8": "Plank"
+ },
+ {
+  "id": "item_2D",
+  "en": "Mature Love<END>",
+  "short8": "Romance"
+ },
+ {
+  "id": "item_2E",
+  "en": "Big Love<END>"
+ },
+ {
+  "id": "item_2F",
+  "en": "Old Man<END>"
+ },
+ {
+  "id": "item_30",
+  "en": "Nap Veggie<END>",
+  "short8": "Veggie"
+ },
+ {
+  "id": "item_31",
+  "en": "Angry Anchor<END>",
+  "short8": "Anchor"
+ },
+ {
+  "id": "item_32",
+  "en": "Jump Shoes<END>",
+  "short8": "Hoppers"
+ },
+ {
+  "id": "item_33",
+  "en": "Sky Shoes<END>",
+  "short8": "Flyers"
+ },
+ {
+  "id": "item_34",
+  "en": "Pickle Stone<END>",
+  "short8": "Stone"
+ },
+ {
+  "id": "item_35",
+  "en": "Light Wall<END>",
+  "short8": "Barrier"
+ },
+ {
+  "id": "item_36",
+  "en": "Pouch<END>"
+ },
+ {
+  "id": "item_37",
+  "en": "Peddler Zap<END>",
+  "short8": "Zapper"
+ },
+ {
+  "id": "item_38",
+  "en": "Alarm Clock<END>",
+  "short8": "Alarm"
+ },
+ {
+  "id": "item_39",
+  "en": "Old Helmet<END>",
+  "short8": "Helmet"
+ },
+ {
+  "id": "item_3A",
+  "en": "Morph Wand<END>",
+  "short8": "Wand"
+ },
+ {
+  "id": "item_3B",
+  "en": "Star Earring<END>",
+  "short8": "Earring"
+ },
+ {
+  "id": "item_3C",
+  "en": "Mad Shroom<END>",
+  "short8": "Madcap"
+ },
+ {
+  "id": "item_3D",
+  "en": "Charm Hood<END>",
+  "short8": "Hood"
+ },
+ {
+  "id": "item_3E",
+  "en": "Extra Tiger<END>",
+  "short8": "Tiger"
+ },
+ {
+  "id": "item_3F",
+  "en": "Dud<END>"
+ },
+ {
+  "id": "name_00",
+  "en": "Gravestone<END>"
+ },
+ {
+  "id": "name_01",
+  "en": "Skeleton<END>"
+ },
+ {
+  "id": "name_02",
+  "en": "Bat<END>"
+ },
+ {
+  "id": "name_03",
+  "en": "Zombie Fawn<END>"
+ },
+ {
+  "id": "name_04",
+  "en": "Wraith<END>"
+ },
+ {
+  "id": "name_05",
+  "en": "Big Piggy<END>"
+ },
+ {
+  "id": "name_06",
+  "en": "Mid Piggy<END>"
+ },
+ {
+  "id": "name_07",
+  "en": "Wee Piggy<END>"
+ },
+ {
+  "id": "name_08",
+  "en": "Centipede<END>"
+ },
+ {
+  "id": "name_09",
+  "en": "Giant Rat<END>"
+ },
+ {
+  "id": "name_0A",
+  "en": "Bulky Boa<END>"
+ },
+ {
+  "id": "name_0B",
+  "en": "King Ant<END>"
+ },
+ {
+  "id": "name_0C",
+  "en": "Big Hippo<END>"
+ },
+ {
+  "id": "name_0D",
+  "en": "Stalactite<END>"
+ },
+ {
+  "id": "name_0E",
+  "en": "Beckon Hand<END>"
+ },
+ {
+  "id": "name_0F",
+  "en": "Shroom Lord<END>"
+ },
+ {
+  "id": "name_10",
+  "en": "Slacker<END>"
+ },
+ {
+  "id": "name_11",
+  "en": "Skele-Crew<END>"
+ },
+ {
+  "id": "name_12",
+  "en": "Lost Ogre<END>"
+ },
+ {
+  "id": "name_13",
+  "en": "Slugger<END>"
+ },
+ {
+  "id": "name_14",
+  "en": "Mecha Baby<END>"
+ },
+ {
+  "id": "name_15",
+  "en": "Sphinx Leg<END>"
+ },
+ {
+  "id": "name_16",
+  "en": "Shock Frog<END>"
+ },
+ {
+  "id": "name_17",
+  "en": "Shock Frog<END>"
+ },
+ {
+  "id": "name_18",
+  "en": "Lotta Octo<END>"
+ },
+ {
+  "id": "name_19",
+  "en": "Cyclojelly<END>"
+ },
+ {
+  "id": "name_1A",
+  "en": "Dress Orca<END>"
+ },
+ {
+  "id": "name_1B",
+  "en": "Tee Orca<END>"
+ },
+ {
+  "id": "name_1C",
+  "en": "Polo Orca<END>"
+ },
+ {
+  "id": "name_1D",
+  "en": "Sea Monkey<END>"
+ },
+ {
+  "id": "name_1E",
+  "en": "Rubberfish<END>"
+ },
+ {
+  "id": "name_1F",
+  "en": "Umibozu<END>"
+ },
+ {
+  "id": "name_20",
+  "en": "Curious Tree<END>"
+ },
+ {
+  "id": "name_21",
+  "en": "Dryad<END>"
+ },
+ {
+  "id": "name_22",
+  "en": "Forest Bear<END>"
+ },
+ {
+  "id": "name_23",
+  "en": "Wrath Grapes<END>"
+ },
+ {
+  "id": "name_24",
+  "en": "Magician<END>"
+ },
+ {
+  "id": "name_25",
+  "en": "Lost Knight<END>"
+ },
+ {
+  "id": "name_26",
+  "en": "Unicorn<END>"
+ },
+ {
+  "id": "name_27",
+  "en": "Snowdrop<END>"
+ },
+ {
+  "id": "name_28",
+  "en": "Wrong Way<END>"
+ },
+ {
+  "id": "name_29",
+  "en": "Mr. Sparrow<END>"
+ },
+ {
+  "id": "name_2A",
+  "en": "Oscar<END>"
+ },
+ {
+  "id": "name_2B",
+  "en": "Cycloghost<END>"
+ },
+ {
+  "id": "name_2C",
+  "en": "Plump Cherry<END>"
+ },
+ {
+  "id": "name_2D",
+  "en": "Raccoon<END>"
+ },
+ {
+  "id": "name_2E",
+  "en": "Milady<END>"
+ },
+ {
+  "id": "name_2F",
+  "en": "Mr. Rascal<END>"
+ },
+ {
+  "id": "name_30",
+  "en": "ChaCha<END>"
+ },
+ {
+  "id": "name_31",
+  "en": "Riiya<END>"
+ },
+ {
+  "id": "orphan_0E_57BE",
+  "en": "<FACE:41>I'm not a dog! I'm a WOLF!<WAIT><END>"
+ }
+]

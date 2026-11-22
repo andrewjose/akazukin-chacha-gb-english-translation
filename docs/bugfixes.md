@@ -1,0 +1,2 @@
+- dlg_172: original game CALLs bank06:$57BE (Rascal's tail of dlg_135, a bug). Inlined Riiya's intended reply (orphan_0E_57BE text). Main session 2026-11-22.
+- dlg_557: 'T h e   E n d' -> 'The End' (letter-spaced in source credits). Main session.
