@@ -1,6 +1,6 @@
 # Akazukin Chacha (GB, Tomy 1995) - naming glossary
 
-Reference rule (from Andrew): the ANIME is the reference. Official English wins wherever it exists;
+Reference rule: the ANIME is the reference. Official English wins wherever it exists;
 free translation only where none exists, marked "unofficial: reason".
 
 ## What official English exists (researched 2026-11-22)
